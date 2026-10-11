@@ -37,7 +37,7 @@ Turn Marv Goldberg's Apollo Theater show list (`uncamarvy.txt`, 1934–1969) int
    - genre share by year (streamgraph)
    - the DJ-revue era (1955+)
    - the house comedians' tenure
-5. **Housekeeping.** This folder is not a git repo; consider `git init`, with `.venv/` and probably `data/enrichment/batches/` ignored.
+5. ~~**Housekeeping.**~~ Done 2026-10-11: git repo at https://github.com/jdetmer04/apollo_theater_viz (branch `main`). `.gitignore` excludes `.venv/`, caches, and `data/enrichment/batches/`.
 
 ## Lessons and decisions (keep following these)
 - **Use Sonnet, not Haiku, for classification.** Haiku at 370 performers per batch defaulted to blanket rules (Ruth Brown and Lavern Baker as MC/DJ, Lionel Hampton as a dancer). It failed `pipeline/check_types.py` on every batch. Sonnet at about 245 per batch passed. Gate any new LLM batch with a checker before collecting it.
