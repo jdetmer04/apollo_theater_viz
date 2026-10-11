@@ -1,0 +1,232 @@
+<title>Apollo Bills 1934–1969</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600&display=swap">
+<style>
+  /* Layout: one centered column; marquee-condensed headings over quiet system-sans chart text. */
+  :root {
+    --page: #f6f5f2;
+    --surface: #fcfcfb;
+    --ink: #0b0b0b;
+    --ink-2: #52514e;
+    --muted: #898781;
+    --grid: #e1e0d9;
+    --ring: rgba(11, 11, 11, 0.10);
+    --marquee: #b3261e;
+    --s-regular: #2a78d6;
+    --s-dj: #eb6834;
+    --s-gospel: #1baf7a;
+    --s-dark: #c3c2b7;
+    --bar: #2a78d6;
+    --font-display: "Oswald", "Arial Narrow", "Roboto Condensed", system-ui, sans-serif;
+    --font-body: system-ui, -apple-system, "Segoe UI", sans-serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --page: #0d0d0d; --surface: #1a1a19; --ink: #ffffff; --ink-2: #c3c2b7; --muted: #898781;
+      --grid: #2c2c2a; --ring: rgba(255, 255, 255, 0.10); --marquee: #ef6b5f;
+      --s-regular: #3987e5; --s-dj: #d95926; --s-gospel: #199e70; --s-dark: #4a4a46; --bar: #3987e5;
+      color-scheme: dark;
+    }
+  }
+  :root[data-theme="dark"] {
+    --page: #0d0d0d; --surface: #1a1a19; --ink: #ffffff; --ink-2: #c3c2b7; --muted: #898781;
+    --grid: #2c2c2a; --ring: rgba(255, 255, 255, 0.10); --marquee: #ef6b5f;
+    --s-regular: #3987e5; --s-dj: #d95926; --s-gospel: #199e70; --s-dark: #4a4a46; --bar: #3987e5;
+    color-scheme: dark;
+  }
+
+  body { background: var(--page); color: var(--ink); font-family: var(--font-body); line-height: 1.5; }
+  .wrap { max-width: 980px; margin: 0 auto; padding-inline: 16px; padding-block: 32px 64px; display: grid; gap: 28px; }
+  header { display: grid; gap: 6px; }
+  .eyebrow { font-family: var(--font-display); text-transform: uppercase; letter-spacing: 0.12em; font-size: 13px; color: var(--marquee); font-weight: 600; }
+  h1, h2 { font-family: var(--font-display); font-weight: 600; text-wrap: balance; margin: 0; letter-spacing: 0.01em; }
+  h1 { font-size: clamp(30px, 6vw, 44px); line-height: 1.05; text-transform: uppercase; }
+  h2 { font-size: 22px; text-transform: uppercase; }
+  .lede { color: var(--ink-2); max-width: 65ch; margin: 0; }
+  .stats { display: flex; flex-wrap: wrap; gap: 6px 22px; color: var(--ink-2); font-size: 14px; margin: 4px 0 0; padding: 0; list-style: none; }
+  .stats b { color: var(--ink); font-weight: 600; }
+
+  section.card { background: var(--surface); border: 1px solid var(--ring); border-radius: 10px; padding: 20px; display: grid; gap: 14px; min-width: 0; }
+  .sub { color: var(--ink-2); font-size: 14px; margin: 0; max-width: 70ch; }
+
+  .legend { display: flex; flex-wrap: wrap; gap: 6px 18px; font-size: 13px; color: var(--ink-2); }
+  .legend span { display: inline-flex; align-items: center; gap: 6px; }
+  .legend i { width: 12px; height: 12px; border-radius: 3px; display: inline-block; }
+
+  .scroll { overflow-x: auto; }
+  .heat { display: grid; grid-template-columns: 38px repeat(53, 12px); gap: 2px; width: max-content; font-variant-numeric: tabular-nums; }
+  .heat .yl { font-size: 11px; color: var(--muted); line-height: 12px; text-align: right; padding-right: 6px; }
+  .heat .yl.dim { color: transparent; }
+  .heat .c { width: 12px; height: 12px; border-radius: 2px; }
+  .heat .c.on { cursor: crosshair; }
+  .heat .c.on:hover { outline: 2px solid var(--ink); outline-offset: 0; }
+  .heat .xl { font-size: 11px; color: var(--muted); grid-row: auto; white-space: nowrap; }
+
+  .bars { display: grid; gap: 6px; }
+  .row { display: grid; grid-template-columns: minmax(120px, 210px) 1fr 40px; gap: 10px; align-items: center; font-size: 14px; }
+  .row .nm { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .row .nm small { color: var(--muted); margin-left: 6px; font-size: 12px; }
+  .track { height: 14px; position: relative; }
+  .fill { height: 100%; background: var(--bar); border-radius: 0 4px 4px 0; }
+  .row .v { text-align: right; color: var(--ink-2); font-variant-numeric: tabular-nums; }
+  .row:hover .fill { filter: brightness(1.12); }
+  @media (max-width: 520px) { .row { grid-template-columns: minmax(96px, 1fr) 1.2fr 34px; } .row .nm small { display: none; } }
+
+  details { font-size: 14px; }
+  summary { cursor: pointer; color: var(--ink-2); }
+  summary:focus-visible { outline: 2px solid var(--marquee); outline-offset: 2px; }
+  table { border-collapse: collapse; font-variant-numeric: tabular-nums; margin-top: 10px; }
+  th, td { padding: 3px 12px 3px 0; text-align: right; border-bottom: 1px solid var(--grid); }
+  th:first-child, td:first-child { text-align: left; }
+  th { color: var(--muted); font-weight: 500; font-size: 12px; text-transform: uppercase; letter-spacing: 0.06em; }
+
+  #tip { position: fixed; pointer-events: none; z-index: 10; background: var(--surface); color: var(--ink); border: 1px solid var(--ring);
+         box-shadow: 0 6px 20px rgba(0,0,0,0.18); border-radius: 8px; padding: 8px 10px; font-size: 13px; max-width: 300px; }
+  #tip .t { font-weight: 600; }
+  #tip .m { color: var(--ink-2); }
+  footer { color: var(--muted); font-size: 13px; }
+  .err { color: var(--marquee); }
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">253 West 125th Street · Harlem</div>
+    <h1>Apollo Theater Bills, 1934–1969</h1>
+    <p class="lede">A test view of the structured dataset built from Marv Goldberg's show list. Each new bill opened on a Friday and usually ran a week.</p>
+    <ul class="stats" id="stats"><li>Loading apollo.json…</li></ul>
+  </header>
+
+  <section class="card" aria-labelledby="h-heat">
+    <h2 id="h-heat">Every week on the bill</h2>
+    <p class="sub">One square per opening, by year and week of the year. The theater went dark most summers, DJ rock &amp; roll revues arrive in 1955, and coverage thins after 1960 because the source list does.</p>
+    <div class="legend" id="legend"></div>
+    <div class="scroll"><div class="heat" id="heat" role="img" aria-label="Grid of Apollo bills by year and week, colored by show type"></div></div>
+    <details>
+      <summary>Show the counts as a table</summary>
+      <div class="scroll"><table id="ytable"></table></div>
+    </details>
+  </section>
+
+  <section class="card" aria-labelledby="h-top">
+    <h2 id="h-top">Most-billed acts</h2>
+    <p class="sub">The 25 acts on the most bills. The house comedians who worked nearly every week of the 1930s and 40s lead the list.</p>
+    <div class="bars" id="bars"></div>
+  </section>
+
+  <footer>Source: Marv Goldberg, <i>Apollo Theater Shows</i> (2019). Act types and genres are LLM-assisted; see performers.csv for confidence levels.</footer>
+</div>
+<div id="tip" hidden></div>
+
+<script>
+const TYPES = [
+  { key: "regular", label: "Variety bill", color: "var(--s-regular)" },
+  { key: "dj_revue", label: "DJ-hosted revue", color: "var(--s-dj)" },
+  { key: "gospel", label: "Gospel show", color: "var(--s-gospel)" },
+  { key: "dark", label: "Closed, film or play", color: "var(--s-dark)" },
+];
+const typeOf = t => (t === "regular" || t === "dj_revue" || t === "gospel") ? t : "dark";
+const TYPE_LABEL = { band: "band", vocalist: "vocalist", vocal_group: "vocal group", instrumentalist: "instrumentalist",
+  comedian: "comedian", comedy_team: "comedy team", dancer: "dancer", dance_team: "dance team", novelty: "novelty",
+  gospel: "gospel", mc_dj: "MC", actor: "actor", other: "other" };
+const fmtDate = iso => new Date(iso + "T12:00:00").toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+const tip = document.getElementById("tip");
+function showTip(html, x, y) {
+  tip.innerHTML = html; tip.hidden = false;
+  const r = tip.getBoundingClientRect();
+  const left = Math.min(x + 14, window.innerWidth - r.width - 8);
+  const top = y + 16 + r.height > window.innerHeight ? y - r.height - 12 : y + 16;
+  tip.style.left = Math.max(8, left) + "px"; tip.style.top = top + "px";
+}
+const hideTip = () => { tip.hidden = true; };
+
+function render(data) {
+  const P = data.performers, shows = data.shows;
+  const nApps = shows.reduce((n, s) => n + s.acts.length, 0);
+  document.getElementById("stats").innerHTML =
+    `<li><b>${shows.length.toLocaleString()}</b> bills</li><li><b>${Object.keys(P).length.toLocaleString()}</b> acts</li>` +
+    `<li><b>${nApps.toLocaleString()}</b> billings</li><li><b>${shows[0].date.slice(0, 4)}–${shows.at(-1).date.slice(0, 4)}</b></li>`;
+
+  // legend
+  const counts = {};
+  shows.forEach(s => { const k = typeOf(s.show_type); counts[k] = (counts[k] || 0) + 1; });
+  document.getElementById("legend").innerHTML = TYPES.map(t =>
+    `<span><i style="background:${t.color}"></i>${t.label} <span style="color:var(--muted)">${counts[t.key] || 0}</span></span>`).join("");
+
+  // heatmap: rows = years, cols = week of year
+  const years = [...new Set(shows.map(s => +s.date.slice(0, 4)))];
+  const y0 = years[0], y1 = years.at(-1);
+  const cell = {};
+  shows.forEach((s, i) => {
+    const d = new Date(s.date + "T12:00:00");
+    const doy = Math.floor((d - new Date(d.getFullYear(), 0, 1)) / 864e5);
+    const k = `${d.getFullYear()}-${Math.min(52, Math.floor(doy / 7))}`;
+    if (!(k in cell)) cell[k] = i;
+  });
+  const frag = [];
+  for (let y = y0; y <= y1; y++) {
+    frag.push(`<div class="yl${y % 5 ? " dim" : ""}">${y}</div>`);
+    for (let w = 0; w < 53; w++) {
+      const i = cell[`${y}-${w}`];
+      if (i === undefined) { frag.push(`<div class="c"></div>`); continue; }
+      const t = TYPES.find(t => t.key === typeOf(shows[i].show_type));
+      frag.push(`<div class="c on" data-i="${i}" style="background:${t.color}"></div>`);
+    }
+  }
+  frag.push(`<div></div>`);
+  const months = ["Jan", "Apr", "Jul", "Oct"];
+  for (let w = 0; w < 53; w++) {
+    const m = [0, 13, 26, 39].indexOf(w);
+    frag.push(m >= 0 ? `<div class="xl" style="grid-column: span 1">${months[m]}</div>` : `<div></div>`);
+  }
+  const heat = document.getElementById("heat");
+  heat.innerHTML = frag.join("");
+  heat.addEventListener("pointermove", e => {
+    const el = e.target.closest(".c.on");
+    if (!el) return hideTip();
+    const s = shows[+el.dataset.i];
+    const head = s.acts.filter(a => !a.featured_of).slice(0, 3).map(a => esc(P[a.performer_id]?.name || a.billed_as));
+    const kind = TYPES.find(t => t.key === typeOf(s.show_type)).label;
+    const extra = [s.host && `Host: ${esc(s.host)}`, s.package_title && esc(s.package_title), s.revue_title && `Revue: ${esc(s.revue_title)}`,
+                   s.held_over && "Held over"].filter(Boolean).join(" · ");
+    showTip(`<div class="t">${fmtDate(s.date)}</div><div class="m">${kind}${extra ? " · " + extra : ""}</div>` +
+            (head.length ? `<div>${head.join(", ")}${s.acts.length > 3 ? ` +${s.acts.length - 3} more` : ""}</div>` :
+             s.notes ? `<div class="m">${esc(s.notes)}</div>` : ""), e.clientX, e.clientY);
+  });
+  heat.addEventListener("pointerleave", hideTip);
+
+  // table view (per year)
+  const byYear = {};
+  shows.forEach(s => { const y = s.date.slice(0, 4); (byYear[y] ||= { regular: 0, dj_revue: 0, gospel: 0, dark: 0 })[typeOf(s.show_type)]++; });
+  document.getElementById("ytable").innerHTML =
+    `<thead><tr><th>Year</th>${TYPES.map(t => `<th>${t.label}</th>`).join("")}<th>Total</th></tr></thead><tbody>` +
+    Object.entries(byYear).map(([y, c]) => `<tr><td>${y}</td>${TYPES.map(t => `<td>${c[t.key]}</td>`).join("")}` +
+      `<td>${Object.values(c).reduce((a, b) => a + b, 0)}</td></tr>`).join("") + "</tbody>";
+
+  // top 25
+  const top = Object.entries(P).sort((a, b) => b[1].n_appearances - a[1].n_appearances).slice(0, 25);
+  const max = top[0][1].n_appearances;
+  const bars = document.getElementById("bars");
+  bars.innerHTML = top.map(([id, p]) =>
+    `<div class="row" data-id="${esc(id)}"><div class="nm">${esc(p.name)}<small>${TYPE_LABEL[p.act_type] || ""}</small></div>` +
+    `<div class="track"><div class="fill" style="width:${(p.n_appearances / max * 100).toFixed(1)}%"></div></div>` +
+    `<div class="v">${p.n_appearances}</div></div>`).join("");
+  bars.addEventListener("pointermove", e => {
+    const row = e.target.closest(".row");
+    if (!row) return hideTip();
+    const p = P[row.dataset.id];
+    const aka = (p.billed_as || []).filter(n => n !== p.name).slice(0, 3);
+    showTip(`<div class="t">${esc(p.name)}</div><div class="m">${p.first_date.slice(0, 4)}–${p.last_date.slice(0, 4)} · ${p.n_appearances} bills · ${p.n_headlines || 0} as headliner</div>` +
+            (p.genres ? `<div>${esc(p.genres.join(", "))}</div>` : "") +
+            (p.real_name ? `<div class="m">Real name: ${esc(p.real_name)}</div>` : "") +
+            (aka.length ? `<div class="m">Also billed as ${aka.map(esc).join(", ")}</div>` : ""), e.clientX, e.clientY);
+  });
+  bars.addEventListener("pointerleave", hideTip);
+}
+
+fetch("apollo.json").then(r => { if (!r.ok) throw new Error(r.status); return r.json(); }).then(render).catch(err => {
+  document.getElementById("stats").innerHTML = `<li class="err">Could not load apollo.json (${esc(err.message)}). Publish it next to this page.</li>`;
+});
+</script>

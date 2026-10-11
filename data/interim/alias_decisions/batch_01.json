@@ -1,0 +1,714 @@
+{
+ "merge": [
+  {
+   "canonical": "Ella Fitzgerald",
+   "variants": [
+    "Ella Fitzderald"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Erskine Hawkins",
+   "variants": [
+    "Ersikine Hawkins"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Sybil Lewis",
+   "variants": [
+    "Sybyil Lewis"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Billie Holiday",
+   "variants": [
+    "Billy Holiday",
+    "Billie Halliday",
+    "Billy Halliday"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Ink Spots",
+   "variants": [
+    "4 Ink Spots"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "John Bunn",
+   "variants": [
+    "John Bonn"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "John La Rue",
+   "variants": [
+    "Jack Larue"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Sarah Vaughan",
+   "variants": [
+    "Sarah Vaughn"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Moke & Poke",
+   "variants": [
+    "Coke & Poke"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Edwards Sisters",
+   "variants": [
+    "Edward Sisters",
+    "2 Edwards Sisters"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Jimmy Rushing",
+   "variants": [
+    "Jimmy Rusing"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "2 Zephyrs",
+   "variants": [
+    "2 Zephers"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Don Redman",
+   "variants": [
+    "Don Redmon Ork"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Burnham, Harris, & Scott",
+   "variants": [
+    "Harris, Burnham, & Scott",
+    "Burnean, Harris, & Scott"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "T-Bone Walker",
+   "variants": [
+    "\"Teabone\" Walker"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Myers & Walker",
+   "variants": [
+    "Myers & Walter"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Rosetta Tharpe",
+   "variants": [
+    "Sister Rosetta Tharpe",
+    "Sister Tharpe"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Jesse James",
+   "variants": [
+    "Jessie James"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Jesse, James, & Cornell",
+   "variants": [
+    "Jessie, James, & Cornell"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "International Sweethearts Of Rhythm",
+   "variants": [
+    "Sweethearts Of Rhythm",
+    "International Sweethearts Of Rhyhtm"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Berry Brothers",
+   "variants": [
+    "3 Berry Brothers"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Jimmie Mitchell",
+   "variants": [
+    "Jimmmie Mitchell"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Orlando Roberson",
+   "variants": [
+    "Orlando Robeson"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Peters Sisters",
+   "variants": [
+    "3 Peters Sisters"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Charlie Turner's Arcadians",
+   "variants": [
+    "Charlie Turner & Arcadians"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "3 Rhythm Kings",
+   "variants": [
+    "Rhythm Kings"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Bobbie Caston",
+   "variants": [
+    "Bobbie Gaston"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Fletcher Henderson",
+   "variants": [
+    "Fletcher Hendeson"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Blanche Calloway",
+   "variants": [
+    "Blanch Calloway Ork"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Norton & Margot",
+   "variants": [
+    "Norton & Margo"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Screamin' Jay Hawkins",
+   "variants": [
+    "Screaming Jay Hawkins"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Cowans' Musical Madcaps",
+   "variants": [
+    "Tramp Band",
+    "Al Cowans' Musical Madcaps",
+    "Cowans's Musical Madcaps",
+    "Cowan's Cyclonic Musical Madcaps"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "5 Crackerjacks",
+   "variants": [
+    "Crackerjacks",
+    "Cracker Jacks"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Bobby Evans",
+   "variants": [
+    "Bobbie Evans"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Ray Nance",
+   "variants": [
+    "Ray Mance"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Eddie Heywood",
+   "variants": [
+    "Eddie Heywood Combo",
+    "Eddie Haywood"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Lu Elliott",
+   "variants": [
+    "Lucy Elliott"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "McCain & Ross",
+   "variants": [
+    "McLain & Ross"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "George Hudson",
+   "variants": [
+    "Georgie Hudson Band"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Redd Foxx",
+   "variants": [
+    "Redd Fox"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Shorty Davis",
+   "variants": [
+    "Shorts Davis"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Ford, Marshall, & Jones",
+   "variants": [
+    "Ford, Marshall, & Janet"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Dot Saulters",
+   "variants": [
+    "Dotty Saulter",
+    "Dottie Saulters",
+    "Dol Saulters"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Ventriloquist Holmes",
+   "variants": [
+    "Holmes"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Sunset Royal Band",
+   "variants": [
+    "Sunset Royal Serenaders"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  },
+  {
+   "canonical": "Brown & Brown",
+   "variants": [
+    "Brown & Browm"
+   ],
+   "reason": "misspelling/alternate billing of same act"
+  }
+ ],
+ "keep_separate": [
+  [
+   "Charlie & Ray",
+   "Charlie Ray",
+   "Ray Charles",
+   "Charles Ray",
+   "Arlene, Charlie, & Ruby",
+   "Arlene, Charlie, & Ray"
+  ],
+  [
+   "Cook & Brown",
+   "Troy Brown",
+   "Brown & Beige",
+   "Rivers & Brown",
+   "Brown & Brown",
+   "Brown & Brown Trio",
+   "Ray Brown Trio",
+   "Brown Trio"
+  ],
+  [
+   "Drifters",
+   "Original Drifters",
+   "3 Drifters"
+  ],
+  [
+   "Ella Johnson",
+   "Bella Johnson"
+  ],
+  [
+   "Myra Johnson",
+   "Mae Johnson",
+   "Marv Johnson"
+  ],
+  [
+   "Flamingos",
+   "Modern Flamingos"
+  ],
+  [
+   "Big Maybelle",
+   "Maybelle"
+  ],
+  [
+   "Little Willie John",
+   "Little Willie"
+  ],
+  [
+   "Cadillacs",
+   "Original Cadillacs"
+  ],
+  [
+   "Burnham, Harris, & Scott",
+   "Harris & Scott"
+  ],
+  [
+   "Mills Brothers",
+   "3 Miller Brothers",
+   "Millen Brothers",
+   "Miller Brothers"
+  ],
+  [
+   "Mel Walker",
+   "T-Bone Walker",
+   "Arthur Walker",
+   "Myers & Walker",
+   "Walker & Walker",
+   "Kirby Walker"
+  ],
+  [
+   "Jesse James",
+   "Jesse & James",
+   "James & Cornell",
+   "Jesse, James, & Cornell",
+   "Jackson, James, & Cornell"
+  ],
+  [
+   "Willis Jackson",
+   "Willie Jackson"
+  ],
+  [
+   "Chantels",
+   "Channels"
+  ],
+  [
+   "Ace Harris",
+   "Alice Harris",
+   "Ace Harris Quartet"
+  ],
+  [
+   "Tap & Toe",
+   "Tip, Tap, & Toe"
+  ],
+  [
+   "Freddie & Flo",
+   "Al & Freddie"
+  ],
+  [
+   "Babe Wallace",
+   "Wallace Boys",
+   "Bob Wallace"
+  ],
+  [
+   "Olympics",
+   "3 Olympics"
+  ],
+  [
+   "Jimmie Smith",
+   "Jimmy Smith Trio",
+   "Jimmy Smith"
+  ],
+  [
+   "3 Kings",
+   "3 Rhythm Kings",
+   "13 Rhythm Kings",
+   "2 Speed Kings",
+   "3 Jungle Kings",
+   "2 Rhythm Kings",
+   "3 Speed Kings"
+  ],
+  [
+   "3 Rockets",
+   "Rolling Rockets",
+   "Rockets",
+   "3 Royal Rockets"
+  ],
+  [
+   "4 Kit Kats",
+   "2 Kit Kats"
+  ],
+  [
+   "Norton & Margot",
+   "Norton & Holley",
+   "Norton & Norton"
+  ],
+  [
+   "Harptones",
+   "Hamptones"
+  ],
+  [
+   "Eddie Heywood",
+   "Louis Bellson",
+   "Louis Bellson 5"
+  ],
+  [
+   "Eddie Heywood",
+   "Louis Bellson",
+   "Louis Bellson 5"
+  ],
+  [
+   "Miller Brothers & Lois",
+   "Miller Brothers & Ford"
+  ],
+  [
+   "Billy Banks",
+   "Billy Barnes"
+  ],
+  [
+   "Bobby Evans",
+   "Bob Evans"
+  ],
+  [
+   "Ventriloquist Holmes",
+   "George Holmes",
+   "Rubberneck Holmes"
+  ],
+  [
+   "Tim, George, & Vivian",
+   "Tim, Crack, & Vivian",
+   "Tim & Vivian"
+  ],
+  [
+   "Norma Miller Dancers",
+   "Norma Miller"
+  ]
+ ],
+ "reviewed": [
+  "Charlie & Ray",
+  "Charlie Ray",
+  "Ray Charles",
+  "Arlene, Charlie, & Ruby",
+  "Arlene, Charlie, & Ray",
+  "Charles Ray",
+  "Cook & Brown",
+  "Troy Brown",
+  "Brown & Beige",
+  "Rivers & Brown",
+  "Brown & Brown",
+  "Brown & Brown Trio",
+  "Ray Brown Trio",
+  "Brown & Browm",
+  "Brown Trio",
+  "Ella Fitzgerald",
+  "Ella Fitzderald",
+  "Erskine Hawkins",
+  "Ersikine Hawkins",
+  "Drifters",
+  "Original Drifters",
+  "3 Drifters",
+  "Ella Johnson",
+  "Bella Johnson",
+  "Myra Johnson",
+  "Mae Johnson",
+  "Marv Johnson",
+  "Sybil Lewis",
+  "Sybyil Lewis",
+  "Billie Holiday",
+  "Billie Halliday",
+  "Billy Holiday",
+  "Billy Halliday",
+  "4 Ink Spots",
+  "Ink Spots",
+  "John Bunn",
+  "John Bonn",
+  "Flamingos",
+  "Modern Flamingos",
+  "Big Maybelle",
+  "Maybelle",
+  "John La Rue",
+  "Jack Larue",
+  "Sarah Vaughan",
+  "Sarah Vaughn",
+  "Moke & Poke",
+  "Coke & Poke",
+  "Edwards Sisters",
+  "Edward Sisters",
+  "2 Edwards Sisters",
+  "Jimmy Rushing",
+  "Jimmy Rusing",
+  "Little Willie John",
+  "Little Willie",
+  "2 Zephyrs",
+  "2 Zephers",
+  "Cadillacs",
+  "Original Cadillacs",
+  "Don Redman Ork",
+  "Don Redmon Ork",
+  "Burnham, Harris, & Scott",
+  "Harris & Scott",
+  "Harris, Burnham, & Scott",
+  "Burnean, Harris, & Scott",
+  "Mills Brothers",
+  "3 Miller Brothers",
+  "Millen Brothers",
+  "Miller Brothers",
+  "Mel Walker",
+  "T-Bone Walker",
+  "Arthur Walker",
+  "Myers & Walker",
+  "Walker & Walker",
+  "\"Teabone\" Walker",
+  "Myers & Walter",
+  "Kirby Walker",
+  "Rosetta Tharpe",
+  "Sister Rosetta Tharpe",
+  "Sister Tharpe",
+  "Jesse James",
+  "Jesse & James",
+  "James & Cornell",
+  "Jessie James",
+  "Jessie, James, & Cornell",
+  "Jesse, James, & Cornell",
+  "Jackson, James, & Cornell",
+  "Willis Jackson",
+  "Willie Jackson",
+  "Chantels",
+  "Channels",
+  "Ace Harris",
+  "Alice Harris",
+  "Ace Harris Quartet",
+  "International Sweethearts Of Rhythm",
+  "Sweethearts Of Rhythm",
+  "International Sweethearts Of Rhyhtm",
+  "Berry Brothers",
+  "3 Berry Brothers",
+  "Jimmie Mitchell",
+  "Jimmmie Mitchell",
+  "Orlando Roberson",
+  "Orlando Robeson",
+  "Tap & Toe",
+  "Tip, Tap, & Toe",
+  "Freddie & Flo",
+  "Al & Freddie",
+  "3 Peters Sisters",
+  "Peters Sisters",
+  "Babe Wallace",
+  "Wallace Boys",
+  "Bob Wallace",
+  "Olympics",
+  "3 Olympics",
+  "Jimmie Smith",
+  "Jimmy Smith Trio",
+  "Jimmy Smith",
+  "Charlie Turner's Arcadians",
+  "Charlie Turner & Arcadians",
+  "3 Kings",
+  "3 Rhythm Kings",
+  "13 Rhythm Kings",
+  "Rhythm Kings",
+  "2 Speed Kings",
+  "3 Jungle Kings",
+  "2 Rhythm Kings",
+  "3 Speed Kings",
+  "Bobbie Caston",
+  "Bobbie Gaston",
+  "3 Rockets",
+  "Rolling Rockets",
+  "Rockets",
+  "3 Royal Rockets",
+  "4 Kit Kats",
+  "2 Kit Kats",
+  "Fletcher Henderson",
+  "Fletcher Hendeson",
+  "Blanche Calloway Ork",
+  "Blanch Calloway Ork",
+  "Norton & Margot",
+  "Norton & Margo",
+  "Norton & Holley",
+  "Norton & Norton",
+  "Screamin' Jay Hawkins",
+  "Screaming Jay Hawkins",
+  "Tramp Band",
+  "Cowans' Musical Madcaps",
+  "Al Cowans' Musical Madcaps",
+  "Cowans's Musical Madcaps",
+  "Cowan's Cyclonic Musical Madcaps",
+  "5 Crackerjacks",
+  "Crackerjacks",
+  "Cracker Jacks",
+  "Bobby Evans",
+  "Bob Evans",
+  "Bobbie Evans",
+  "Ray Nance",
+  "Ray Mance",
+  "Harptones",
+  "Hamptones",
+  "Eddie Heywood",
+  "Eddie Heywood Combo",
+  "Eddie Haywood",
+  "Louis Bellson",
+  "Louis Bellson 5",
+  "3 Brown Buddies",
+  "3 Buddies",
+  "4 Buddies",
+  "4 Budds",
+  "Lu Elliott",
+  "Lucy Elliott",
+  "McCain & Ross",
+  "McLain & Ross",
+  "Miller Brothers & Lois",
+  "Miller Brothers & Ford",
+  "Billy Banks",
+  "Billy Barnes",
+  "George Hudson Band",
+  "Georgie Hudson Band",
+  "Redd Foxx",
+  "Redd Fox",
+  "Shorts Davis",
+  "Shorty Davis",
+  "Ford, Marshall, & Jones",
+  "Ford, Marshall, & Janet",
+  "Dot Saulters",
+  "Dotty Saulter",
+  "Dottie Saulters",
+  "Dol Saulters",
+  "George Holmes",
+  "Rubberneck Holmes",
+  "Ventriloquist Holmes",
+  "Holmes",
+  "Tim, George, & Vivian",
+  "Tim, Crack, & Vivian",
+  "Tim & Vivian",
+  "Norma Miller Dancers",
+  "Norma Miller",
+  "Sunset Royal Band",
+  "Sunset Royal Serenaders"
+ ]
+}

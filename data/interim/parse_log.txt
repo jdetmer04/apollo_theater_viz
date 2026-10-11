@@ -1,0 +1,7 @@
+DROPPED line 1047: 'Billy Williams and Lopez & LaForte'
+DROPPED line 1048: 'Billy Williams and'
+DROPPED line 1049: 'Lopez & LaForte'
+DROPPED line 1149: 'From 6/2/50 thru 3/15/51, shows began on Thursday, not Friday'
+DROPPED line 1197: 'Goes back to shows beginning on Friday'
+DROPPED line 1777: 'At this point, the entries will get fewer and fewer, as my interest in the acts wanes. The list is not in any sense complete from here on.'
+DATE fixed line 1680: 1958-05-01 -> 1959-05-01

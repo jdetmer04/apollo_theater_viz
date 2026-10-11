@@ -1,0 +1,6277 @@
+{
+ "2-kit-kats": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "2-zephyrs": {
+  "confidence": "medium",
+  "genres": [
+   "tap",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "3-brown-buddies": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "3-brown-sisters": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "3-business-men-of-rhythm": {
+  "confidence": "medium",
+  "genres": [
+   "tap",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "3-chocolateers": {
+  "confidence": "medium",
+  "genres": [
+   "tap",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "3-dukes": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "3-giants-of-rhythm": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "3-keys": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "3-lang-sisters": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "3-leggers": {
+  "confidence": "low",
+  "genres": [
+   "novelty",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "3-little-words": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "3-miller-brothers": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "3-palmer-brothers": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "3-peppers": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "3-poms": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "3-rhythm-debs": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "3-rhythm-kings": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "3-rhythm-queens": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "3-riffs": {
+  "confidence": "medium",
+  "genres": [
+   "swing",
+   "vocal jazz",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "3-rockets": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "3-sams": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "3-sharps-and-a-flat": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "3-smith-sisters": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "3-tops": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "4-blazes": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "4-guys": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "4-keys": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "4-kit-kats": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "4-skating-macks": {
+  "confidence": "medium",
+  "genres": [
+   "novelty",
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "4-step-brothers": {
+  "confidence": "high",
+  "genres": [
+   "tap",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "4-tunes": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "pop",
+   "doo-wop"
+  ],
+  "source": "sonnet"
+ },
+ "5-crackerjacks": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "5-keys": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "5-royales": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "doo-wop",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "5-satins": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "r&b",
+   "rock & roll"
+  ],
+  "source": "sonnet"
+ },
+ "ace-harris": {
+  "confidence": "medium",
+  "genres": [
+   "big band",
+   "swing",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "ada-brown": {
+  "confidence": "medium",
+  "genres": [
+   "blues",
+   "swing",
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "addison-carey-s-chorus": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "al-hibbler": {
+  "confidence": "high",
+  "genres": [
+   "vocal jazz",
+   "r&b",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "al-jackson": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "doo-wop",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "al-sears": {
+  "confidence": "medium",
+  "genres": [
+   "jump blues",
+   "swing",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "alberta-perkins": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "blues",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "alberto-socarras": {
+  "confidence": "medium",
+  "genres": [
+   "latin",
+   "jazz",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "alex-bradford": {
+  "confidence": "high",
+  "genres": [
+   "gospel"
+  ],
+  "source": "sonnet"
+ },
+ "alice-harris": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "allen-drew": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "pop",
+   "doo-wop"
+  ],
+  "source": "sonnet"
+ },
+ "alma-hubbard": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "alma-smith": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "alston-and-young": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "amanda-randolph": {
+  "confidence": "low",
+  "genres": [
+   "vaudeville comedy",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "amos-milburn": {
+  "confidence": "high",
+  "genres": [
+   "jump blues",
+   "r&b",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "andy-kirk": {
+  "confidence": "high",
+  "genres": [
+   "big band",
+   "swing",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "anise-and-aland": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "anita-echols": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "ann-baker": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop",
+   "vocal jazz"
+  ],
+  "source": "sonnet"
+ },
+ "ann-cole": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "soul",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "ann-lewis": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "annie-laurie": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "jump blues",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "annisteen-allen": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "jump blues",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "apus-and-estrellita": {
+  "confidence": "high",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "apus-brooks": {
+  "confidence": "high",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "aristocrats-of-rhythm": {
+  "confidence": "low",
+  "genres": [
+   "jump blues",
+   "r&b",
+   "big band"
+  ],
+  "source": "sonnet"
+ },
+ "arnett-cobb": {
+  "confidence": "medium",
+  "genres": [
+   "jump blues",
+   "r&b",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "arnold-dover": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "art-blakey-and-jazz-messengers": {
+  "confidence": "high",
+  "genres": [
+   "cool/hard bop",
+   "jazz",
+   "bebop"
+  ],
+  "source": "sonnet"
+ },
+ "art-farmer-and-jazztet": {
+  "confidence": "high",
+  "genres": [
+   "cool/hard bop",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "arthur-prysock": {
+  "confidence": "medium",
+  "genres": [
+   "vocal jazz",
+   "r&b",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "arthur-simpkins": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "arthur-walker": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop",
+   "vocal jazz"
+  ],
+  "source": "sonnet"
+ },
+ "arvell-shaw": {
+  "confidence": "medium",
+  "genres": [
+   "jazz",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "atta-blake": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "avis-andrews": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "avon-long": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop",
+   "vocal jazz"
+  ],
+  "source": "sonnet"
+ },
+ "babe-matthews": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "babe-wallace": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop",
+   "vocal jazz"
+  ],
+  "source": "sonnet"
+ },
+ "baby-cox": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "baby-laurence": {
+  "confidence": "high",
+  "genres": [
+   "tap",
+   "bebop",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "baby-washington": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "soul",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "bardu-ali": {
+  "confidence": "low",
+  "genres": [
+   "vaudeville comedy",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "barrington-guy": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "beachcombers": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop",
+   "vocal jazz"
+  ],
+  "source": "sonnet"
+ },
+ "beale-street-boys": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "belle-powell": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "ben-e-king": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "soul",
+   "doo-wop"
+  ],
+  "source": "sonnet"
+ },
+ "bennie-green": {
+  "confidence": "medium",
+  "genres": [
+   "cool/hard bop",
+   "jazz",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "benny-carter": {
+  "confidence": "high",
+  "genres": [
+   "swing",
+   "big band",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "berry-brothers": {
+  "confidence": "high",
+  "genres": [
+   "tap",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "bert-howell-and-buddy-bowser": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "bert-howell-and-frank-radcliff": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "bessie-dudley": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "blues",
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "bessie-smith": {
+  "confidence": "medium",
+  "genres": [
+   "blues",
+   "jazz",
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "bette-mclaurin": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "jump blues",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "betty-carter": {
+  "confidence": "high",
+  "genres": [
+   "vocal jazz",
+   "jazz",
+   "bebop"
+  ],
+  "source": "sonnet"
+ },
+ "beverly-white": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop",
+   "vocal jazz"
+  ],
+  "source": "sonnet"
+ },
+ "big-joe-turner": {
+  "confidence": "high",
+  "genres": [
+   "jump blues",
+   "blues",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "big-maybelle": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "blues",
+   "soul"
+  ],
+  "source": "sonnet"
+ },
+ "big-time-crip": {
+  "confidence": "medium",
+  "genres": [
+   "tap",
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "bill-bailey": {
+  "confidence": "high",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "bill-cook": {
+  "confidence": "low",
+  "genres": [
+   "vaudeville comedy",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "bill-doggett": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "jazz",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "bill-robinson": {
+  "confidence": "high",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "billie-holiday": {
+  "confidence": "high",
+  "genres": [
+   "vocal jazz",
+   "jazz",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "billy-adams": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "jump blues",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "billy-and-eleanor-byrd": {
+  "confidence": "medium",
+  "genres": [
+   "tap",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "billy-and-evelyn-nightingale": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "billy-banks": {
+  "confidence": "medium",
+  "genres": [
+   "swing",
+   "jazz",
+   "vocal jazz"
+  ],
+  "source": "sonnet"
+ },
+ "billy-daniels": {
+  "confidence": "medium",
+  "genres": [
+   "pop",
+   "vocal jazz",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "billy-eckstine": {
+  "confidence": "high",
+  "genres": [
+   "vocal jazz",
+   "bebop",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "billy-wells-and-4-fays": {
+  "confidence": "medium",
+  "genres": [
+   "tap",
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "billy-williams": {
+  "confidence": "medium",
+  "genres": [
+   "tap",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "bixie-crawford": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "r&b",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "blanche-calloway": {
+  "confidence": "medium",
+  "genres": [
+   "swing",
+   "big band",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "blind-boys-of-mississippi": {
+  "confidence": "high",
+  "genres": [
+   "gospel"
+  ],
+  "source": "sonnet"
+ },
+ "blue-notes": {
+  "confidence": "low",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "bo-diddley": {
+  "confidence": "high",
+  "genres": [
+   "rock & roll",
+   "r&b",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "bob-bailey": {
+  "confidence": "low",
+  "genres": [
+   "jump blues",
+   "r&b",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "bob-howard": {
+  "confidence": "medium",
+  "genres": [
+   "swing",
+   "vocal jazz",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "bob-parish": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "pop",
+   "doo-wop"
+  ],
+  "source": "sonnet"
+ },
+ "bobbettes": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "rock & roll",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "bobbie-caston": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "exotic dance"
+  ],
+  "source": "sonnet"
+ },
+ "bobby-day": {
+  "confidence": "medium",
+  "genres": [
+   "rock & roll",
+   "r&b",
+   "doo-wop"
+  ],
+  "source": "sonnet"
+ },
+ "bobby-ephriam": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "bobby-evans": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "bobby-freeman": {
+  "confidence": "medium",
+  "genres": [
+   "rock & roll",
+   "r&b",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "bobby-lewis": {
+  "confidence": "medium",
+  "genres": [
+   "rock & roll",
+   "r&b",
+   "soul"
+  ],
+  "source": "sonnet"
+ },
+ "bobby-marchan": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "rock & roll",
+   "soul"
+  ],
+  "source": "sonnet"
+ },
+ "boyd-raeburn": {
+  "confidence": "high",
+  "genres": [
+   "big band",
+   "bebop",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "brook-benton": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "soul",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "brookins-and-van": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "brown-and-beige": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "brown-and-brown": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "buck-and-bubbles": {
+  "confidence": "high",
+  "genres": [
+   "tap",
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "buddy-doyle": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "buddy-griffin": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "buddy-johnson": {
+  "confidence": "high",
+  "genres": [
+   "jump blues",
+   "r&b",
+   "big band"
+  ],
+  "source": "sonnet"
+ },
+ "buddy-rich": {
+  "confidence": "high",
+  "genres": [
+   "big band",
+   "swing",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "bull-moose-jackson": {
+  "confidence": "high",
+  "genres": [
+   "jump blues",
+   "r&b",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "bunny-briggs": {
+  "confidence": "high",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "burnham-harris-and-scott": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "butterbeans-and-susie": {
+  "confidence": "high",
+  "genres": [
+   "vaudeville comedy",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "cab-calloway": {
+  "confidence": "high",
+  "genres": [
+   "big band",
+   "swing",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "cabineers": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop",
+   "vocal jazz"
+  ],
+  "source": "sonnet"
+ },
+ "cadillacs": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "r&b",
+   "rock & roll"
+  ],
+  "source": "sonnet"
+ },
+ "caleb-peterson": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "caravans": {
+  "confidence": "high",
+  "genres": [
+   "gospel"
+  ],
+  "source": "sonnet"
+ },
+ "cardinals": {
+  "confidence": "medium",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "carl-and-harriet": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "carmen-mcrae": {
+  "confidence": "high",
+  "genres": [
+   "vocal jazz",
+   "jazz",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "cat-anderson": {
+  "confidence": "high",
+  "genres": [
+   "big band",
+   "jazz",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "cats-and-the-fiddle": {
+  "confidence": "medium",
+  "genres": [
+   "swing",
+   "pop",
+   "vocal jazz"
+  ],
+  "source": "sonnet"
+ },
+ "cavaliers": {
+  "confidence": "low",
+  "genres": [
+   "doo-wop",
+   "r&b",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "cecil-mack-choir": {
+  "confidence": "low",
+  "genres": [
+   "gospel",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "cecil-scott": {
+  "confidence": "medium",
+  "genres": [
+   "big band",
+   "swing",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "channels": {
+  "confidence": "medium",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "chantels": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "r&b",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "charioteers": {
+  "confidence": "medium",
+  "genres": [
+   "pop",
+   "gospel",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "charles-brown": {
+  "confidence": "high",
+  "genres": [
+   "blues",
+   "r&b",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "charles-linton": {
+  "confidence": "medium",
+  "genres": [
+   "swing",
+   "vocal jazz",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "charlie-and-ray": {
+  "confidence": "high",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "charlie-barnet": {
+  "confidence": "high",
+  "genres": [
+   "big band",
+   "swing",
+   "bebop"
+  ],
+  "source": "sonnet"
+ },
+ "charlie-bristol": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "charlie-parker": {
+  "confidence": "high",
+  "genres": [
+   "bebop",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "charlie-ray": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "charlie-turner-s-arcadians": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "big band",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "charlie-ventura": {
+  "confidence": "high",
+  "genres": [
+   "jazz",
+   "bebop",
+   "big band"
+  ],
+  "source": "sonnet"
+ },
+ "charms": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "doo-wop"
+  ],
+  "source": "sonnet"
+ },
+ "charts": {
+  "confidence": "medium",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "chick-webb-ork": {
+  "confidence": "high",
+  "genres": [
+   "big band",
+   "swing",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "chilton-and-thomas": {
+  "confidence": "medium",
+  "genres": [
+   "tap",
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "chink-collins": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "cholly-and-dottie": {
+  "confidence": "medium",
+  "genres": [
+   "tap",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "chords": {
+  "confidence": "medium",
+  "genres": [
+   "doo-wop",
+   "r&b",
+   "rock & roll"
+  ],
+  "source": "sonnet"
+ },
+ "christine-clark": {
+  "confidence": "high",
+  "genres": [
+   "gospel"
+  ],
+  "source": "sonnet"
+ },
+ "chubby-jackson": {
+  "confidence": "high",
+  "genres": [
+   "big band",
+   "bebop",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "chubby-newsom": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "jump blues",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "chuck-and-chuckles": {
+  "confidence": "medium",
+  "genres": [
+   "tap",
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "chuck-berry": {
+  "confidence": "high",
+  "genres": [
+   "rock & roll",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "chuck-jackson": {
+  "confidence": "high",
+  "genres": [
+   "soul",
+   "r&b",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "chuck-richards": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop",
+   "vocal jazz"
+  ],
+  "source": "sonnet"
+ },
+ "clara-ward-singers": {
+  "confidence": "high",
+  "genres": [
+   "gospel"
+  ],
+  "source": "sonnet"
+ },
+ "clarence-henry": {
+  "confidence": "medium",
+  "genres": [
+   "rock & roll",
+   "r&b",
+   "novelty"
+  ],
+  "source": "sonnet"
+ },
+ "clark-brothers": {
+  "confidence": "medium",
+  "genres": [
+   "tap",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "claude-hopkins": {
+  "confidence": "high",
+  "genres": [
+   "big band",
+   "swing",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "claudia-mcneil": {
+  "confidence": "low",
+  "genres": [
+   "blues",
+   "vocal jazz",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "claudia-swann": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "blues",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "clay-tyson": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "cleftones": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "r&b",
+   "rock & roll"
+  ],
+  "source": "sonnet"
+ },
+ "clickettes": {
+  "confidence": "low",
+  "genres": [
+   "doo-wop",
+   "r&b",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "clintonian-cubs": {
+  "confidence": "low",
+  "genres": [
+   "doo-wop",
+   "rock & roll",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "clovers": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "r&b",
+   "rock & roll"
+  ],
+  "source": "sonnet"
+ },
+ "clyde-mcphatter": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "doo-wop",
+   "soul"
+  ],
+  "source": "sonnet"
+ },
+ "coasters": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "rock & roll",
+   "doo-wop"
+  ],
+  "source": "sonnet"
+ },
+ "coleman-hawkins": {
+  "confidence": "high",
+  "genres": [
+   "jazz",
+   "swing",
+   "bebop"
+  ],
+  "source": "sonnet"
+ },
+ "coles-and-atkins": {
+  "confidence": "high",
+  "genres": [
+   "tap",
+   "swing",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "congaroos": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "novelty"
+  ],
+  "source": "sonnet"
+ },
+ "contours": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "soul"
+  ],
+  "source": "sonnet"
+ },
+ "conway-and-parks": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "cook-and-brown": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "cookies": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "doo-wop"
+  ],
+  "source": "sonnet"
+ },
+ "cootie-williams": {
+  "confidence": "high",
+  "genres": [
+   "big band",
+   "jump blues",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "corsairs": {
+  "confidence": "medium",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "cotton-club-boys": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "count-basie": {
+  "confidence": "high",
+  "genres": [
+   "big band",
+   "swing",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "count-leroy": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "cowans-musical-madcaps": {
+  "confidence": "medium",
+  "genres": [
+   "novelty",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "cozy-cole": {
+  "confidence": "medium",
+  "genres": [
+   "swing",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "crackshot": {
+  "confidence": "high",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "crests": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "crip-heard": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "curley-hamner": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "dakota-staton": {
+  "confidence": "high",
+  "genres": [
+   "vocal jazz",
+   "r&b",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "danny-and-edith": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "davis-sisters": {
+  "confidence": "high",
+  "genres": [
+   "gospel"
+  ],
+  "source": "sonnet"
+ },
+ "debutantes": {
+  "confidence": "low",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "dee-clark": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "rock & roll"
+  ],
+  "source": "sonnet"
+ },
+ "dee-lloyd-mckay": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "deek-watson-and-brown-dots": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "pop",
+   "doo-wop"
+  ],
+  "source": "sonnet"
+ },
+ "deep-river-boys": {
+  "confidence": "medium",
+  "genres": [
+   "gospel",
+   "pop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "della-reese": {
+  "confidence": "high",
+  "genres": [
+   "vocal jazz",
+   "r&b",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "dells": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "derby-and-frenchy": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "derby-wilson": {
+  "confidence": "high",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "dewey-brown": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "dinah-washington": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "blues",
+   "vocal jazz"
+  ],
+  "source": "sonnet"
+ },
+ "dixie-hummingbirds": {
+  "confidence": "high",
+  "genres": [
+   "gospel"
+  ],
+  "source": "sonnet"
+ },
+ "dizzy-gillespie": {
+  "confidence": "high",
+  "genres": [
+   "bebop",
+   "big band"
+  ],
+  "source": "sonnet"
+ },
+ "doc-bagby": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "dolly-pembroke": {
+  "confidence": "low",
+  "genres": [
+   "pop",
+   "vocal jazz"
+  ],
+  "source": "sonnet"
+ },
+ "dolores-brown": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "dolores-parker": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "dominoes": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "doo-wop"
+  ],
+  "source": "sonnet"
+ },
+ "don-covay": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "soul"
+  ],
+  "source": "sonnet"
+ },
+ "don-redman": {
+  "confidence": "high",
+  "genres": [
+   "big band",
+   "swing",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "donnie-elbert": {
+  "confidence": "medium",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "dorothy-donegan": {
+  "confidence": "medium",
+  "genres": [
+   "jazz",
+   "boogie-woogie",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "dot-and-dash": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "dot-saulters": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "dottie-smith": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "drifters": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "doo-wop"
+  ],
+  "source": "sonnet"
+ },
+ "dubs": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "dud-bascomb": {
+  "confidence": "medium",
+  "genres": [
+   "jump blues",
+   "r&b",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "duke-ellington": {
+  "confidence": "high",
+  "genres": [
+   "big band",
+   "swing",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "duke-jenkins": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "duke-of-iron": {
+  "confidence": "high",
+  "genres": [
+   "calypso"
+  ],
+  "source": "sonnet"
+ },
+ "dunhills": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "doo-wop"
+  ],
+  "source": "sonnet"
+ },
+ "dusty-fletcher": {
+  "confidence": "high",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "dusty-fletcher-and-john-mason": {
+  "confidence": "high",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "dyerettes": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "dynamite-jefferson": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "earl-and-frances": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "earl-bostic": {
+  "confidence": "high",
+  "genres": [
+   "jump blues",
+   "r&b",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "earl-hines": {
+  "confidence": "high",
+  "genres": [
+   "big band",
+   "swing",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "earl-warren": {
+  "confidence": "medium",
+  "genres": [
+   "big band",
+   "r&b",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "earles": {
+  "confidence": "low",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "eartha-kitt": {
+  "confidence": "medium",
+  "genres": [
+   "pop",
+   "vocal jazz"
+  ],
+  "source": "sonnet"
+ },
+ "ebonaires": {
+  "confidence": "medium",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "ed-green": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "eddie-bonnemere": {
+  "confidence": "low",
+  "genres": [
+   "latin",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "eddie-cleanhead-vinson": {
+  "confidence": "high",
+  "genres": [
+   "jump blues",
+   "blues",
+   "bebop"
+  ],
+  "source": "sonnet"
+ },
+ "eddie-durham-s-all-girl-band": {
+  "confidence": "medium",
+  "genres": [
+   "swing",
+   "big band"
+  ],
+  "source": "sonnet"
+ },
+ "eddie-green": {
+  "confidence": "high",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "eddie-heywood": {
+  "confidence": "medium",
+  "genres": [
+   "swing",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "eddie-hunter": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "eddie-lockjaw-davis": {
+  "confidence": "high",
+  "genres": [
+   "cool/hard bop",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "eddie-mallory-ork": {
+  "confidence": "medium",
+  "genres": [
+   "swing",
+   "big band"
+  ],
+  "source": "sonnet"
+ },
+ "eddie-rector": {
+  "confidence": "high",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "eddie-rochester-anderson": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "eddie-south-ork": {
+  "confidence": "medium",
+  "genres": [
+   "swing",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "eddie-wilcox": {
+  "confidence": "medium",
+  "genres": [
+   "swing",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "edgar-hayes": {
+  "confidence": "medium",
+  "genres": [
+   "big band",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "edith-wilson": {
+  "confidence": "medium",
+  "genres": [
+   "blues",
+   "vaudeville comedy",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "edna-mae-harris": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "edna-mae-holly": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "edna-mcgriff": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "edwards-brothers": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "edwards-sisters": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "el-dorados": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "ella-fitzgerald": {
+  "confidence": "high",
+  "genres": [
+   "vocal jazz",
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "ella-johnson": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "emmett-mathews": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "big band"
+  ],
+  "source": "sonnet"
+ },
+ "ernie-fields": {
+  "confidence": "medium",
+  "genres": [
+   "big band",
+   "swing",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "erroll-garner": {
+  "confidence": "high",
+  "genres": [
+   "jazz",
+   "swing",
+   "cool/hard bop"
+  ],
+  "source": "sonnet"
+ },
+ "erskine-hawkins": {
+  "confidence": "high",
+  "genres": [
+   "big band",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "erskine-hawkins-and-bama-state-collegians": {
+  "confidence": "high",
+  "genres": [
+   "big band",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "essex-scott": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "ethel-waters": {
+  "confidence": "high",
+  "genres": [
+   "vocal jazz",
+   "blues",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "etta-james": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "eugene-church": {
+  "confidence": "medium",
+  "genres": [
+   "rock & roll",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "eunice-wilson": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "evelyn-keyes": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "falcons": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "soul",
+   "doo-wop"
+  ],
+  "source": "sonnet"
+ },
+ "fats-domino": {
+  "confidence": "high",
+  "genres": [
+   "rock & roll",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "fats-waller": {
+  "confidence": "high",
+  "genres": [
+   "swing",
+   "jazz",
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "faye-adams": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "fi-tones": {
+  "confidence": "medium",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "fidelitys": {
+  "confidence": "medium",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "fiestas": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "flamingos": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "flash-and-dash": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "flash-gordon": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "fletcher-henderson": {
+  "confidence": "high",
+  "genres": [
+   "big band",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "flournoy-miller": {
+  "confidence": "high",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "floyd-ryland": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "doo-wop"
+  ],
+  "source": "sonnet"
+ },
+ "floyd-smith": {
+  "confidence": "medium",
+  "genres": [
+   "swing",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "ford": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "ford-and-harris": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "ford-marshall-and-jones": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "foster-johnson": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "fouche-dancers": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "foxx-and-white": {
+  "confidence": "high",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "frances-brock": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "frances-burnett": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "frank-humphries": {
+  "confidence": "low",
+  "genres": [
+   "big band",
+   "swing",
+   "bebop"
+  ],
+  "source": "sonnet"
+ },
+ "frankie-lymon": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "rock & roll",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "freddie-and-flo": {
+  "confidence": "high",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "freddie-mitchell": {
+  "confidence": "medium",
+  "genres": [
+   "jump blues",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "freddie-robinson": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "g-clefs": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "gaines-brothers": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "gallie-de-gaston": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "gallie-degaston": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "gary-us-bonds": {
+  "confidence": "high",
+  "genres": [
+   "rock & roll",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "gatemouth-moore": {
+  "confidence": "medium",
+  "genres": [
+   "blues",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "gene-ammons": {
+  "confidence": "high",
+  "genres": [
+   "bebop",
+   "cool/hard bop",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "gene-and-eunice": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "rock & roll"
+  ],
+  "source": "sonnet"
+ },
+ "george-dewey-washington": {
+  "confidence": "medium",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "george-holmes": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "george-hudson": {
+  "confidence": "medium",
+  "genres": [
+   "big band",
+   "swing",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "george-kirby": {
+  "confidence": "high",
+  "genres": [
+   "novelty",
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "george-mcclennon": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "george-shearing": {
+  "confidence": "high",
+  "genres": [
+   "jazz",
+   "cool/hard bop"
+  ],
+  "source": "sonnet"
+ },
+ "george-williams": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "george-wiltshire": {
+  "confidence": "high",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "georgie-auld": {
+  "confidence": "medium",
+  "genres": [
+   "big band",
+   "swing",
+   "bebop"
+  ],
+  "source": "sonnet"
+ },
+ "gibsons": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "gilbert-atkins": {
+  "confidence": "medium",
+  "genres": [
+   "gospel"
+  ],
+  "source": "sonnet"
+ },
+ "gladys-bentley": {
+  "confidence": "medium",
+  "genres": [
+   "blues",
+   "novelty"
+  ],
+  "source": "sonnet"
+ },
+ "gladys-knight-and-pips": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "soul"
+  ],
+  "source": "sonnet"
+ },
+ "gladys-mike": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "glenn-and-jenkins": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "gloria-lynn": {
+  "confidence": "medium",
+  "genres": [
+   "vocal jazz",
+   "soul",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "golden-gate-quartet": {
+  "confidence": "high",
+  "genres": [
+   "gospel"
+  ],
+  "source": "sonnet"
+ },
+ "gospel-clefs": {
+  "confidence": "high",
+  "genres": [
+   "gospel"
+  ],
+  "source": "sonnet"
+ },
+ "gospelaires": {
+  "confidence": "high",
+  "genres": [
+   "gospel"
+  ],
+  "source": "sonnet"
+ },
+ "gwen-tynes": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "hadda-brooks": {
+  "confidence": "medium",
+  "genres": [
+   "boogie-woogie",
+   "blues",
+   "vocal jazz"
+  ],
+  "source": "sonnet"
+ },
+ "hal-singer": {
+  "confidence": "high",
+  "genres": [
+   "jump blues",
+   "r&b",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "hank-ballard-and-midnighters": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "rock & roll"
+  ],
+  "source": "sonnet"
+ },
+ "harlan-lattimore": {
+  "confidence": "medium",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "harlem-highlanders": {
+  "confidence": "medium",
+  "genres": [
+   "novelty"
+  ],
+  "source": "sonnet"
+ },
+ "harmonizing-four": {
+  "confidence": "high",
+  "genres": [
+   "gospel"
+  ],
+  "source": "sonnet"
+ },
+ "harold-king": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "harptones": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "harris-and-scott": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "harry-belafonte": {
+  "confidence": "high",
+  "genres": [
+   "calypso",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "harry-carney": {
+  "confidence": "high",
+  "genres": [
+   "big band",
+   "jazz",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "heartbeats": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "helen-humes": {
+  "confidence": "high",
+  "genres": [
+   "swing",
+   "vocal jazz",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "helen-stewart": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "helena-smith": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "henri-wessels": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "herb-lance": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "herbie-fields-band": {
+  "confidence": "medium",
+  "genres": [
+   "swing",
+   "bebop",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "herman-reed": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "hilda-perlino": {
+  "confidence": "low",
+  "genres": [
+   "exotic dance"
+  ],
+  "source": "sonnet"
+ },
+ "hilda-rogers": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "hines-kids": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "hollywood-flames": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "holmes-and-jean": {
+  "confidence": "high",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "honey-tones": {
+  "confidence": "low",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "honi-coles": {
+  "confidence": "high",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "hop-skip-and-jump": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "hortense-allen": {
+  "confidence": "low",
+  "genres": [
+   "exotic dance"
+  ],
+  "source": "sonnet"
+ },
+ "hot-lips-page": {
+  "confidence": "high",
+  "genres": [
+   "swing",
+   "jazz",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "howard-mcghee": {
+  "confidence": "high",
+  "genres": [
+   "bebop",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "howell-and-bowser": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "howell-and-radcliff": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "huey-smith-and-clowns": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "rock & roll",
+   "novelty"
+  ],
+  "source": "sonnet"
+ },
+ "ida-james": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "illinois-jacquet": {
+  "confidence": "high",
+  "genres": [
+   "jazz",
+   "swing",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "imperial-gospel-singers": {
+  "confidence": "high",
+  "genres": [
+   "gospel"
+  ],
+  "source": "sonnet"
+ },
+ "ink-spots": {
+  "confidence": "high",
+  "genres": [
+   "pop",
+   "r&b",
+   "doo-wop"
+  ],
+  "source": "sonnet"
+ },
+ "international-sweethearts-of-rhythm": {
+  "confidence": "high",
+  "genres": [
+   "big band",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "isley-bros": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "rock & roll",
+   "soul"
+  ],
+  "source": "sonnet"
+ },
+ "ivie-anderson": {
+  "confidence": "high",
+  "genres": [
+   "swing",
+   "vocal jazz",
+   "big band"
+  ],
+  "source": "sonnet"
+ },
+ "ivory-joe-hunter": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "jack-teagarden": {
+  "confidence": "high",
+  "genres": [
+   "swing",
+   "jazz",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "jackie-and-starlites": {
+  "confidence": "medium",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "jackie-petty": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "jackie-wilson": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "soul",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "james-moody": {
+  "confidence": "high",
+  "genres": [
+   "bebop",
+   "jazz",
+   "cool/hard bop"
+  ],
+  "source": "sonnet"
+ },
+ "janet-sayre": {
+  "confidence": "medium",
+  "genres": [
+   "exotic dance"
+  ],
+  "source": "sonnet"
+ },
+ "jay-smythe": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "jean-and-joan": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "jean-eldridge": {
+  "confidence": "medium",
+  "genres": [
+   "swing",
+   "vocal jazz"
+  ],
+  "source": "sonnet"
+ },
+ "jean-starr": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "jelly-roll-and-zuzu": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "jelly-smith": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "jeni-legon": {
+  "confidence": "high",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "jennie-dancy": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "jerry-and-turk": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "jerry-butler": {
+  "confidence": "high",
+  "genres": [
+   "soul",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "jerry-taps": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "jesse-and-james": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "jesse-cryor": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "jesse-james": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "jesse-stone-ork": {
+  "confidence": "medium",
+  "genres": [
+   "big band",
+   "swing",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "jesters": {
+  "confidence": "medium",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "jeter-pillars-band": {
+  "confidence": "medium",
+  "genres": [
+   "big band",
+   "swing",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "jigsaw-jackson": {
+  "confidence": "medium",
+  "genres": [
+   "novelty",
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "jim-wong-troupe": {
+  "confidence": "medium",
+  "genres": [
+   "novelty",
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "jimmie-lunceford": {
+  "confidence": "high",
+  "genres": [
+   "big band",
+   "swing",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "jimmie-mitchell": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "jump blues",
+   "vocal jazz"
+  ],
+  "source": "sonnet"
+ },
+ "jimmie-smith": {
+  "confidence": "low",
+  "genres": [
+   "novelty"
+  ],
+  "source": "sonnet"
+ },
+ "jimmy-baskett": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "jimmy-grissom": {
+  "confidence": "medium",
+  "genres": [
+   "vocal jazz",
+   "swing",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "jimmy-ricks": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "doo-wop"
+  ],
+  "source": "sonnet"
+ },
+ "jimmy-rushing": {
+  "confidence": "high",
+  "genres": [
+   "blues",
+   "swing",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "jimmy-tyler-band": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "jivadeers": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "vocal jazz"
+  ],
+  "source": "sonnet"
+ },
+ "jo-ann-campbell": {
+  "confidence": "medium",
+  "genres": [
+   "rock & roll",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "joe-byrd": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "joe-carroll": {
+  "confidence": "high",
+  "genres": [
+   "bebop",
+   "vocal jazz"
+  ],
+  "source": "sonnet"
+ },
+ "joe-chisolm": {
+  "confidence": "low",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "joe-liggins-and-honeydrippers": {
+  "confidence": "high",
+  "genres": [
+   "jump blues",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "joe-loco": {
+  "confidence": "high",
+  "genres": [
+   "latin",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "joe-louis": {
+  "confidence": "low",
+  "genres": [
+   "novelty"
+  ],
+  "source": "sonnet"
+ },
+ "joe-medlin": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "joe-morris-ork": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "joe-smothers": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "joe-tex": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "soul"
+  ],
+  "source": "sonnet"
+ },
+ "joe-thomas": {
+  "confidence": "medium",
+  "genres": [
+   "swing",
+   "jump blues",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "joe-williams": {
+  "confidence": "high",
+  "genres": [
+   "vocal jazz",
+   "blues",
+   "big band"
+  ],
+  "source": "sonnet"
+ },
+ "john-bunn": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "john-kirby": {
+  "confidence": "high",
+  "genres": [
+   "swing",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "john-la-rue": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "johnnie-and-joe": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "johnny-and-george": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "johnny-hartman": {
+  "confidence": "high",
+  "genres": [
+   "vocal jazz",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "johnny-hodges": {
+  "confidence": "high",
+  "genres": [
+   "jazz",
+   "swing",
+   "big band"
+  ],
+  "source": "sonnet"
+ },
+ "johnny-hudgins": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy",
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "johnny-lee": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "johnny-lee-long-and-pigmeat": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "johnny-moore-s-3-blazers": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "blues",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "johnny-otis": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "jump blues",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "johnny-taylor": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "johnny-vigal": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "jordanettes": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "josephine-hall": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "joyner-and-foster": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "jr": {
+  "confidence": "low",
+  "genres": [
+   "pop",
+   "vocal jazz"
+  ],
+  "source": "sonnet"
+ },
+ "juan-tizol": {
+  "confidence": "high",
+  "genres": [
+   "big band",
+   "swing",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "juanita-pitts": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "juano-hernandez": {
+  "confidence": "low",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "judy-carol": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "julia-gardner": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "june-richmond": {
+  "confidence": "medium",
+  "genres": [
+   "swing",
+   "blues",
+   "novelty"
+  ],
+  "source": "sonnet"
+ },
+ "kathryn-perry": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "kay-davis": {
+  "confidence": "medium",
+  "genres": [
+   "vocal jazz",
+   "big band"
+  ],
+  "source": "sonnet"
+ },
+ "king-cole-trio": {
+  "confidence": "high",
+  "genres": [
+   "jazz",
+   "swing",
+   "vocal jazz"
+  ],
+  "source": "sonnet"
+ },
+ "king-coleman": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "rock & roll"
+  ],
+  "source": "sonnet"
+ },
+ "king-odom-four": {
+  "confidence": "medium",
+  "genres": [
+   "jump blues",
+   "r&b",
+   "vocal jazz"
+  ],
+  "source": "sonnet"
+ },
+ "kitty-murray": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "kodoks": {
+  "confidence": "medium",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "lambert-hendricks-and-ross": {
+  "confidence": "high",
+  "genres": [
+   "vocal jazz",
+   "bebop",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "larks": {
+  "confidence": "medium",
+  "genres": [
+   "doo-wop",
+   "r&b",
+   "gospel"
+  ],
+  "source": "sonnet"
+ },
+ "larry-darnell": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "larry-williams": {
+  "confidence": "high",
+  "genres": [
+   "rock & roll",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "laura-washington": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "laurel-watson": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "lavern-baker": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "rock & roll",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "lee-andrews-and-hearts": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "lee-richardson": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "lena-horne": {
+  "confidence": "high",
+  "genres": [
+   "vocal jazz",
+   "pop",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "leon-collins": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "leon-ketchum": {
+  "confidence": "low",
+  "genres": [
+   "jump blues",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "leonard-and-leonard": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "leonard-reed": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy",
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "leroy-smith-ork": {
+  "confidence": "medium",
+  "genres": [
+   "big band",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "les-hite": {
+  "confidence": "high",
+  "genres": [
+   "big band",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "leslie-uggams": {
+  "confidence": "medium",
+  "genres": [
+   "pop",
+   "vocal jazz"
+  ],
+  "source": "sonnet"
+ },
+ "lethia-hill": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "lewis-and-van": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "lewis-and-white": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "lightning-flashes": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "lil-green": {
+  "confidence": "high",
+  "genres": [
+   "blues",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "lil-greenwood": {
+  "confidence": "medium",
+  "genres": [
+   "blues",
+   "r&b",
+   "big band"
+  ],
+  "source": "sonnet"
+ },
+ "linda-hopkins": {
+  "confidence": "medium",
+  "genres": [
+   "blues",
+   "r&b",
+   "gospel"
+  ],
+  "source": "sonnet"
+ },
+ "lionel-hampton": {
+  "confidence": "high",
+  "genres": [
+   "big band",
+   "swing",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "little-anthony-and-imperials": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "r&b",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "little-esther": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "little-jimmy-scott": {
+  "confidence": "high",
+  "genres": [
+   "vocal jazz",
+   "r&b",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "little-joe": {
+  "confidence": "medium",
+  "genres": [
+   "doo-wop",
+   "rock & roll"
+  ],
+  "source": "sonnet"
+ },
+ "little-richard": {
+  "confidence": "high",
+  "genres": [
+   "rock & roll",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "little-willie": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "little-willie-john": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "soul",
+   "rock & roll"
+  ],
+  "source": "sonnet"
+ },
+ "lloyd-price": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "rock & roll",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "long-and-short": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "los-gatos": {
+  "confidence": "low",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "louis-armstrong": {
+  "confidence": "high",
+  "genres": [
+   "jazz",
+   "big band",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "louis-bellson": {
+  "confidence": "high",
+  "genres": [
+   "big band",
+   "jazz",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "louis-jordan": {
+  "confidence": "high",
+  "genres": [
+   "jump blues",
+   "r&b",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "louis-prima": {
+  "confidence": "high",
+  "genres": [
+   "swing",
+   "big band",
+   "novelty"
+  ],
+  "source": "sonnet"
+ },
+ "louise-beavers": {
+  "confidence": "low",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "louise-mccarroll": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "lovey-lane": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "lu-elliott": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "lucky-millinder": {
+  "confidence": "high",
+  "genres": [
+   "big band",
+   "swing",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "lucky-millinder-and-mills-blue-rhythm-band": {
+  "confidence": "high",
+  "genres": [
+   "big band",
+   "swing",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "lucky-sisters": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "luis-russell": {
+  "confidence": "high",
+  "genres": [
+   "big band",
+   "swing",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "mabel-scott": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "blues",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "maceo-woods": {
+  "confidence": "high",
+  "genres": [
+   "gospel"
+  ],
+  "source": "sonnet"
+ },
+ "machito": {
+  "confidence": "high",
+  "genres": [
+   "latin",
+   "jazz",
+   "big band"
+  ],
+  "source": "sonnet"
+ },
+ "madeline-belt": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "madeline-greene": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "mae-diggs": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "mae-johnson": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "mambo-aces": {
+  "confidence": "medium",
+  "genres": [
+   "latin",
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "manhattan-debs": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "jump blues",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "manhattan-paul": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "mantan-moreland": {
+  "confidence": "high",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "mantan-moreland-and-flournoy-miller": {
+  "confidence": "high",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "marcels": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "rock & roll"
+  ],
+  "source": "sonnet"
+ },
+ "margaret-simms": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "margie-day": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "margie-mcglory": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "marie-knight": {
+  "confidence": "high",
+  "genres": [
+   "gospel",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "marshall-rogers": {
+  "confidence": "low",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "marv-johnson": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "soul",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "marvelettes": {
+  "confidence": "high",
+  "genres": [
+   "soul",
+   "r&b",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "mary-ann-mccall": {
+  "confidence": "medium",
+  "genres": [
+   "vocal jazz",
+   "swing",
+   "big band"
+  ],
+  "source": "sonnet"
+ },
+ "mary-bruce-dancing-girls": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "mary-lou-williams": {
+  "confidence": "high",
+  "genres": [
+   "jazz",
+   "swing",
+   "bebop"
+  ],
+  "source": "sonnet"
+ },
+ "maude-russell": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "max-roach": {
+  "confidence": "high",
+  "genres": [
+   "bebop",
+   "cool/hard bop",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "maxie-armstrong": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "maxine-brown": {
+  "confidence": "high",
+  "genres": [
+   "soul",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "maxine-sullivan": {
+  "confidence": "high",
+  "genres": [
+   "swing",
+   "vocal jazz",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "may-alix": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "mccain-and-ross": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "mcharris-and-dolores": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "mel-walker": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "mickey-and-sylvia": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "rock & roll"
+  ],
+  "source": "sonnet"
+ },
+ "midge-williams": {
+  "confidence": "medium",
+  "genres": [
+   "swing",
+   "vocal jazz"
+  ],
+  "source": "sonnet"
+ },
+ "miguelito-valdes": {
+  "confidence": "high",
+  "genres": [
+   "latin"
+  ],
+  "source": "sonnet"
+ },
+ "miles-davis": {
+  "confidence": "high",
+  "genres": [
+   "cool/hard bop",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "miller-and-mantan": {
+  "confidence": "high",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "miller-brothers-and-lois": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "miller-sisters": {
+  "confidence": "low",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "millie-and-billie": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "mills-brothers": {
+  "confidence": "high",
+  "genres": [
+   "vocal jazz",
+   "pop",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "miracles": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "soul",
+   "doo-wop"
+  ],
+  "source": "sonnet"
+ },
+ "mitchell-and-gibson": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "moke-and-poke": {
+  "confidence": "high",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "moms-mabley": {
+  "confidence": "high",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "monte-hawley": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "moonglows": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "moore-and-byrd": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "myers-and-walker": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "myra-johnson": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "nappy-brown": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "nat-towles-band": {
+  "confidence": "medium",
+  "genres": [
+   "big band",
+   "swing",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "nellie-lutcher": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "boogie-woogie",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "nicholas-brothers": {
+  "confidence": "high",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "nicodemus": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "nightingales": {
+  "confidence": "high",
+  "genres": [
+   "gospel"
+  ],
+  "source": "sonnet"
+ },
+ "nina-mae-mckinney": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "nipsey-russell": {
+  "confidence": "high",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "noble-sissle": {
+  "confidence": "high",
+  "genres": [
+   "big band",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "nolan-lewis": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "norma-miller-dancers": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "norman-and-blake": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "norman-astwood": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "norton-and-margot": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "olivette-miller": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "olympics": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "r&b",
+   "novelty"
+  ],
+  "source": "sonnet"
+ },
+ "orioles": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "orlando-roberson": {
+  "confidence": "medium",
+  "genres": [
+   "swing",
+   "pop",
+   "vocal jazz"
+  ],
+  "source": "sonnet"
+ },
+ "oscar-newman": {
+  "confidence": "low",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "otto-eason": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "paragons": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "patterson-and-jackson": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "paul-breckenridge": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "paul-white": {
+  "confidence": "low",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "paul-williams": {
+  "confidence": "medium",
+  "genres": [
+   "jump blues",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "pauline-edwards": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "pearl-bailey": {
+  "confidence": "high",
+  "genres": [
+   "vocal jazz",
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "pearl-baines": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "pearls": {
+  "confidence": "medium",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "peck-and-peck": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "peckin-joe": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "peg-leg-bates": {
+  "confidence": "high",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "peggy-thomas": {
+  "confidence": "low",
+  "genres": [
+   "pop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "pete-nugent": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "pete-peaches-and-duke": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "peters-sisters": {
+  "confidence": "medium",
+  "genres": [
+   "swing",
+   "vocal jazz",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "pha-terrell": {
+  "confidence": "medium",
+  "genres": [
+   "swing",
+   "pop",
+   "vocal jazz"
+  ],
+  "source": "sonnet"
+ },
+ "phillip-forte-dancers": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "exotic dance"
+  ],
+  "source": "sonnet"
+ },
+ "phyllis-branch": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "pigmeat-markham": {
+  "confidence": "high",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "pops-and-louie": {
+  "confidence": "high",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "prairie-view-college-co-eds": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "big band"
+  ],
+  "source": "sonnet"
+ },
+ "professor-herman-stevens": {
+  "confidence": "medium",
+  "genres": [
+   "gospel"
+  ],
+  "source": "sonnet"
+ },
+ "radcliffe-and-rogers": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "ralph-brown": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "ralph-cooper": {
+  "confidence": "low",
+  "genres": [
+   "vaudeville comedy",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "rasberry-singers": {
+  "confidence": "high",
+  "genres": [
+   "gospel"
+  ],
+  "source": "sonnet"
+ },
+ "rastus-murray": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "ravens": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "ray-and-rae": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "ray-charles": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "soul",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "ray-moore": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "ray-nance": {
+  "confidence": "high",
+  "genres": [
+   "jazz",
+   "swing",
+   "big band"
+  ],
+  "source": "sonnet"
+ },
+ "red-allen": {
+  "confidence": "medium",
+  "genres": [
+   "jazz",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "red-and-curley": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "red-and-struggie": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "red-caps": {
+  "confidence": "medium",
+  "genres": [
+   "jump blues",
+   "r&b",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "red-prysock": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "jump blues",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "redd-foxx": {
+  "confidence": "high",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "redd-lyte": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "reuben-phillips": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "soul",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "rhythm-willie": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "rimmer-sisters": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "robert-and-johnny": {
+  "confidence": "medium",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "roland-holder": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "roll-and-tapp": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "rose-hardaway": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "rosetta-tharpe": {
+  "confidence": "high",
+  "genres": [
+   "gospel",
+   "blues",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "roy-brown": {
+  "confidence": "high",
+  "genres": [
+   "jump blues",
+   "r&b",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "roy-eldridge": {
+  "confidence": "high",
+  "genres": [
+   "jazz",
+   "swing",
+   "big band"
+  ],
+  "source": "sonnet"
+ },
+ "roy-hamilton": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "pop",
+   "soul"
+  ],
+  "source": "sonnet"
+ },
+ "roy-milton": {
+  "confidence": "high",
+  "genres": [
+   "jump blues",
+   "r&b",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "roy-white": {
+  "confidence": "low",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "rubberlegs-williams": {
+  "confidence": "medium",
+  "genres": [
+   "blues",
+   "jazz",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "rubel-blakely": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "big band"
+  ],
+  "source": "sonnet"
+ },
+ "ruby-elzy": {
+  "confidence": "low",
+  "genres": [
+   "pop",
+   "gospel"
+  ],
+  "source": "sonnet"
+ },
+ "ruth-brown": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "blues",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "ruth-mcfadden": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "soul"
+  ],
+  "source": "sonnet"
+ },
+ "sabby-lewis": {
+  "confidence": "medium",
+  "genres": [
+   "swing",
+   "big band",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "sahji": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "exotic dance"
+  ],
+  "source": "sonnet"
+ },
+ "sally-blair": {
+  "confidence": "low",
+  "genres": [
+   "pop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "salt-and-pepper": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "sam-cooke": {
+  "confidence": "high",
+  "genres": [
+   "soul",
+   "r&b",
+   "gospel"
+  ],
+  "source": "sonnet"
+ },
+ "sam-taylor": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "sam-theard": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "sammy-davis-jr": {
+  "confidence": "high",
+  "genres": [
+   "pop",
+   "vocal jazz",
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "sammy-hinds": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "sandy-apus-and-george": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "sandy-burns": {
+  "confidence": "high",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "sarah-vaughan": {
+  "confidence": "high",
+  "genres": [
+   "vocal jazz",
+   "bebop",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "satch-and-satchel": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "savannah-churchill": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "pop",
+   "vocal jazz"
+  ],
+  "source": "sonnet"
+ },
+ "savoy-sultans": {
+  "confidence": "high",
+  "genres": [
+   "swing",
+   "big band",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "schoolboys": {
+  "confidence": "medium",
+  "genres": [
+   "doo-wop",
+   "rock & roll"
+  ],
+  "source": "sonnet"
+ },
+ "screamin-jay-hawkins": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "rock & roll",
+   "novelty"
+  ],
+  "source": "sonnet"
+ },
+ "selah-jubilee-singers": {
+  "confidence": "high",
+  "genres": [
+   "gospel"
+  ],
+  "source": "sonnet"
+ },
+ "sensations": {
+  "confidence": "medium",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "shelton-brooks": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "shep-and-limelites": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "r&b",
+   "soul"
+  ],
+  "source": "sonnet"
+ },
+ "shirelles": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "pop",
+   "soul"
+  ],
+  "source": "sonnet"
+ },
+ "shirley-and-lee": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "rock & roll"
+  ],
+  "source": "sonnet"
+ },
+ "shorty-davis": {
+  "confidence": "medium",
+  "genres": [
+   "jazz",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "sil-austin": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "jump blues",
+   "rock & roll"
+  ],
+  "source": "sonnet"
+ },
+ "sinclair-and-leroy": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "skylights": {
+  "confidence": "medium",
+  "genres": [
+   "gospel"
+  ],
+  "source": "sonnet"
+ },
+ "skyliners": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "slappy-white": {
+  "confidence": "high",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "slim-and-eddie": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "slim-and-slam": {
+  "confidence": "high",
+  "genres": [
+   "swing",
+   "jazz",
+   "novelty"
+  ],
+  "source": "sonnet"
+ },
+ "slim-and-sweets": {
+  "confidence": "low",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "slim-gaillard": {
+  "confidence": "high",
+  "genres": [
+   "jazz",
+   "bebop",
+   "novelty"
+  ],
+  "source": "sonnet"
+ },
+ "snakehips-tucker": {
+  "confidence": "medium",
+  "genres": [
+   "tap",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "solitaires": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "solomon-burke": {
+  "confidence": "high",
+  "genres": [
+   "soul",
+   "r&b",
+   "gospel"
+  ],
+  "source": "sonnet"
+ },
+ "son-and-sonny": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "sonny-parker": {
+  "confidence": "medium",
+  "genres": [
+   "jump blues",
+   "r&b",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "sonny-stitt": {
+  "confidence": "high",
+  "genres": [
+   "bebop",
+   "cool/hard bop",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "sonny-thompson": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "blues",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "sonny-til-and-orioles": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "sonny-woods": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop",
+   "vocal jazz"
+  ],
+  "source": "sonnet"
+ },
+ "soul-stirrers": {
+  "confidence": "high",
+  "genres": [
+   "gospel",
+   "soul"
+  ],
+  "source": "sonnet"
+ },
+ "spaniels": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "spence-twins": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "spic-and-span": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "spider-bruce": {
+  "confidence": "high",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "stan-getz": {
+  "confidence": "high",
+  "genres": [
+   "cool/hard bop",
+   "bebop",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "stanley-brothers": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "steeplechasers": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "jump blues",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "stereos": {
+  "confidence": "medium",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "stevens-singers": {
+  "confidence": "medium",
+  "genres": [
+   "gospel"
+  ],
+  "source": "sonnet"
+ },
+ "stewart-and-oscar": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "rock & roll"
+  ],
+  "source": "sonnet"
+ },
+ "strawberry-russell-and-julia": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "streamline-sue": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "exotic dance"
+  ],
+  "source": "sonnet"
+ },
+ "stuffy-bryant": {
+  "confidence": "low",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "stump-and-stumpy": {
+  "confidence": "high",
+  "genres": [
+   "vaudeville comedy",
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "sugar-and-spice": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "doo-wop"
+  ],
+  "source": "sonnet"
+ },
+ "sugar-chile-robinson": {
+  "confidence": "high",
+  "genres": [
+   "boogie-woogie",
+   "blues",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "sunset-royal-band": {
+  "confidence": "medium",
+  "genres": [
+   "swing",
+   "big band"
+  ],
+  "source": "sonnet"
+ },
+ "sunshine-sammy": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "sunshine-sammy-and-sleepy-williams": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "swan-and-lee": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "swanee-quintet": {
+  "confidence": "high",
+  "genres": [
+   "gospel"
+  ],
+  "source": "sonnet"
+ },
+ "sy-oliver": {
+  "confidence": "high",
+  "genres": [
+   "big band",
+   "swing",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "sybil-lewis": {
+  "confidence": "low",
+  "genres": [
+   "vaudeville comedy",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "symphony-sid": {
+  "confidence": "low",
+  "genres": [
+   "jazz",
+   "bebop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "t-bone-walker": {
+  "confidence": "high",
+  "genres": [
+   "blues",
+   "jump blues",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "tab-smith": {
+  "confidence": "high",
+  "genres": [
+   "jump blues",
+   "jazz",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "taft-jordan": {
+  "confidence": "medium",
+  "genres": [
+   "jazz",
+   "swing",
+   "big band"
+  ],
+  "source": "sonnet"
+ },
+ "tampa-boys": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "tanya": {
+  "confidence": "low",
+  "genres": [
+   "exotic dance",
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "tap-and-toe": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "tapateers": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "taps-miller": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "teddy-hale": {
+  "confidence": "high",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "teddy-hill": {
+  "confidence": "high",
+  "genres": [
+   "big band",
+   "swing",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "teddy-mcrae-band": {
+  "confidence": "medium",
+  "genres": [
+   "swing",
+   "jump blues",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "teddy-wilson": {
+  "confidence": "high",
+  "genres": [
+   "swing",
+   "jazz",
+   "big band"
+  ],
+  "source": "sonnet"
+ },
+ "teenagers": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "rock & roll",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "teenchords": {
+  "confidence": "medium",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "thelma-carpenter": {
+  "confidence": "medium",
+  "genres": [
+   "vocal jazz",
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "thelonius-monk": {
+  "confidence": "high",
+  "genres": [
+   "cool/hard bop",
+   "bebop",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "tim-george-and-vivian": {
+  "confidence": "low",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "tim-moore": {
+  "confidence": "high",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "tim-moore-crackshot-and-vivian-harris": {
+  "confidence": "high",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "timmie-and-freddie": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "timmie-rogers": {
+  "confidence": "high",
+  "genres": [
+   "vaudeville comedy",
+   "calypso"
+  ],
+  "source": "sonnet"
+ },
+ "tina-dixon": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "exotic dance"
+  ],
+  "source": "sonnet"
+ },
+ "tiny-bradshaw": {
+  "confidence": "high",
+  "genres": [
+   "jump blues",
+   "r&b",
+   "big band"
+  ],
+  "source": "sonnet"
+ },
+ "tiny-kennedy": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "tiny-topsy": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "tip": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "tip-tap-and-toe": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "tito-puente": {
+  "confidence": "high",
+  "genres": [
+   "latin",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "titus-turner": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "rock & roll",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "tommy-brown": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "jump blues",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "tommy-hunt": {
+  "confidence": "medium",
+  "genres": [
+   "soul",
+   "r&b",
+   "doo-wop"
+  ],
+  "source": "sonnet"
+ },
+ "tommy-reynolds-band": {
+  "confidence": "medium",
+  "genres": [
+   "swing",
+   "big band",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "toni-harper": {
+  "confidence": "medium",
+  "genres": [
+   "pop",
+   "vocal jazz"
+  ],
+  "source": "sonnet"
+ },
+ "tootie-and-al": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "tops-and-wilda": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "trevor-bacon": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "jump blues",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "troy-brown": {
+  "confidence": "low",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "tun-tun": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "turbans": {
+  "confidence": "high",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "una-mae-carlisle": {
+  "confidence": "medium",
+  "genres": [
+   "swing",
+   "jazz",
+   "vocal jazz"
+  ],
+  "source": "sonnet"
+ },
+ "upsetters": {
+  "confidence": "medium",
+  "genres": [
+   "rock & roll",
+   "r&b",
+   "soul"
+  ],
+  "source": "sonnet"
+ },
+ "valaida-snow": {
+  "confidence": "medium",
+  "genres": [
+   "jazz",
+   "swing",
+   "vocal jazz"
+  ],
+  "source": "sonnet"
+ },
+ "valentines": {
+  "confidence": "medium",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "valerie-carr": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "varetta-dillard": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "jump blues",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "velma-middleton": {
+  "confidence": "medium",
+  "genres": [
+   "vocal jazz",
+   "jazz",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "velours": {
+  "confidence": "medium",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "ventriloquist-holmes": {
+  "confidence": "high",
+  "genres": [
+   "novelty"
+  ],
+  "source": "sonnet"
+ },
+ "vibrations": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "soul",
+   "doo-wop"
+  ],
+  "source": "sonnet"
+ },
+ "vickie-nelson": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "victoria-vigal": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "vivian-harris": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "wade-and-wade": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "wallace-brothers": {
+  "confidence": "medium",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "walter-green": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "wanderers": {
+  "confidence": "medium",
+  "genres": [
+   "doo-wop",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "washboard-serenaders": {
+  "confidence": "medium",
+  "genres": [
+   "swing",
+   "novelty",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "wild-bill-davis": {
+  "confidence": "high",
+  "genres": [
+   "jazz",
+   "r&b",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "will-mastin-trio": {
+  "confidence": "medium",
+  "genres": [
+   "tap",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "willie-bryant": {
+  "confidence": "high",
+  "genres": [
+   "big band",
+   "swing",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "willie-jackson": {
+  "confidence": "low",
+  "genres": [
+   "swing",
+   "jump blues",
+   "pop"
+  ],
+  "source": "sonnet"
+ },
+ "willie-lewis": {
+  "confidence": "low",
+  "genres": [
+   "r&b",
+   "rock & roll",
+   "soul"
+  ],
+  "source": "sonnet"
+ },
+ "willie-mabon": {
+  "confidence": "medium",
+  "genres": [
+   "blues",
+   "r&b",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "willie-mae-thornton": {
+  "confidence": "high",
+  "genres": [
+   "blues",
+   "r&b",
+   "jump blues"
+  ],
+  "source": "sonnet"
+ },
+ "willis-jackson": {
+  "confidence": "high",
+  "genres": [
+   "r&b",
+   "jump blues",
+   "jazz"
+  ],
+  "source": "sonnet"
+ },
+ "wilton-crawley": {
+  "confidence": "low",
+  "genres": [
+   "vaudeville comedy",
+   "swing"
+  ],
+  "source": "sonnet"
+ },
+ "wini-brown": {
+  "confidence": "medium",
+  "genres": [
+   "r&b",
+   "jump blues",
+   "blues"
+  ],
+  "source": "sonnet"
+ },
+ "winnie-and-bobbie-johnson": {
+  "confidence": "low",
+  "genres": [
+   "tap"
+  ],
+  "source": "sonnet"
+ },
+ "wynonie-harris": {
+  "confidence": "high",
+  "genres": [
+   "jump blues",
+   "blues",
+   "r&b"
+  ],
+  "source": "sonnet"
+ },
+ "yak-taylor": {
+  "confidence": "medium",
+  "genres": [
+   "vaudeville comedy"
+  ],
+  "source": "sonnet"
+ },
+ "ziggy-johnson-s-brownskin-chorus": {
+  "confidence": "low",
+  "genres": [
+   "tap",
+   "swing"
+  ],
+  "source": "sonnet"
+ }
+}

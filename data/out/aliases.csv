@@ -1,0 +1,3436 @@
+alias,performer_id,source
+Aida Ward,aida-ward,billed
+Mabel Scott,mabel-scott,billed
+3 Rhythm Kings,3-rhythm-kings,billed
+Rhythm Kings,3-rhythm-kings,llm
+Three Rhythm Kings,3-rhythm-kings,billed
+3 Palmer Brothers,3-palmer-brothers,billed
+Palmer Brothers,3-palmer-brothers,llm
+Norton & Margo,norton-and-margot,llm
+Norton & Margot,norton-and-margot,billed
+Ralph Cooper,ralph-cooper,billed
+Ralph Cooper Ork,ralph-cooper,billed
+Ralph Cooper band,ralph-cooper,billed
+Benny Carter,benny-carter,billed
+Benny Carter Band,benny-carter,billed
+Benny Carter Ork,benny-carter,billed
+Troy Brown,troy-brown,billed
+Dusty Fletcher,dusty-fletcher,billed
+Meeres & Meeres,meers-and-meers,llm
+Meers & Meers,meers-and-meers,billed
+Bessie Smith,bessie-smith,billed
+Norma,norma,billed
+3 Midnight Steppers,3-midnight-steppers,billed
+Valaida Snow,valaida-snow,billed
+Valaida Snow & Band,valaida-snow,billed
+3 Berry Brothers,berry-brothers,llm
+Berry Brothers,berry-brothers,billed
+5 Spirits Of Rhythm,5-spirits-of-rhythm,billed
+Lillian Cowan,lillian-cowan,billed
+Marshall Rogers & Dinah,marshall-rogers-and-dinah,billed
+Roy Atkins & Little Bitts,roy-atkins-and-little-bitts,billed
+Adelaide Hall,adelaide-hall,billed
+Helena Justa,helena-justa,billed
+Garbage,marshall-rogers,seed
+"Marshall ""Garbage"" Rogers",marshall-rogers,billed
+3 Habits,3-habits,billed
+Sam Wooding,sam-wooding-ork,billed
+Sam Wooding Ork,sam-wooding-ork,billed
+Minto Cato,minto-cato,billed
+Cotton Club Choir,cotton-club-choir,billed
+Johnny Hudgins,johnny-hudgins,billed
+Danny Small & His Relatives,danny-small-and-his-relatives,billed
+Nicholas Brothers,nicholas-brothers,billed
+Charlie Turner & Arcadians,charlie-turner-s-arcadians,llm
+Charlie Turner's Arcadians,charlie-turner-s-arcadians,billed
+Emmett Mathews,emmett-mathews,billed
+Emmett Mathews Band,emmett-mathews,billed
+Vivian Brown,vivian-brown,billed
+"Ford, Buoy, & Daley",ford-buoy-and-daley,billed
+Rodrigo & Lila,rodrigo-and-lila,billed
+Dotson,dotson,billed
+4 Step Bros.,4-step-brothers,billed
+4 Step Brothers,4-step-brothers,billed
+Gladys Mike,gladys-mike,billed
+Oscar Newman,oscar-newman,billed
+Mille & Fiddler,mille-and-fiddler,billed
+Margaret Wilkins,margaret-wilkins,billed
+Cecil Mack Choir,cecil-mack-choir,billed
+Cecil Mack's Choir,cecil-mack-choir,llm
+U.S. Thompson,u-s-thompson,billed
+5 Percolators,5-percolators,billed
+Lethia Hill,lethia-hill,billed
+Lithia Hill,lethia-hill,llm
+Bessie Dudley,bessie-dudley,billed
+Herbert Brown,herbert-brown,billed
+5 Crackerjacks,5-crackerjacks,billed
+Cracker Jacks,5-crackerjacks,llm
+Crackerjacks,5-crackerjacks,llm
+3 Yorkers,3-yorkers,billed
+Luis Russell,luis-russell,billed
+Luis Russell Ork,luis-russell,billed
+Tiny Bradshaw,tiny-bradshaw,billed
+Tiny Bradshaw Band,tiny-bradshaw,billed
+Tiny Bradshaw Ork,tiny-bradshaw,billed
+Tiny Bradshaw ork,tiny-bradshaw,billed
+Mae Alix,may-alix,llm
+May Alix,may-alix,billed
+Red & Struggie,red-and-struggie,billed
+"Grace, Gary, & Evans",grace-gary-and-evans,billed
+Drusilla Drew,drusilla-drew,billed
+Jelli Smith,jelly-smith,llm
+Jelly Smith,jelly-smith,billed
+Sandy,sandy-burns,seed
+Sandy Burns,sandy-burns,billed
+Sam Manning,sam-manning,billed
+Hilda Rogers,hilda-rogers,billed
+4 Flash Devils,4-flash-devils,billed
+3 Salesmen,3-singing-salesmen,llm
+3 Singing Salesmen,3-singing-salesmen,billed
+Lovely Lane,lovey-lane,llm
+Lovey Lane,lovey-lane,billed
+Virginia,virginia,billed
+Ray,ray,billed
+Jackie Mabley,moms-mabley,seed
+Moms Mabley,moms-mabley,billed
+Moms Mably,moms-mabley,seed
+Cora Green,cora-green,billed
+"Ford, Marshall, & Janet",ford-marshall-and-jones,llm
+"Ford, Marshall, & Jones",ford-marshall-and-jones,billed
+Billy Cortez,billy-cortez,billed
+3 Saps,3-saps,billed
+Paola & Parquita,paola-and-parquita,billed
+Chuck Robinson,chuck-robinson,billed
+Ada Brown,ada-brown,billed
+Wilton Crawley,wilton-crawley,billed
+Johnny Lee Long & Pigmeat,johnny-lee-long-and-pigmeat,billed
+"Sam, Sam, & Sam",sam-sam-and-sam,billed
+Josephine Hall,josephine-hall,billed
+Eddie South,eddie-south-ork,billed
+Eddie South Ork,eddie-south-ork,billed
+Babe Matthews,babe-matthews,billed
+4 Blazes,4-blazes,billed
+Cortez & Palmalita,cortez-and-palmalita,billed
+Claude Hopkins,claude-hopkins,billed
+Claude Hopkins Ork,claude-hopkins,billed
+Orlando Roberson,orlando-roberson,billed
+Orlando Robeson,orlando-roberson,llm
+Jennie Dancer,jennie-dancy,llm
+Jennie Dancey,jennie-dancy,llm
+Jennie Dancy,jennie-dancy,billed
+Jenny Dancy,jennie-dancy,llm
+Don Redman,don-redman,billed
+Don Redman Band,don-redman,billed
+Don Redman Ork,don-redman,billed
+Don Redman ork,don-redman,billed
+Don Redmon,don-redman,llm
+Don Redmon Ork,don-redman,llm
+Harlan Lattimore,harlan-lattimore,billed
+Jazzlips Richardson,jazzlips-richardson,billed
+4 Bobs,4-bobs,billed
+Charles Ray,charles-ray,billed
+Edith Wilson,edith-wilson,billed
+Edity Wilson,edith-wilson,llm
+Taps Miller,taps-miller,billed
+3 Drifters,3-drifters,billed
+Carlisle & Rosa,carlisle-and-rosa,billed
+Fletcher Henderson,fletcher-henderson,billed
+Fletcher Henderson Ork,fletcher-henderson,billed
+Fletcher Hendeson,fletcher-henderson,llm
+Charles Holland,charles-holland,billed
+Eddie Hunter & Speedy Smith,eddie-hunter-and-speedy-smith,billed
+Andrew Tribble,andrew-tribble,billed
+Southern Four,southern-four,billed
+Izzy Ringold,izzy-ringold,billed
+Al Moore & Amy Spencer,al-moore-and-amy-spencer,billed
+3 Cyclones,3-cyclones,billed
+Bill Robinson,bill-robinson,billed
+Eubie Blake,eubie-blake-ork,billed
+Eubie Blake Ork,eubie-blake-ork,billed
+Sally Gooding,sally-gooding,billed
+Dannie & Eddie,dannie-and-eddie,billed
+Teddy Hill,teddy-hill,billed
+Teddy Hill Band,teddy-hill,billed
+Teddy Hill Ork,teddy-hill,billed
+Antonio Machin,antonio-machin,billed
+Ofilia & Pimento,ofilia-and-pimento,billed
+Chick Webb,chick-webb-ork,billed
+Chick Webb Band,chick-webb-ork,billed
+Chick Webb Ork,chick-webb-ork,billed
+Putney Dandridge,putney-dandridge,billed
+4 Playboys,4-playboys,billed
+Ethel Brown,ethel-brown,billed
+"Jesse ""Lazybones"" Cryor",jesse-cryor,billed
+Jesse Cryor,jesse-cryor,billed
+"Jessie ""Lazybones"" Cryor",jesse-cryor,llm
+Jessie Cryor,jesse-cryor,llm
+"Ernest ""Bubbles"" Whitman",ernest-bubbles-whitman,billed
+3 Olympics,3-olympics,billed
+Willie Bryand,willie-bryant,manual
+Willie Bryand Ork,willie-bryant,manual
+Willie Bryant,willie-bryant,billed
+Willie Bryant Band,willie-bryant,billed
+Willie Bryant Ork,willie-bryant,billed
+Jane Calloway,jane-calloway,billed
+Alma Hubbard,alma-hubbard,billed
+3 Brown Buddies,3-brown-buddies,billed
+4 Chords,4-chords,billed
+Timmie & Freddie,timmie-and-freddie,billed
+Russell Carrington,russell-carrington,billed
+5 Salties,5-salties,billed
+3 Miller Brothers,3-miller-brothers,billed
+Victoria Vigal,victoria-vigal,billed
+Alycia & Delano,alycia-and-delano,billed
+Snakehips Tucker,snakehips-tucker,billed
+Dusty Fletcher & John Mason,dusty-fletcher-and-john-mason,billed
+Charlie Ray,charlie-ray,billed
+Danny & Edith,danny-and-edith,billed
+Gladyce Ridley,gladys-ridley,llm
+Gladys Ridley,gladys-ridley,billed
+Jimmy Baskett,jimmy-baskett,billed
+Jimmy Baskette,jimmy-baskett,seed
+4 Ink Spots,ink-spots,llm
+Ink Spots,ink-spots,billed
+Florence Hill,florence-hill,billed
+Lee Simmons,lee-simmons,billed
+Wilson & Oliver,wilson-and-oliver,billed
+Harriet Calloway,harriet-calloway,billed
+Bert & Barbara Sherman,bert-and-barbara-sherman,billed
+3 Little Words,3-little-words,billed
+Coots Grant,coots-grant,billed
+Bobby Castin,bobby-castin,billed
+Socks Wilson,socks-wilson,billed
+Susan Brown,susan-brown,billed
+Wing Wah Troupe,wing-wah-troupe,billed
+Swan & Lee,swan-and-lee,billed
+Inkie & Archie,inkie-and-archie,billed
+Honi Coles,honi-coles,billed
+Ann Jones,ann-jones,billed
+Roland Holder,roland-holder,billed
+Al Jenkins & His Buffalonians,al-jenkins-and-his-buffalonians,billed
+Glenn & Jenkins,glenn-and-jenkins,billed
+"Pete, Peaches, & Duke",pete-peaches-and-duke,billed
+Crackshot,crackshot,billed
+Greenlee & Rogers,greenlee-and-rogers,billed
+Kirby Walker,kirby-walker,billed
+Billie Higgins,billie-higgins,billed
+Gallie DeGaston,gallie-degaston,billed
+Viola McCoy,viola-mccoy,billed
+Fess Williams,fess-williams-band,billed
+Fess Williams Band,fess-williams-band,billed
+6 Spirits Of Rhythm,6-spirits-of-rhythm,billed
+Lucky Rhythm Trio,lucky-rhythm-trio,billed
+Myra Johnson,myra-johnson,billed
+John Mason,spider-bruce,seed
+Spider Bruce,spider-bruce,billed
+Freddie Koko,freddie-robinson,seed
+Freddie Robinson,freddie-robinson,billed
+Koko,freddie-robinson,seed
+Duke Ellington,duke-ellington,billed
+Duke Ellington Ork,duke-ellington,billed
+Ivie Anderson,ivie-anderson,billed
+Ovie Anderson,ivie-anderson,manual
+Ovie Anderson Band,ivie-anderson,manual
+Ed Green,ed-green,billed
+Bea Foots,bea-foots,billed
+3 Patent Leather Kids,3-patent-leather-kids,billed
+Baker Brothers & Slaps,baker-brothers-and-slaps,billed
+Barber & Doris,barber-and-doris,billed
+Al Jenkins,al-jenkins-ork,billed
+Al Jenkins Ork,al-jenkins-ork,billed
+McCain & Ross,mccain-and-ross,billed
+McLain & Ross,mccain-and-ross,llm
+5 Rhythm Racketeers,5-rhythm-racketeers,billed
+Ola Mae Bishop,ola-mae-bishop,billed
+Mrs. Louis Lil Armstrong & Her Creolians,mrs-louis-lil-armstrong-and-her-creolians,billed
+Mary Dixon,mary-dixon,billed
+3 Sepia Queens,3-sepia-queens,billed
+George Roland,george-roland,billed
+Eddie Green,eddie-green,billed
+"Dewey ""Pigmeat"" Markham",pigmeat-markham,seed
+Pigmeat,pigmeat-markham,seed
+Pigmeat & Company,pigmeat-markham,seed
+Pigmeat Markham,pigmeat-markham,billed
+4 Sharp Sisters,4-sharp-sisters,billed
+Charles Barnet,charlie-barnet,manual
+Charles Barnet Ork,charlie-barnet,manual
+Charlie Barnet,charlie-barnet,billed
+Charlie Barnet Ork,charlie-barnet,billed
+Beale Street Boys,beale-street-boys,billed
+Lucky 7 Trio,lucky-seven-trio,billed
+Lucky Seven Trio,lucky-seven-trio,billed
+Ethey Frey,ethey-frey,billed
+Thais,thais,billed
+Bill Bailey,bill-bailey,billed
+Jessie Scott,jessye-scott,llm
+Jessye Scott,jessye-scott,billed
+3 Brown Jacks,3-brown-jacks,billed
+Pops & Louie,pops-and-louie,billed
+5 Charlottes,5-charlottes,billed
+Billie Halliday,billie-holiday,llm
+Billie Holiday,billie-holiday,billed
+Billy Halliday,billie-holiday,llm
+Billy Holiday,billie-holiday,llm
+Bobbie Henderson,bobbie-henderson,billed
+Betty Roland,betty-roland,billed
+Billy Maples,billy-maples-ork,billed
+Billy Maples Ork,billy-maples-ork,billed
+Abbie Mitchell,abbie-mitchell,billed
+3 Speed Demons,3-speed-demons,billed
+Eddie & Hilda,eddie-and-hilda,billed
+Clarence Olden,clarence-olden-ork,billed
+Clarence Olden Ork,clarence-olden-ork,billed
+Tarzan,tarzan,billed
+Annice & Alanda,annice-and-alanda,billed
+William McKinney & McKinney's Cotton Pickers,william-mckinney-and-mckinney-s-cotton-pickers-ork,billed
+William McKinney & McKinney's Cotton Pickers Ork,william-mckinney-and-mckinney-s-cotton-pickers-ork,billed
+Radcliff & Rogers,radcliffe-and-rogers,llm
+Radcliffe & Rogers,radcliffe-and-rogers,billed
+Dorothy Derrick,dorothy-derrick,billed
+Slim & Eddie,slim-and-eddie,billed
+Pauline Edwards,pauline-edwards,billed
+Joseph Pope Jones,joseph-pope-jones,billed
+Bertice Richmond,bertice-richmond,billed
+Jimmie Lunceford,jimmie-lunceford,billed
+Jimmie Lunceford Band,jimmie-lunceford,billed
+Jimmie Lunceford Ork,jimmie-lunceford,billed
+Jimmy Lunceford,jimmie-lunceford,manual
+Jimmy Lunceford Ork,jimmie-lunceford,manual
+Helena Justo & Co.,helena-justo-and-co,billed
+Pavlo & Co.,pavlo-and-co,billed
+Leroy Victor & Co.,leroy-victor-and-co,billed
+Lucky Millinder & Mills Blue Rhythm,lucky-millinder-and-mills-blue-rhythm-band,billed
+Lucky Millinder & Mills Blue Rhythm Band,lucky-millinder-and-mills-blue-rhythm-band,billed
+Eunice Wilson,eunice-wilson,billed
+Henrietta Loveless,henrietta-loveless,billed
+Anise & Aland,anise-and-aland,billed
+Chilton & Thomas,chilton-and-thomas,billed
+3 Duncan Sisters,3-duncan-sisters,billed
+Reid Brothers,reid-brothers,billed
+Erskine Hawkins & Bama State Collegians,erskine-hawkins-and-bama-state-collegians,billed
+Erskine Hawkins & Bama State Collegians Ork,erskine-hawkins-and-bama-state-collegians,billed
+Norman Thomas Quintet,norman-thomas-quintet,billed
+Amanda Randolph,amanda-randolph,billed
+Wade & Wade,wade-and-wade,billed
+Derby Wilson,derby-wilson,billed
+Mrs. Louis Armstrong & Kings Of Rhythm,mrs-louis-armstrong-and-kings-of-rhythm,billed
+Bob Howard,bob-howard,billed
+Noma,noma,billed
+Velma Middleton,velma-middleton,billed
+Charles Atkinson,cholly-atkins,seed
+Bill Porter,bill-porter,billed
+3 Dukes,3-dukes,billed
+Edith Sewell,edith-sewell,billed
+Ken Tai Trio,ken-tai-trio,billed
+Josephine Garrison,josephine-garrison,billed
+Eddie Hunter,eddie-hunter,billed
+George Booker,george-booker,billed
+Ella Fitzderald,ella-fitzgerald,llm
+Ella Fitzgerald,ella-fitzgerald,billed
+Ella Fitzgerald & Band,ella-fitzgerald,billed
+Ella Fitzgerald & Ork,ella-fitzgerald,billed
+Ella Fitzgerald & band,ella-fitzgerald,billed
+3 Sams,3-sams,billed
+Fats Waller,fats-waller,billed
+Fats Waller Band,fats-waller,billed
+Una Mae Carlisle,una-mae-carlisle,billed
+Louise Beavers,louise-beavers,billed
+Baron Lee,baron-lee,billed
+Baron Lee Ork,baron-lee,billed
+Chuck & Chuckles,chuck-and-chuckles,billed
+Bob Williams,bob-williams,billed
+Alberto Socarras,alberto-socarras,billed
+Alberto Soccaras,alberto-socarras,llm
+Nina & Zaybelle,nina-and-zaybelle,billed
+"Burnean, Harris, & Scott",burnham-harris-and-scott,llm
+Burnham Harris & Scott,burnham-harris-and-scott,billed
+"Burnham, Harris & Scott",burnham-harris-and-scott,billed
+"Burnham, Harris, & Scott",burnham-harris-and-scott,billed
+"Harris, Burnham, & Scott",burnham-harris-and-scott,llm
+Jules Bledsoe,jules-bledsoe,billed
+Alberta Adams,alberta-adams,billed
+Fannie Cotton,fannie-cotton,billed
+John Henry,juano-hernandez,llm
+Juano Hernandez,juano-hernandez,billed
+Donald Heywood,donald-heywood,billed
+7 Happy African Drum Dancers,7-happy-african-drum-dancers,billed
+Sonny Woods,sonny-woods,billed
+Cleo Brown,cleo-brown,billed
+Wiley & Wiley,wiley-and-wiley,billed
+Duke Jenkins,duke-jenkins,billed
+Alma Smith,alma-smith,billed
+3 Notes Of Harmony,3-notes-of-harmony,billed
+Isolla Martin & Co.,isolla-martin-and-co,billed
+Palmer & Peaches,palmer-and-peaches,billed
+Peaches & Palmer,palmer-and-peaches,llm
+Lillyn Brown,lillyn-brown,billed
+Lilyn Brown,lillyn-brown,llm
+William Dill & Co.,william-dill-and-co,billed
+Mills Brothers,mills-brothers,billed
+Washboard Serenaders,washboard-serenaders,billed
+Baby Cox,baby-cox,billed
+LeRoy Smith,leroy-smith-ork,billed
+LeRoy Smith Band,leroy-smith-ork,billed
+Leroy Smith,leroy-smith-ork,billed
+Leroy Smith Band,leroy-smith-ork,billed
+Leroy Smith Ork,leroy-smith-ork,billed
+Alberta Prime,alberta-prime,billed
+Danny & Eddy,danny-and-eddy,billed
+3 Lightning Flashes,lightning-flashes,llm
+Lightning Flashes,lightning-flashes,billed
+Moore & McCormick,moore-and-mccormick,billed
+Clara Townsend,clara-townsend,billed
+Apus Brooks,apus-brooks,billed
+Jigsaw Jackson,jigsaw-jackson,billed
+Butch & Green,butch-and-green,billed
+Buster Newman,buster-newman,billed
+Eddie Matthews,eddie-matthews,billed
+Avon Long,avon-long,billed
+Margaret Simms,margaret-simms,billed
+Margaret Sims,margaret-simms,llm
+3 Brown Busters,3-brown-busters,billed
+"Earl ""Fatha"" Hines",earl-hines,billed
+Earl Hines,earl-hines,billed
+Earl Hines Ork,earl-hines,billed
+Katherine Perry,katherine-perry,billed
+Al Moore Trio,al-moore-trio,billed
+Blanch Calloway,blanche-calloway,llm
+Blanch Calloway Ork,blanche-calloway,llm
+Blanche Calloway,blanche-calloway,billed
+Blanche Calloway Band,blanche-calloway,billed
+Blanche Calloway Ork,blanche-calloway,billed
+Elizabeth Kelly,elizabeth-kelly,billed
+Mae Johnson,mae-johnson,billed
+Rhythm Willie,rhythm-willie,billed
+Walter Batie & Clarence Foster,walter-batie-and-clarence-foster,billed
+Bobbie Caston,bobbie-caston,billed
+Bobbie Gaston,bobbie-caston,llm
+Old Man River Trio,old-man-river-trio,billed
+Peg Leg Bates,peg-leg-bates,billed
+Cook & Brown,cook-and-brown,billed
+Dee Lloyd,dee-lloyd-mckay,llm
+Dee Lloyd McKay,dee-lloyd-mckay,billed
+Dee Lloyd McKaye,dee-lloyd-mckay,llm
+Bobbie Evans,bobby-evans,llm
+Bobby Evans,bobby-evans,billed
+Ralph Brown,ralph-brown,billed
+George Wiltshire,george-wiltshire,billed
+Helen Stewart,helen-stewart,billed
+Ethel Waters,ethel-waters,billed
+4 Tan Tippers,4-tan-tippers,billed
+Brown Trio,brown-trio,billed
+Danny Logan's Syncopators,danny-logan-s-syncopators,billed
+Nina Mae McKinney,nina-mae-mckinney,billed
+Gladys Bentley,gladys-bentley,billed
+Johnny Alexander & Chunk Robinson,johnny-alexander-and-chunk-robinson,billed
+Norman Astwood,norman-astwood,billed
+Princess Orelia,princess-orelia,billed
+Medicine Pete,medicine-pete,billed
+Chink Collins,chink-collins,billed
+Dewey Brown,dewey-brown,billed
+Edna Harris,edna-mae-harris,llm
+Edna Mae Harris,edna-mae-harris,billed
+4 Bon Bons,4-bon-bons,billed
+Taft Jordan,taft-jordan,billed
+Bardu Ali,bardu-ali,billed
+Bardu Ali's,bardu-ali,llm
+Bardu Ali's band,bardu-ali,llm
+Alice Whitman,alice-whitman,billed
+4 Olympic Aces,4-olympic-aces,billed
+Louise & Margarita,louise-and-margarita,billed
+Charles McCormack,charles-mccormack,billed
+Socarros,socarros-ork,billed
+Socarros Ork,socarros-ork,billed
+4 Gobs,4-gobs,billed
+Shelton Brooks,shelton-brooks,billed
+Aristocrats,aristocrats,billed
+Al & Andre,al-and-andre,billed
+George Williams,george-williams,billed
+Pearl Baines,pearl-baines,billed
+Miller & Mantan,miller-and-mantan,billed
+Butterbeans & Susie,butterbeans-and-susie,billed
+Babe Wallace,babe-wallace,billed
+3 Rhythm Queens,3-rhythm-queens,billed
+Lena Horne,lena-horne,billed
+Cora La Redd,cora-la-redd,billed
+Joe Smothers,joe-smothers,billed
+Sonny Boy,sonny-boy,billed
+"Dink, Blink, & Dink",dink-blink-and-dink,billed
+Conway & Parks,conway-and-parks,billed
+3 Giants Of Rhythm,3-giants-of-rhythm,billed
+Pedro & Dolores,pedro-and-dolores,billed
+Louis Armstrong,louis-armstrong,billed
+Louis Armstrong Ork,louis-armstrong,billed
+Lavada Carter,lavada-carter,billed
+Bama State Collegians,bama-state-collegians,billed
+Ersikine Hawkins,erskine-hawkins,llm
+Erskine Hawkins,erskine-hawkins,billed
+Erskine Hawkins Band,erskine-hawkins,billed
+Erskine Hawkins Ork,erskine-hawkins,billed
+Billy Daniels,billy-daniels,billed
+Edna Mae Holly,edna-mae-holly,billed
+Bunny Briggs,bunny-briggs,billed
+Brown & Browm,brown-and-brown,llm
+Brown & Brown,brown-and-brown,billed
+Noble Sissle,noble-sissle,billed
+Noble Sissle Ork,noble-sissle,billed
+Rubberlegs Williams,rubberlegs-williams,billed
+Billy Banks,billy-banks,billed
+Hamtree Harrington,hamtree-harrington,billed
+Elma Turner,elma-turner,billed
+Hilda Perlene,hilda-perlino,llm
+Hilda Perleno,hilda-perlino,llm
+Hilda Perlino,hilda-perlino,billed
+John Alexander,john-alexander,billed
+3 Brown Birds,3-brown-birds,billed
+Louis Jordan,louis-jordan,billed
+Gladys Palmer,gladys-palmer,billed
+Josie Oliver,josie-oliver,billed
+Alfreda Allhan,alfreda-allman,llm
+Alfreda Allman,alfreda-allman,billed
+3 Ginger Girls,3-ginger-girls,billed
+Muriel Rahn,muriel-rahn,billed
+George Dewey Washington,george-dewey-washington,billed
+Jessie Cryor & Rhythm Rascals,jessie-cryor-and-rhythm-rascals,billed
+Little Bits & Yoyo,little-bits-and-yoyo,billed
+Charles Linton,charles-linton,billed
+Charlie Lintin,charles-linton,llm
+Charlie Linton,charles-linton,llm
+3 Ragamuffins,3-ragamuffins,billed
+Al Moore,al-moore,billed
+Naomi Price,naomi-price,billed
+Alice Harris,alice-harris,billed
+Billy Branch Family,billy-branch-family,billed
+Stanley Brothers,stanley-brothers,billed
+Chuck Richards,chuck-richards,billed
+Edgar Hayes,edgar-hayes,billed
+Edgar Hayes Band,edgar-hayes,billed
+Edgar Hayes Ork,edgar-hayes,billed
+3 Buds,3-buds,billed
+Gypsy Ricco,gypsy-ricco,billed
+Stephin Fetchet,stepin-fetchit,llm
+Stepin Fetchet,stepin-fetchit,llm
+Sunshine Sammy,sunshine-sammy,billed
+Sunshine Sammy & Band,sunshine-sammy,billed
+3 Rhythm Steppers,3-rhythm-steppers,billed
+Roccos,roccos,billed
+Ray Moore,ray-moore,billed
+Hanna Sylvester,hanna-sylvester,billed
+Madeline Belt,madeline-belt,billed
+Happy Day Quartet,happy-day-quartet,billed
+3 Princes Of Rhythm,3-princes-of-rhythm,billed
+Hill & Hill,hill-and-hill,billed
+Billy Griffin,billy-griffin,billed
+Roy White,roy-white,billed
+3 Brown Sisters,3-brown-sisters,billed
+Ollie Porter,ollie-porter,billed
+2 Lucky Sisters,lucky-sisters,llm
+Lucky Sisters,lucky-sisters,billed
+Doris Rheubottom,doris-rheubottom,billed
+Selden & Endler,selden-and-endler,billed
+Gallie De Gaston,gallie-de-gaston,billed
+Jerry & Turk,jerry-and-turk,billed
+2 Turbines,2-turbines,billed
+Rita Royce,rita-royce,billed
+Clarence Williams & Eva Taylor,clarence-williams-and-eva-taylor,billed
+Erskine Hawkins & Ubangi Club,erskine-hawkins-and-ubangi-club-band,billed
+Erskine Hawkins & Ubangi Club Band,erskine-hawkins-and-ubangi-club-band,billed
+3 Gaines Brothers,gaines-brothers,llm
+Gaines Brothers,gaines-brothers,billed
+Gaines Brothers Trio,gaines-brothers,llm
+2 Rat-A-Tats,2-rat-a-tats,billed
+Alfreda Allman & Caryettes,alfreda-allman-and-caryettes,billed
+Buddy Doyle,buddy-doyle,billed
+Princess White,princess-white,billed
+Joe Green,joe-green,billed
+Joan Miller,joan-miller,billed
+3 Rhythm Tippers,3-rhythm-tippers,billed
+Doc Hyder's,doc-hyder-s-band,billed
+Doc Hyder's Band,doc-hyder-s-band,billed
+Skippy & His Musical Pals,skippy-and-his-musical-pals,billed
+Bill Bailey & Putney Dandridge,bill-bailey-and-putney-dandridge,billed
+3 Bits Of Rhythm,3-bits-of-rhythm,billed
+Radio Ramblers,radio-ramblers,billed
+York & Tracy,york-and-tracy,billed
+Zeb Carver's Hill Billies,zeb-carver-s-hill-billies,billed
+3 Keys,3-keys,billed
+Susaye Brown,susaye-brown,billed
+Arthur Simpkins,arthur-simpkins,billed
+Kathryn Perry,kathryn-perry,billed
+Lavinia Mack,lavinia-mack,billed
+Louise Cook,louise-cook,billed
+3 Speeds,3-speeds,billed
+Billie & Millie,millie-and-billie,llm
+Millie & Billie,millie-and-billie,billed
+3 Lang Sisters,3-lang-sisters,billed
+Lang Sisters,3-lang-sisters,llm
+Frances Wills,frances-wills,billed
+Charles Bristol,charlie-bristol,llm
+Charlie Bristol,charlie-bristol,billed
+Avis Andrews,avis-andrews,billed
+Worthwhile & How,worthwhile-and-how,billed
+Joyce & Herron,joyce-and-herron,billed
+3 Debs,3-rhythm-debs,llm
+3 Rhythm Debs,3-rhythm-debs,billed
+Ray & Trent,ray-and-trent,billed
+Ristina Banks Dancing Girls,ristina-banks-dancing-girls,billed
+Willie Smith,willie-smith,billed
+Willie Smith Band,willie-smith,billed
+3 Sharps & A Flat,3-sharps-and-a-flat,billed
+Leadbelly,leadbelly,billed
+Vito & Piri,vito-and-piri,billed
+Dot & Dash,dot-and-dash,billed
+Cab Calloway,cab-calloway,billed
+Cab Calloway Ork,cab-calloway,billed
+Nicodemus,nicodemus,billed
+Dynamite Hooker,dynamite-hooker,billed
+Stump & Stumpy,stump-and-stumpy,billed
+Buck & Bubbles,buck-and-bubbles,billed
+W.C. Handy's St. Louis Blues,w-c-handy-s-st-louis-blues-ork,billed
+W.C. Handy's St. Louis Blues Ork,w-c-handy-s-st-louis-blues-ork,billed
+Eva Jessye Choir,eva-jessye-choir,billed
+Hardy Brothers,hardy-brothers-band,billed
+Hardy Brothers Band,hardy-brothers-band,billed
+Monte Hawley,monte-hawley,billed
+Princess Aurelia & Pete,princess-aurelia-and-pete,billed
+Princess Orelia & Pete,princess-aurelia-and-pete,llm
+Ida James,ida-james,billed
+Apus & Garbage,apus-and-garbage,billed
+Oleanders,oleanders,billed
+Bob Evans,bob-evans,billed
+Tumbling Wades,tumbling-wades,billed
+Cyclones,cyclones,billed
+Lulu Mae Washington,lulu-mae-washington,billed
+Helen Paige,helen-paige,billed
+Red & Curley,red-and-curley,billed
+3 Kadets,3-kadets,billed
+Alyce Cerf,alyce-cerf,billed
+5 Top Hats,5-top-hats,billed
+Kitty Aublanche,kitty-aublanche,billed
+Ken & Roy Paige,ken-and-roy-paige,billed
+Truckin' Maniacs,truckin-maniacs,billed
+Ted Lewis Jr.,ted-lewis-jr,billed
+Helena Smith,helena-smith,billed
+Dol Saulters,dot-saulters,llm
+Dot Saulters,dot-saulters,billed
+Dottie Saulters,dot-saulters,llm
+Dotty Saulter,dot-saulters,llm
+Tyler Twins & Leonard,tyler-twins-and-leonard,billed
+Marcy Brothers & Beatrice,marcy-brothers-and-beatrice,billed
+Ethel Harper,ethel-harper,billed
+Hamtree Harrington & Cora Green,hamtree-harrington-and-cora-green,billed
+Teddy Hale,teddy-hale,billed
+Connie's Inn Revue: Dean & Johnson,connie-s-inn-revue-dean-and-johnson,billed
+3 Babes,3-babes,billed
+Toni Cortez,toni-cortez,billed
+Kaloah,kaloah,billed
+3 Novels,novels,llm
+Novels,novels,billed
+Etta Moten,etta-moten,billed
+3 Rhythm Triplets,3-rhythm-triplets,billed
+Peppers,peppers,billed
+Evelyn Keyes,evelyn-keyes,billed
+Ella Myers,ella-myers,billed
+Red Donoghue & His Pals,red-donoghue-and-his-pals,billed
+Valda,valda,billed
+Joyce & Freddie,joyce-and-freddie,billed
+"Apus, Sandy & George",sandy-apus-and-george,llm
+"Sandy, Apus & George",sandy-apus-and-george,billed
+"Sandy, Apus, & George",sandy-apus-and-george,billed
+Clara Williams,clara-williams,billed
+Kola the frog man,kola-the-frog-man,billed
+Streamline Sue,streamline-sue,billed
+Streamline Sue Robinson,streamline-sue,llm
+3 Stepsons,3-stepsons,billed
+Vivian Harris,vivian-harris,billed
+Sunset Royal,sunset-royal-band,billed
+Sunset Royal Band,sunset-royal-band,billed
+Sunset Royal Orchestra,sunset-royal-band,billed
+Sunset Royal Ork,sunset-royal-band,billed
+Sunset Royal Serenaders,sunset-royal-band,llm
+Mamie Smith,mamie-smith,billed
+Hix & His Sizzling Six,hix-and-his-sizzling-six,billed
+Leon Hill,leon-hill,billed
+Jimmie & Bunny,jimmie-and-bunny,billed
+Hard-Time Burton,hard-time-burton,billed
+Al Cowans' Musical Madcaps,cowans-musical-madcaps,llm
+Cowan's Cyclonic Musical Madcaps,cowans-musical-madcaps,llm
+Cowans' Musical Madcaps,cowans-musical-madcaps,billed
+Cowans's Musical Madcaps,cowans-musical-madcaps,llm
+Tramp,cowans-musical-madcaps,llm
+Tramp Band,cowans-musical-madcaps,llm
+George McClennon,george-mcclennon,billed
+George McGlennon,george-mcclennon,llm
+Rhythm Brown,rhythm-brown,billed
+Harvest Moon Lindy Champs,harvest-moon-lindy-champs,billed
+Alfred Allman,alfred-allman,billed
+Nanette,nanette,billed
+Emmett Mathews & Arcadians,emmett-mathews-and-arcadians,billed
+3 Esquires,3-esquires,billed
+2 Zephers,2-zephyrs,llm
+2 Zephyrs,2-zephyrs,billed
+Pauline Bryant,pauline-bryant,billed
+Woods Sisters,woods-sisters,billed
+3 Gigolos,3-gigolos,billed
+Rex Ingram,rex-ingram,billed
+Havana Serenaders,havana-serenaders,billed
+Walker & Walker,walker-and-walker,billed
+Red Allen,red-allen,billed
+Red Allen Band,red-allen,billed
+Red Allen Orchestra,red-allen,billed
+Red Allen band,red-allen,billed
+Bessie & Jackie,bessie-and-jackie,billed
+Mary Perry,mary-perry,billed
+Andy Kirk,andy-kirk,billed
+Andy Kirk Ork,andy-kirk,billed
+Pha Terell,pha-terrell,llm
+Pha Terrell,pha-terrell,billed
+Mary Lou Williams,mary-lou-williams,billed
+Allen & Kent Family,allen-and-kent-family,billed
+4 Budds,4-budds,billed
+"David, Goliath, & Witty",david-goliath-and-witty,billed
+"David, Goliath, & Wyttye",david-goliath-and-witty,llm
+Williams & O'Neil,williams-and-o-neil,billed
+Lucille Wayne,lucille-wayne,billed
+Florence Brown,florence-brown,billed
+Duke Granada,duke-granada,billed
+Jeni LeGon,jeni-legon,billed
+Louise McCarrol,louise-mccarroll,llm
+Louise McCarroll,louise-mccarroll,billed
+Alex Lovejoy,alex-lovejoy,billed
+Jarrow,jarrow,billed
+Ovie Alston,ovie-alston-and-band,billed
+Ovie Alston & Band,ovie-alston-and-band,billed
+"Roy, Lee, & Dunn",roy-lee-and-dunn,billed
+Gina & Giana,gina-and-giana,billed
+Arlethia Perdue,arlethia-perdue,billed
+Phantom Steppers,phantom-steppers,billed
+3 Rhythm Rascals,3-rhythm-rascals,billed
+Bert & Alice Whitman,bert-and-alice-whitman,billed
+Princess Wee Wee,princess-wee-wee,billed
+Prince Arthur,prince-arthur,billed
+Beatrice Douglas,beatrice-douglas,billed
+4 Brown Specks,4-specks,llm
+4 Specks,4-specks,billed
+Nathane Brothers,nathano-brothers,llm
+Nathano Brothers,nathano-brothers,billed
+Mary Keller,mary-keller,billed
+2 Edwards Sisters,edwards-sisters,llm
+Edward Sisters,edwards-sisters,llm
+Edwards Sisters,edwards-sisters,billed
+Winnie & Bobbie,winnie-and-bobbie-johnson,llm
+Winnie & Bobbie Johnson,winnie-and-bobbie-johnson,billed
+Turner & Burelle,turner-and-burelle,billed
+Billy Adams,billy-adams,billed
+Beatrice Rhea,beatrice-rhea,billed
+Victoria Spivey,victoria-spivey,billed
+"Ford, Bowie, & Daly",ford-bowie-and-daly,billed
+Maud Russell,maude-russell,llm
+Maude Russell,maude-russell,billed
+3 Gobs,3-gobs,billed
+Ruby Hill,ruby-hill,billed
+Adelaide Marshall,adelaide-marshall,billed
+Miller's Brownskin Models Of 1937,miller-s-brownskin-models-of-1937,billed
+Tanya,tanya,billed
+Jesse James,jesse-james,billed
+Jessie James,jesse-james,llm
+Alta Oates,alta-oates,billed
+Marcus Hall,marcus-hall,billed
+George Bias,george-bias,billed
+Blanche Thompson,blanche-thompson,billed
+Seales & Cade,seales-and-cade,billed
+Barrington Guy,barrington-guy,billed
+"Arlene, Charlie, & Ruby",arlene-charlie-and-ruby,billed
+Freddie James,freddie-james,billed
+Frances Black,frances-black,billed
+Son & Sonny,son-and-sonny,billed
+"Arlene, Charlie, & Ray",arlene-charlie-and-ray,billed
+Jesse Stone,jesse-stone-ork,billed
+Jesse Stone Band,jesse-stone-ork,billed
+Jesse Stone Ork,jesse-stone-ork,billed
+Count Basie,count-basie,billed
+Count Basie Ork,count-basie,billed
+Smith & Rogers,smith-and-rogers,billed
+Lucille Howard,lucille-howard,billed
+3 Dixie Troubadors,3-dixie-troubadors,billed
+James Rushing,james-rushing,billed
+Rodney & Gould,rodney-and-gould,billed
+"Tip, Tap, & Toe",tip-tap-and-toe,billed
+Charioteers,charioteers,billed
+Henri Wessels,henri-wessels,billed
+Henry Wessels,henri-wessels,llm
+White's Lindy Maniacs,white-s-lindy-maniacs,billed
+Ruby Elzy,ruby-elzy,billed
+Bob Wallace,bob-wallace,billed
+3 Peppers,3-peppers,billed
+Joe Arena,joe-arena,billed
+Berry & King,berry-and-king,billed
+John Garth,john-garth,billed
+Bella Johnson,bella-johnson,billed
+3 Blue Jackets,3-blue-jackets,billed
+Willa Mae Lane,willa-mae-lane,billed
+Helen Page,helen-page,billed
+Baby DeLeon,baby-deleon,billed
+Maxie Armstrong,maxie-armstrong,billed
+Norman & Blake,norman-and-blake,billed
+Guido & Eve,guido-and-eve,billed
+Tim Moore,tim-moore,billed
+Flash & Dash,flash-and-dash,billed
+Abdeen & Ravita,abdeen-and-ravita,billed
+Jimmy Rushing,jimmy-rushing,billed
+Jimmy Rusing,jimmy-rushing,llm
+Joe Wong,joe-wong,billed
+3 Clouds Of Joy,3-clouds-of-joy,billed
+Billy Kyle,billy-kyle,billed
+3 Melody Maids,3-melody-maids,billed
+Grace Grainger,grace-grainger,billed
+Myrtle Hutchinson,myrtle-hutchinson,billed
+Winnie & Bobbie Johnson & Brother Stretch,winnie-and-bobbie-johnson-and-brother-stretch,billed
+Jack Whitney,jack-whitney,billed
+Tootie & Al,tootie-and-al,billed
+Don Ricardo,don-ricardo,billed
+Fats Piner,fats-piner,billed
+La Georgette,la-georgette,billed
+Eddie Mallory,eddie-mallory-ork,billed
+Eddie Mallory Band,eddie-mallory-ork,billed
+Eddie Mallory Ork,eddie-mallory-ork,billed
+Renee & Estelle,renee-and-estelle,billed
+Paul White,paul-white,billed
+Mae Diggs,mae-diggs,billed
+Ralph Brown Phil Scott,ralph-brown-phil-scott,billed
+LeMaye & Maye,lemaye-and-maye,billed
+Midge Williams,midge-williams,billed
+Brown Twins,brown-twins,billed
+5 Budds,5-budds,billed
+3 Brodell Sisters,3-brodell-sisters,billed
+Don Francisco,don-francisco,billed
+Earl Scott & Leslie Waters,earl-scott-and-leslie-waters,billed
+Starlight Dixie Trio,starlight-dixie-trio,billed
+George Holmes,george-holmes,billed
+Ann Cooper,ann-cooper,billed
+Billy Irons,billy-irons,billed
+Joe Woods,joe-woods,billed
+3 Skipsters,3-skipsters,billed
+Harriet Waters,harriet-waters,billed
+Boom Boom Bowman,boom-boom-bowman,billed
+Ann Lewis,ann-lewis,billed
+3 Swingsters,3-swingsters,billed
+Skating Lockwells,skating-lockwells,billed
+Anita Jacoby,anita-jacoby,billed
+Beverly White,beverly-white,billed
+Sunshine Sammy & Sleepy Williams,sunshine-sammy-and-sleepy-williams,billed
+Johnny & George,johnny-and-george,billed
+Paul Gordon,paul-gordon,billed
+Dorothy Tinney,dorothy-tinney,billed
+Earl Thompson,earl-thompson,billed
+Scottsboro Boys,scottsboro-boys,billed
+Harlem Playgirls,harlem-playgirls-band,billed
+Harlem Playgirls Band,harlem-playgirls-band,billed
+Jean & Joan,jean-and-joan,billed
+Arlene Bowen,arlene-bowen,billed
+Artie McGinty,artie-mcginty,billed
+3 Chocolateers,3-chocolateers,billed
+Norman Blake,norman-blake,billed
+Sonny & Helen,sonny-and-helen,billed
+Billie Lucky,billie-lucky,billed
+Boots & Saddles,boots-and-saddles,billed
+3 Swing-Crazy Gobs,3-swing-crazy-gobs,billed
+5 Spirits Of Harmony,5-spirits-of-harmony,billed
+Honeyboy Thompson,honeyboy-thompson,billed
+Irene Johnson,irene-johnson,billed
+Freddie & Ginger,freddie-and-ginger,billed
+Ginger & Freddie,freddie-and-ginger,llm
+Smiles & Smiles,smiles-and-smiles,billed
+Nan Snow,nan-snow,billed
+Shirley Russ,shirley-russ,billed
+Pearl Harrison,pearl-harrison,billed
+Deani Lari,deani-lari,billed
+Vivian Ealey,vivian-ealey,billed
+Bobby Short,bobby-short,billed
+Phil Lopez,phil-lopez,billed
+Mexicanos,mexicanos,billed
+Big Time Crip,big-time-crip,billed
+Paul Bass,paul-bass,billed
+Honey Brown,honey-brown,billed
+John Vigal,johnny-vigal,seed
+Johnny Vigal,johnny-vigal,billed
+Ann Wiggins Brown,ann-wiggins-brown,billed
+Cliff Wayne's Indians,clifford-wayne-s-indians,llm
+Clifford Wayne's Indians,clifford-wayne-s-indians,billed
+Karlos & Rinardo,karlos-and-rinardo,billed
+Ruth Ellington,ruth-ellington,billed
+Billy Branch & Co.,billy-branch-and-co,billed
+Larry Seymour,larry-seymour,billed
+Buddy & Judy Allen,buddy-and-judy-allen,billed
+6 Flying Jordans,6-flying-jordans,billed
+3 Rhythmites,3-rhythmites,billed
+3 Tops,3-tops,billed
+Kentucky Singers,kentucky-singers,billed
+Art Harris,art-harris,billed
+2 Specks,2-specks,billed
+Jimmie & Margie,jimmie-and-margie,billed
+Etsy Cooper,etsy-cooper,billed
+Tania & Kirsoff Quartet,tania-and-kirsoff-quartet,billed
+Lillian Fitzgerald,lillian-fitzgerald,billed
+4 Dudley Brothers,dudley-brothers,llm
+Dudley Brothers,dudley-brothers,billed
+Dippy Dees & Dizzy,dippy-dees-and-dizzy,billed
+4 Box Brothers,4-box-brothers,billed
+Billy King,billy-king,billed
+Holmes,ventriloquist-holmes,llm
+Ventriloquist Holmes,ventriloquist-holmes,billed
+Maxine Sullivan,maxine-sullivan,billed
+Dorothy Saulters,dorothy-saulters,billed
+Slim & Slam,slim-and-slam,billed
+Lovey & Flash,lovey-and-flash,billed
+Jack Larue,john-la-rue,llm
+John La Rue,john-la-rue,billed
+Rochelle Trio,rochelle-trio,billed
+Dottie Adams,dottie-adams,billed
+Savoy Sultans,savoy-sultans,billed
+Savoy Sultans Band,savoy-sultans,billed
+Savoy Sultans Ork,savoy-sultans,billed
+Savoy Sultans band,savoy-sultans,billed
+Nagasaki Tramp,nagasaki-tramp-band,billed
+Nagasaki Tramp Band,nagasaki-tramp-band,billed
+Henrietta Lovelace,henrietta-lovelace,billed
+Pete Diggs,pete-diggs,billed
+Short & Shorty,short-and-shorty,billed
+Frances Brock,frances-brock,billed
+Consuela Harris,consuela-harris,billed
+Lavarre Brothers,lavarre-brothers,billed
+Jimmy Jackson,jimmy-jackson,billed
+The Sextuplets,the-sextuplets,billed
+Alfred Latell,alfred-latell,billed
+3 Johns,3-johns,billed
+Marshall Haley,marshall-haley,billed
+2 Hearts,2-hearts,billed
+Belle Powell,belle-powell,billed
+Harlem Knights,harlem-knights-ork,billed
+Harlem Knights Ork,harlem-knights-ork,billed
+Marc Bolero,marc-bolero,billed
+D'Aubour & Rene,d-aubour-and-rene,billed
+Floyd Ray,floyd-ray,billed
+Floyd Ray Ork,floyd-ray,billed
+"Ivy, Vern, & Von",ivy-vern-and-von,billed
+Joe Alexander,joe-alexander,billed
+Walter Long,walter-long,billed
+Joe Hubert,joe-hubert,billed
+Cotton Club Boys,cotton-club-boys,billed
+Melba Smith,melba-smith,billed
+Togo the Jap,togo-the-jap,billed
+Agnes Knox,agnes-knox,billed
+Satch & Satchel,satch-and-satchel,billed
+Tina Dixon,tina-dixon,billed
+Swan,swan,billed
+Lee & Jackson,lee-and-jackson,billed
+Miller Worthy,miller-worthy,billed
+Stuff Smith,stuff-smith-band,billed
+Stuff Smith Band,stuff-smith-band,billed
+Rita Boyce,rita-boyce,billed
+John Hernandez,john-hernandez,billed
+Coke & Poke,moke-and-poke,llm
+Moke & Poke,moke-and-poke,billed
+3 Lunatrix,3-lunatrix,billed
+Wilkins & James,wilkins-and-james,billed
+Helena & Joe Smith,helena-and-joe-smith,billed
+3 Yams,3-yams,billed
+Amelia Gilmore,amelia-gilmore,billed
+Bristol & Gay,bristol-and-gay,billed
+Joe Turner & Pete Johnson,joe-turner-and-pete-johnson,billed
+La Fons,la-fons,billed
+3 Peters Sisters,peters-sisters,llm
+Peters Sisters,peters-sisters,billed
+Joan Lee,joan-lee,billed
+Lon Chaney,lon-chaney,billed
+Motorcycle,motorcycle,billed
+Eve Barry,eve-barry,billed
+Julia Hunter,julia-hunter,billed
+Honi Coles & Bert Howell,honi-coles-and-bert-howell,billed
+Harley Toots & His Rhythm Rascals,harley-toots-and-his-rhythm-rascals,billed
+Melrose Colbert,melrose-colbert,billed
+Snookum Russell,snookum-russell,billed
+Kim Loo Sisters,kim-loo-sisters,billed
+Paul Robinson's Harmonica Rascals,paul-robinson-s-harmonica-rascals,billed
+Jean & Marion,jean-and-marion,billed
+Ace Harris,ace-harris,billed
+Ace Harris Band,ace-harris,billed
+Paul Robinson's Harmonica Champions,paul-robinson-s-harmonica-champions,billed
+Miller Brothers & Ford,miller-brothers-and-ford,billed
+Lee & Astford,lee-and-astford,billed
+Carlos & Carmencita,carlos-and-carmencita,billed
+Hot Lips Page,hot-lips-page,billed
+Hot Lips Page Band,hot-lips-page,billed
+Spizzie & George,spizzie-and-george,billed
+Connie Alcaines,connie-alcaines,billed
+Hazel Diaz,hazel-diaz,billed
+Big Zephyr,big-zephyr,billed
+Baby Hines,baby-hines,billed
+Screene & Johnson,screene-and-johnson,billed
+4 La Vernes,4-la-vernes,billed
+Turner Merle,turner-merle,billed
+Jim Penman,jim-penman,billed
+Hayes & Morrison,hayes-and-morrison,billed
+June Richmond,june-richmond,billed
+5 Shades Of Rhythm,5-shades-of-rhythm,billed
+Diane & Delcampo,diane-and-delcampo,billed
+Millie & Bubbles,millie-and-bubbles,billed
+Dolores Brown,dolores-brown,billed
+Herman Reed,herman-reed,billed
+Earl & Frances,earl-and-frances,billed
+Earle & Frances,earl-and-frances,llm
+2 Novels,2-novels,billed
+3 Harvards,3-harvards,billed
+Lucky Millinder,lucky-millinder,billed
+Lucky Millinder Ork,lucky-millinder,billed
+Lucky Millinder ork,lucky-millinder,billed
+Sonny & Shirley Dall,sonny-and-shirley-dall,billed
+Dorothy Jones,dorothy-jones,billed
+Al Tucker,al-tucker,billed
+3 Songbirds,3-songbirds,billed
+Bartell & Hurst,bartell-and-hurst,billed
+Judy Osborne,judy-osborne,billed
+Charles Mitchell,charles-mitchell,billed
+Beachcombers,beachcombers,billed
+Lillian Mack,lillian-mack,billed
+Bert & Ann Royce,bert-and-ann-royce,billed
+Joe Hedley,joe-hedley,billed
+George Roche,george-roche,billed
+Chick Carter's,chick-carter-s-band,billed
+Chick Carter's Band,chick-carter-s-band,billed
+Marcy & Roberta,marcy-and-roberta,billed
+Desoree Alexander,desoree-alexander,billed
+Wen Talbert's Swing,wen-talbert-s-swing-band,billed
+Wen Talbert's Swing Band,wen-talbert-s-swing-band,billed
+Dolores Alexander,dolores-alexander,billed
+Harlem Play Girls,harlem-play-girls,billed
+"Clarence ""Chick"" Carter",clarence-chick-carter-ork,billed
+"Clarence ""Chick"" Carter Ork",clarence-chick-carter-ork,billed
+Lewis & Van,lewis-and-van,billed
+Jean Starr,jean-starr,billed
+Givens & Carol,givens-and-carol,billed
+Stuff Smith Onyx Club,stuff-smith-onyx-club-band,billed
+Stuff Smith Onyx Club Band,stuff-smith-onyx-club-band,billed
+4 Flying Sullys,4-flying-sullys,billed
+Jackie Smith,jackie-smith,billed
+Harold Reed,harold-reed,billed
+Froshien Stewart,froshine-stewart,llm
+Froshine Stewart,froshine-stewart,billed
+Tom Sawyer,tom-sawyer,billed
+Rubberneck Holmes,rubberneck-holmes,billed
+Laura Pierre,laura-pierre,billed
+3 Whirlwinds,3-whirlwinds,billed
+Bobbie & Teddy Drinkard,bobbie-and-teddy-drinkard,billed
+4 Swingsters & Edith King,4-swingsters-and-edith-king,billed
+Jean Eldridge,jean-eldridge,billed
+Connie Scott,connie-scott,billed
+Spoons Brown,spoons-brown,billed
+Carl & Harriet,carl-and-harriet,billed
+Carl & Harryette,carl-and-harriet,llm
+Lawrence Criner,lawrence-criner,billed
+Lavonia Bennett,lavonia-bennett,billed
+Winters & Merano,winters-and-merano,billed
+Carmen Brown,carmen-brown,billed
+Sahji,sahji,billed
+Sweetie Pie,sweetie-pie,billed
+3 Dandridge Sisters,3-dandridge-sisters,billed
+Winton & Diane,winton-and-diane,billed
+Sam Theard,sam-theard,billed
+Sam Theard Spo-Dee-O-Dee,sam-theard,seed
+Spo-Dee-O-Dee,sam-theard,seed
+Harlem Highlanders,harlem-highlanders,billed
+Martinez & Martin,martinez-and-martin,billed
+Von Grona's Swing Ballet,von-grona-s-swing-ballet,billed
+Sausage & His Pork Chops,sausage-and-his-pork-chops,billed
+Pete Nugent,pete-nugent,billed
+Leroy Williams,leroy-williams,billed
+Bobby & Patsy,bobby-and-patsy,billed
+Ricco,ricco,billed
+Willie Jackson & Son,willie-jackson-and-son,billed
+Lillian Spray,lillian-spray,billed
+Reginald Fenderson,reginald-fenderson,billed
+3 Speed Kings,3-speed-kings,billed
+Jack Sneed,jack-sneed,billed
+Billy Hix & His Sizzling Swingsters,billy-hix-and-his-sizzling-swingsters,billed
+"Sonny, Tommy, & Al",sonny-tommy-and-al,billed
+Norton & Norton,norton-and-norton,billed
+Eddie Haywood,eddie-heywood,llm
+Eddie Heywood,eddie-heywood,billed
+Eddie Heywood Band,eddie-heywood,billed
+Eddie Heywood Combo,eddie-heywood,llm
+Tyree Glenn,tyree-glenn,billed
+Eddie McCormack,eddie-mccormack,billed
+Rosetta Tharpe,rosetta-tharpe,billed
+Sister Rosetta Tharpe,rosetta-tharpe,llm
+Sister Tharpe,rosetta-tharpe,llm
+Billy & Charles,billy-and-charles,billed
+Coreonia Hayman,coreonia-hayman,billed
+Blanche & Elliott,blanche-and-elliott,billed
+Teddy Wilson,teddy-wilson,billed
+Teddy Wilson Band,teddy-wilson,billed
+Thelma Carpenter,thelma-carpenter,billed
+Baby Banks,baby-banks,billed
+3 Riffs,3-riffs,billed
+3 Rhythmettes,3-rhythmettes,billed
+Meade Lux Lewis,meade-lux-lewis,billed
+Albert Ammons,albert-ammons,billed
+Ernie Fields,ernie-fields,billed
+Ernie Fields Band,ernie-fields,billed
+Leora Davis,leora-davis,billed
+Melvin Moore,melvin-moore,billed
+6 Merry Highlanders,6-merry-highlanders,billed
+8 Whirling Dervishes,8-whirling-dervishes,billed
+Floyd Smith,floyd-smith,billed
+Henry Wells,henry-wells,billed
+Henry Wills,henry-wells,llm
+Dick Wilson,dick-wilson,billed
+Joyce Beasley,joyce-beasley,billed
+Charles Smith,charles-smith,billed
+Jitterbug,jitterbug,billed
+Madeline Greene,madeline-greene,billed
+Buster Cromwell,buster-cromwell,billed
+Al & Freddie,al-and-freddie,billed
+Babe Edwards,babe-edwards,billed
+5 Hep Cats,5-hep-cats,billed
+Bishop Tinsley,bishop-tinsley,billed
+Roy Eldridge,roy-eldridge,billed
+Roy Eldridge Ork,roy-eldridge,billed
+Laurel Watson,laurel-watson,billed
+Joe Byrd,joe-byrd,billed
+Atta Blake,atta-blake,billed
+Alberta Perkins,alberta-perkins,billed
+Ann Richardson,ann-richardson,billed
+Cora Parks,cora-parks,billed
+Freddy Johnson,freddy-johnson,billed
+Myrtle Wilson,myrtle-wilson,billed
+Tommy Trent,tommy-trent,billed
+3 Jungle Kings,3-jungle-kings,billed
+Chink Smith,chink-smith,billed
+Damaroff & Dawn,damaroff-and-dawn,billed
+Bradley's Boys,bradley-s-boys,billed
+Bradly Boys,bradley-s-boys,llm
+Mae Arthur,mae-arthur,billed
+Kamis Brothers,kamis-brothers,billed
+Jerry Taps,jerry-taps,billed
+Jerry Tops,jerry-taps,llm
+Claude & Corinne,claude-and-corinne,billed
+Walter Batie,walter-batie,billed
+Clifford Bowman,clifford-bowman,billed
+Bob Parish,bob-parish,billed
+Bob Parrish,bob-parish,llm
+Mush & Sugar,mush-and-sugar,billed
+2 Rhythm Giants,2-rhythm-giants,billed
+Cowans' Tramp,cowans-tramp-band,billed
+Cowans' Tramp Band,cowans-tramp-band,billed
+Claudia McNeil,claudia-mcneil,billed
+Walter Green,walter-green,billed
+Julia Gardner,julia-gardner,billed
+Julie Gardner,julia-gardner,llm
+4 Co-Eds,4-co-eds,billed
+4 Co-eds,4-co-eds,billed
+Detroit Crip,detroit-crip,billed
+Lee Norman,lee-norman-band,billed
+Lee Norman Band,lee-norman-band,billed
+Winfield & Ford,winfield-and-ford,billed
+Raymond Koalund,raymond-koalund,billed
+Butch The Clown,butch-the-clown,billed
+Bunny Berigan,bunny-berigan-ork,billed
+Bunny Berigan Ork,bunny-berigan-ork,billed
+Apus & Estrellita,apus-and-estrellita,billed
+Apus & Stella,apus-and-estrellita,seed
+Apus &Estrellita,apus-and-estrellita,billed
+Al Hylton,al-hylton,billed
+Viola Underwood,viola-underwood,billed
+Long & Short,long-and-short,billed
+Calloway's Dancing Boys & Girls,calloway-s-dancing-boys-and-girls,billed
+Millen Brothers,millen-brothers,billed
+Red Rogers,red-rogers,billed
+Marjorie Hubbard,marjorie-hubbard,billed
+DeMargo Sisters,demargo-sisters,billed
+Spic & Span,spic-and-span,billed
+Spick & Span,spic-and-span,llm
+Elizabeth Dozier & Harperettes,elizabeth-dozier-and-harperettes,billed
+Lindy Hop Champions,lindy-hop-champions,billed
+Helen Humes,helen-humes,billed
+Jimmie Mitchell,jimmie-mitchell,billed
+Jimmmie Mitchell,jimmie-mitchell,llm
+Les Hite,les-hite,billed
+Slim & Slam & Flat Foot Floogie Boys,slim-gaillard-and-flat-foot-floogie-boys,llm
+Slim Gaillard & Flat Foot Floogie Boys,slim-gaillard-and-flat-foot-floogie-boys,billed
+Foster & Batie,foster-and-batie,billed
+Clarence Robinson Girls,clarence-robinson-girls,billed
+Harry James,harry-james,billed
+3 Jones Brothers,3-jones-brothers,billed
+Teddy Allen,teddy-allen,billed
+Rodney Sturgis,rodney-sturgis,billed
+Viola,viola,billed
+3 Magnandes,3-magnandes,billed
+"Apus, Stella, Sandy, & George",apus-stella-sandy-and-george,billed
+Stone Singers,stone-singers,billed
+Emil & Evelyn,emil-and-evelyn,billed
+Barry Guy,barry-guy,billed
+Viola Underhill,viola-underhill,billed
+Flo Maye,flo-maye,billed
+Sadji,sadji,billed
+Harlem Showboat,harlem-showboat,billed
+Thomas Wilson,thomas-wilson,billed
+Candy & Pepper,candy-and-pepper,billed
+Coleman Hawkins,coleman-hawkins,billed
+Coleman Hawkins Band,coleman-hawkins,billed
+Deep River Boys,deep-river-boys,billed
+Punch & Judy,punch-and-judy,billed
+Rimacs,rimacs,billed
+3 Loose Nuts,3-loose-nuts,billed
+Brownskin Chorus,brownskin-chorus,billed
+Rose Brown,rose-brown,billed
+Leon Abbey,leon-abbey-band,billed
+Leon Abbey band,leon-abbey-band,billed
+Louis Prima,louis-prima,billed
+Matthews & Young,matthews-and-young,billed
+Cotton Club Dancers,cotton-club-dancers,billed
+Hotcha Drew,hotcha-drew,billed
+Willie Jackson,willie-jackson,billed
+Tommy & Al,tommy-and-al,billed
+Miller Brothers & Lois,miller-brothers-and-lois,billed
+Marie Bryant,marie-bryant,billed
+Judy Carol,judy-carol,billed
+Billy Eckstein,billy-eckstine,seed
+Billy Eckstine,billy-eckstine,billed
+Billy Ekstein Eckstine,billy-eckstine,seed
+Flashe & Sunda,flashe-and-sunda,billed
+Novelle Trio,novelle-trio,billed
+Roscoe Simmons,roscoe-simmons,billed
+Binkie & Margie,binkie-and-margie,billed
+Silver The Horse,silver-the-horse,billed
+Golden Gate Quartet,golden-gate-quartet,billed
+Lew Leslie's Rhapsody In Black,lew-leslie-s-rhapsody-in-black,billed
+Moore & Byrd,moore-and-byrd,billed
+Estelle & Papo,estelle-and-papo,billed
+Kate Hall,kate-hall,billed
+Mary Bruce Dancing Girls,mary-bruce-dancing-girls,billed
+Mary Bruce Dancing Girls & Boys,mary-bruce-dancing-girls,llm
+Mary Bruce Girls,mary-bruce-dancing-girls,llm
+Whitey's Lindy Champs,whitey-s-lindy-champs,billed
+Cats & The Fiddle,cats-and-the-fiddle,billed
+Kitty Murray,kitty-murray,billed
+Salt & Pepper,salt-and-pepper,billed
+John Kirby,john-kirby,billed
+John Kirby Band,john-kirby,billed
+John Kirby band,john-kirby,billed
+Pearl Bailey,pearl-bailey,billed
+3 Bye Sisters,bye-sisters,llm
+Bye Sisters,bye-sisters,billed
+Joyner & Foster,joyner-and-foster,billed
+Marion Worthy,marion-worthy,billed
+Barbara Belmore,barbara-belmore,billed
+Jimmie Smith,jimmie-smith,billed
+Lorenzo Robeson,lorenzo-robeson,billed
+Lou Spencer,lou-spencer,billed
+"John Mason, Vigal, & Koko",john-mason-vigal-and-koko,billed
+Cotton Club Tramp,cotton-club-tramp-band,billed
+Cotton Club Tramp Band,cotton-club-tramp-band,billed
+Billy & Vivian,billy-and-vivian,billed
+"Sandy, Freddie, & George",sandy-freddie-and-george,billed
+Herb Jeffries,herb-jeffries,billed
+Herbie Jeffries,herb-jeffries,llm
+Covan & Covan,covan-and-covan,billed
+David & Whitty,david-and-whitty,billed
+Erskine Butterfield,erskine-butterfield,billed
+Gee & Whiz,gee-and-whiz,billed
+Connie Harris,connie-harris,billed
+Whitey's Cyclonic Dancers,whitey-s-cyclonic-dancers,billed
+2 Lucky Bucks,2-lucky-bucks,billed
+Nouvelles,nouvelles,billed
+3 Wiles,3-wiles,billed
+Juanita Johnson,juanita-johnson,billed
+Connie Klass,connie-klass,billed
+Otto Eason,otto-eason,billed
+Freddie Robinson & George Wiltshire,freddie-robinson-and-george-wiltshire,billed
+Richard Huey,richard-huey,billed
+Mary Bruce's Girls & Boys,mary-bruce-s-girls-and-boys,billed
+Blue Moaners Quartet,blue-moaners-quartet,billed
+Vance Lowry,vance-lowry,billed
+Flournoy Miller,flournoy-miller,billed
+Pauline Johns,pauline-johns,billed
+Whitey's Lindy Hoppers,whitey-s-lindy-hoppers,billed
+Billy Butler's,billy-butler-s-band,billed
+Billy Butler's Band,billy-butler-s-band,billed
+Norton & Holley,norton-and-holley,billed
+Juanita Hall Singers,juanita-hall-singers,billed
+James P. Johnson,james-p-johnson-band,billed
+James P. Johnson Band,james-p-johnson-band,billed
+King Brothers,king-brothers,billed
+Slim Thomas,slim-thomas,billed
+Simpson's Humanettes,simpson-s-humanettes,billed
+Bing Williams,bing-williams,billed
+Sterling & Rebia,sterling-and-rebia,billed
+Taps & Baby,taps-and-baby,billed
+Harperettes,harperettes,billed
+Wallace Brothers,wallace-brothers,billed
+St. Clair & Leroy,st-clair-and-leroy,billed
+Ann Baker,ann-baker,billed
+Runaway Four,runaway-four,billed
+Tondelayo & Lopez,tondelayo-and-lopez,billed
+Viola Jefferson,viola-jefferson,billed
+Christopher Columbus,christopher-columbus-band,billed
+Christopher Columbus Band,christopher-columbus-band,billed
+Lula Pierre,lula-pierre,billed
+6 Grooveneers,6-grooveneers,billed
+Canada Lee,canada-lee,billed
+O'Connor Brothers,o-connor-brothers,billed
+"Eddie, Jack & Betty",eddie-jack-and-betty,billed
+International Sweethearts Of Rhyhtm,international-sweethearts-of-rhythm,llm
+International Sweethearts Of Rhythm,international-sweethearts-of-rhythm,billed
+Sweethearts Of Rhythm,international-sweethearts-of-rhythm,llm
+"Edna ""Yack"" Taylor",yak-taylor,seed
+Yack Taylor,yak-taylor,seed
+Yak Taylor,yak-taylor,billed
+Lillian Brown,lillian-brown,billed
+Lavolos Tullos,lavolos-tullos,billed
+Quinnie,quinnie,billed
+Pansy The Horse,pansy-the-horse,billed
+"Spider, Ashes, & Johnny",spider-ashes-and-johnny,billed
+Bobby Cossey,bobby-cossey,billed
+Bo Jenkins,bo-jenkins,billed
+Sinclair & LeRoy,sinclair-and-leroy,billed
+Sinclair & Leroy,sinclair-and-leroy,billed
+Trevor Bacon,trevor-bacon,billed
+Freddie & Flo,freddie-and-flo,billed
+Bill Robinson's Hot Mikado,bill-robinson-s-hot-mikado,billed
+"Eddie ""Rochester"" Anderson",eddie-rochester-anderson,billed
+Florida Aristocrats,florida-aristocrats,billed
+Johnny Lee,johnny-lee,billed
+Evelyn White,evelyn-white,billed
+Baby Laurence,baby-laurence,billed
+Horace Henderson,horace-henderson,billed
+4 Toppers,4-toppers,billed
+Hollywood's Canine Wonders,hollywood-s-canine-wonders,billed
+3 Kings,3-kings,billed
+Tampa Boys,tampa-boys,billed
+Muriel Cook,muriel-cook,billed
+Freddie Heron,freddie-heron,billed
+"Paul, Slim, & Eddie",paul-slim-and-eddie,billed
+Lil Green,lil-green,billed
+Monte Hawley & Johnny Lee,monte-hawley-and-johnny-lee,billed
+Peckin' Joe,peckin-joe,billed
+Dorothy Johnson,dorothy-johnson,billed
+Juvenile Jitterbugs,juvenile-jitterbugs,billed
+Lionel Hampton,lionel-hampton,billed
+Doc Wheeler's Sunset Royal,doc-wheeler-s-sunset-royal-band,billed
+Doc Wheeler's Sunset Royal Band,doc-wheeler-s-sunset-royal-band,billed
+Henry Armstrong,henry-armstrong,billed
+Whitey's Jitterbugs,whitey-s-jitterbugs,billed
+Earl Bostic,earl-bostic,billed
+Earl Bostic Band,earl-bostic,billed
+Earl Bostic Ork,earl-bostic,billed
+4 Marvels,4-marvels,billed
+Tune Toppers,tune-toppers,billed
+Flo Brown,flo-brown,billed
+Gonzales Trio,gonzales-trio,billed
+Miss Rhapsody,miss-rhapsody,billed
+Pot,pot,billed
+Pan & Skillet,pan-and-skillet,billed
+Rhythm Red,rhythm-red,billed
+4 Macks,4-skating-macks,llm
+4 Skating Macks,4-skating-macks,billed
+Skating Macs,4-skating-macks,llm
+Pat Flowers,pat-flowers,billed
+Wallace's Puppets,wallace-s-puppets,billed
+Mason & Vigal,mason-and-vigal,billed
+Cholly & Dottie,cholly-and-dottie,billed
+Cholly & Dotty,cholly-and-dottie,llm
+Wallace Boys,wallace-boys,billed
+6 Faludys,6-faludys,billed
+3 Business Men Of Rhythm,3-business-men-of-rhythm,billed
+3 Businessmen Of Rhythm,3-business-men-of-rhythm,llm
+Businessmen Of Rhythm,3-business-men-of-rhythm,llm
+4 Kit Kats,4-kit-kats,billed
+Rhythm Debs,rhythm-debs,billed
+Lee & Hawley,lee-and-hawley,billed
+Dynamite Jefferson,dynamite-jefferson,billed
+Avery Parrish,avery-parrish,billed
+3 Acromaniacs,3-acromaniacs,billed
+Harvey & Lee,harvey-and-lee,billed
+3 Shades Of Rhythm,3-shades-of-rhythm,billed
+Football Dogs,football-dogs,billed
+Burnham,burnham,billed
+Harris & Scott,harris-and-scott,billed
+Snap & Snappy,snap-and-snappy,billed
+Eddie Rector,eddie-rector,billed
+Jay Higgenbotham,jay-higgenbotham,billed
+Delta Rhythm Boys,delta-rhythm-boys,billed
+Holmes & Jean,holmes-and-jean,billed
+Sons Of The South,sons-of-the-south,billed
+Al Custer,al-custer,billed
+Al Guster,al-custer,llm
+Jay McShann,jay-mcshann,billed
+Jay McShann Ork,jay-mcshann,billed
+Walter Brown,walter-brown,billed
+4 Kings & A Queen,4-kings-and-a-queen,billed
+Arnault Family,arnault-family,billed
+Willie Dee,willie-dee,billed
+Billy Nightingale,billy-nightingale,billed
+4 Hartens,4-hartens,billed
+Mildred Bailey,mildred-bailey,billed
+Red Norvo,red-norvo,billed
+Cootie Williams,cootie-williams,billed
+Cootie Williams Ork,cootie-williams,billed
+3 Jokers,3-jokers,billed
+Maxine Bros. & Bobby,maxine-bros-and-bobby,billed
+Monroe Brothers,monroe-brothers,billed
+Sarah Brown,sarah-brown,billed
+Jimmie Daniels,jimmie-daniels,billed
+Snakehips Davis,snakehips-davis,billed
+Batie & Tuffie,walter-batie-and-tuffie,llm
+Walter Batie & Tuffie,walter-batie-and-tuffie,billed
+"Tylor, Thorne, & Post",tylor-thorne-and-post,billed
+Brookins & Van,brookins-and-van,billed
+Burns & Givins,burns-and-givins,billed
+Billy Adams & Victoria Spivey,billy-adams-and-victoria-spivey,billed
+Victoria Spivey & Billy Adams,billy-adams-and-victoria-spivey,llm
+4 Blues,4-blues,billed
+Olivette Miller,olivette-miller,billed
+3 Palms,3-palms,billed
+Bogash & Bardine,bogash-and-bardine,billed
+Jesse & James,jesse-and-james,billed
+Chuckles & Cromer,chuckles-and-cromer,billed
+1942 Harvest Moon Champions,1942-harvest-moon-champions,billed
+Eddie Durham & His All-Girl,eddie-durham-and-his-all-girl-band,billed
+Eddie Durham & His All-Girl Band,eddie-durham-and-his-all-girl-band,billed
+Eddie Durham All-Girl,eddie-durham-and-his-all-girl-band,manual
+Eddie Durham All-Girl Ork,eddie-durham-and-his-all-girl-band,manual
+Timbu,timbu,billed
+7 Predysons,7-predysons,billed
+"Sandy, George, & Vivian",sandy-george-and-vivian,billed
+Artie Brooks,artie-brooks,billed
+Patterson & Jackson,patterson-and-jackson,billed
+6 Willys,6-willys,billed
+"Eddie ""Cleanhead"" Vinson",eddie-cleanhead-vinson,billed
+"Eddie ""Cleanhead"" Vinson Band",eddie-cleanhead-vinson,billed
+6 Lucky Girls,6-lucky-girls,billed
+Smith Brothers,smith-brothers,billed
+Slim & Sweets,slim-and-sweets,billed
+Clarence Ellis,clarence-ellis,billed
+4 Ginger Snaps,ginger-snaps,llm
+Ginger Snaps,ginger-snaps,billed
+Adriano & Charlie,adriano-and-charlie,billed
+4 Keys,4-keys,billed
+Al Cooper's Savoy Sultans,al-cooper-s-savoy-sultans,billed
+Dick Montgomery,dick-montgomery,billed
+Manhattan Paul,manhattan-paul,billed
+Pops & Bernice,pops-and-bernice,billed
+Thompson Brothers,thompson-brothers,billed
+Al Sears,al-sears,billed
+Al Sears Band,al-sears,billed
+Al Sears Orchestra,al-sears,billed
+Baltimore Howards,baltimore-howards,billed
+Williams & Wiltshire,williams-and-wiltshire,billed
+Peanuts Holland,peanuts-holland,billed
+Howard McGhee,howard-mcghee,billed
+Howard McGhee Ork,howard-mcghee,billed
+Nita Bradley,nita-bradley,billed
+Chubby Jackson,chubby-jackson,billed
+Derby & Frenchie,derby-and-frenchy,llm
+Derby & Frenchy,derby-and-frenchy,billed
+Derby Wilson & Frenchy,derby-and-frenchy,llm
+The Zoppys,the-zoppys,billed
+Jivadeers,jivadeers,billed
+Spizzie & Willie,spizzie-and-willie,billed
+Jimmie Peterson,jimmie-peterson,billed
+4 Earles,4-earles,billed
+Bea Moten,bea-moten,billed
+Lily Ann Carol,lily-ann-carol,billed
+Lily Ann Carroll,lily-ann-carol,llm
+Bea & Her Beaux,bea-and-her-beaux,billed
+Maxellos,maxellos,billed
+Edna & George,edna-and-george,billed
+Dinah Washington,dinah-washington,billed
+Rubel Blakely,rubel-blakely,billed
+Rubel Blakely Band,rubel-blakely,billed
+Tony Pastor,tony-pastor,billed
+Viola the contortionist,viola-the-contortionist,billed
+"Ford, Bowie, & Bennie",ford-bowie-and-bennie,billed
+Great Bender,the-great-bender,billed
+The Great Bender,the-great-bender,billed
+Allen Drew,allen-drew,billed
+Josie Garrison,josie-garrison,billed
+Cornbread & Honeychile,cornbread-and-honeychile,billed
+Tanglefoot & Bateest,tanglefoot-and-bateest,billed
+4 Southern Sons,4-southern-sons,billed
+Cuban Diamonds,cuban-diamonds,billed
+Brown & Brown Trio,brown-and-brown-trio,billed
+Douglas Brothers,douglas-brothers,billed
+Sharkey The Seal,sharkey-the-seal,billed
+3 Poms,3-poms,billed
+wrestling bear,wrestling-bear,billed
+Muggsy Spanier,muggsy-spanier,billed
+Dave McHarris,dave-mcharris,billed
+Alan Courtney,alan-courtney,billed
+Herman Autrey,herman-autrey,billed
+Slick Jones,slick-jones,billed
+Ruby Smith,ruby-smith,billed
+Harold Cromer,harold-cromer,billed
+Sarah Vaughan,sarah-vaughan,billed
+Sarah Vaughn,sarah-vaughan,llm
+Trummy Young,trummy-young,billed
+Trummy Young's,trummy-young,manual
+Trummy Young's Band,trummy-young,manual
+Oscar Pettiford,oscar-pettiford,billed
+Mary Ann McCall,mary-ann-mccall,billed
+Moore & Wilson,moore-and-wilson,billed
+Gibsons,gibsons,billed
+Teddy Powell,teddy-powell,billed
+Kay & Karol,kay-and-karol,billed
+Strawberry & Julia,strawberry-russell-and-julia,llm
+Strawberry Russell & Julia,strawberry-russell-and-julia,billed
+Randolph & Purvis,randolph-and-purvis,billed
+Troy Brown & Baron Lee,troy-brown-and-baron-lee,billed
+Jimmy Young,jimmy-young,billed
+Cecil Scott,cecil-scott,billed
+Cecil Scott Band,cecil-scott,billed
+Cecil Scott's,cecil-scott,llm
+Cecil Scott's Band,cecil-scott,llm
+Miltin Larkin,miltin-larkin-ork,billed
+Miltin Larkin Ork,miltin-larkin-ork,billed
+"""Teabone"" Walker",t-bone-walker,llm
+T-Bone Walker,t-bone-walker,billed
+Princess Sahloo,princess-sahloo,billed
+Sandra Lee,sandra-lee,billed
+King Johnson,king-johnson,billed
+3 Reeves Sisters,3-reeves-sisters,billed
+Carlton Emmy & His Dogs,carlton-emmy-and-his-dogs,billed
+Pegleg Jefferson & Mary,pegleg-jefferson-and-mary,billed
+Eddie Lemons,eddie-lemons,billed
+Bateest & Rastus,bateest-and-rastus,billed
+Eddie Durham's All Girl,eddie-durham-s-all-girl-band,billed
+Eddie Durham's All Girl Band,eddie-durham-s-all-girl-band,billed
+Bob Chester,bob-chester-band,billed
+Bob Chester Band,bob-chester-band,billed
+Bob Chester Ork,bob-chester-band,billed
+Adrien Dancers,adrien-dancers,billed
+Joe William,joe-williams,llm
+Joe Williams,joe-williams,billed
+Buddy Johnson,buddy-johnson,billed
+Buddy Johnson Ork,buddy-johnson,billed
+Buddy Johnson ork,buddy-johnson,billed
+Ella Johnson,ella-johnson,billed
+Andrew Sinclair,andrew-sinclair,billed
+Tit & Tat,tit-and-tat,billed
+Graysons,graysons,billed
+"Tim, George, & Vivian",tim-george-and-vivian,billed
+Billy Byrd,billy-byrd,billed
+Appletons,appletons,billed
+Ruth Warner,ruth-warner,billed
+Fritz & Carol,fritz-and-carol,billed
+Sandy Birch,sandy-birch,billed
+6 Toppers,6-toppers,billed
+Louis McBride,louis-mcbride,billed
+6 Freddy Sons,6-freddy-sons,billed
+Eddie Robinson,eddie-robinson-band,billed
+Eddie Robinson Band,eddie-robinson-band,billed
+Ray Sneed,ray-sneed,billed
+Lopez & Venida,lopez-and-venida,billed
+Fay Canty,fay-canty,billed
+Rug Cutters,rug-cutters,billed
+Radcliffe & Jenkins,radcliffe-and-jenkins,billed
+Shorts Davis,shorty-davis,llm
+Shorty Davis,shorty-davis,billed
+DeCarlos,decarlos,billed
+The Bryants,the-bryants,billed
+Joe Medlin,joe-medlin,billed
+Canfield & Lewis,canfield-and-lewis,billed
+Caleb Peterson,caleb-peterson,billed
+3 Hearts,3-hearts,billed
+Kid Lips Hackett,kid-lips-hackett,billed
+4 Whippets,4-whippets,billed
+Georgie Auld,georgie-auld,billed
+Georgie Auld Band,georgie-auld,billed
+Georgie Auld Ork,georgie-auld,billed
+Clark Brothers,clark-brothers,billed
+Smith Sisters,smith-sisters,billed
+Willie Duke,willie-duke,billed
+Jim Wong Chinese Troupe,jim-wong-troupe,llm
+Jim Wong Troupe,jim-wong-troupe,billed
+Wong Troupe,jim-wong-troupe,llm
+Carter & Bowie,carter-and-bowie,billed
+Burton & Janet,burton-and-janet,billed
+Blackie Johnson,blackie-johnson,billed
+Bobby Sherwood,bobby-sherwood-band,billed
+Bobby Sherwood Band,bobby-sherwood-band,billed
+Alston & Young,alston-and-young,billed
+Gail Landis,gail-landis,billed
+Harris & Frazier,harris-and-frazier,billed
+Royal Harmony Four,royal-harmony-four,billed
+Nat Towles,nat-towles-band,billed
+Nat Towles Band,nat-towles-band,billed
+Nat Towles Ork,nat-towles-band,billed
+Nat Towles',nat-towles-band,billed
+Nat Towles' Band,nat-towles-band,billed
+Killer Lawrence,killer-lawrence,billed
+Doc Wheeler,doc-wheeler,billed
+Teddy McRae,teddy-mcrae-band,billed
+Teddy McRae Band,teddy-mcrae-band,billed
+Teddy McRae Ork,teddy-mcrae-band,billed
+Bobbie & Foster Johnson,bobbie-and-foster-johnson,billed
+Rae Pearl & YoYo,ray-pearl-and-yo-yo,llm
+Ray Pearl & Yo Yo,ray-pearl-and-yo-yo,billed
+Bert Howell & Buddy Bowser,bert-howell-and-buddy-bowser,billed
+Effie Smith,effie-smith,billed
+Kinneys,kinneys,billed
+2 Swing Maniacs,2-swing-maniacs,billed
+Tim & Vivian,tim-and-vivian,billed
+Gertrude Saunders,gertrude-saunders,billed
+3 Cabin Kids,cabin-kids,llm
+Cabin Kids,cabin-kids,billed
+Savannah Churchill,savannah-churchill,billed
+Dolly Pembroke,dolly-pembroke,billed
+Dolly Pembrook,dolly-pembroke,llm
+3 Claire Sisters,claire-sisters,llm
+Claire Sisters,claire-sisters,billed
+Gwen Tyne,gwen-tynes,llm
+Gwen Tynes,gwen-tynes,billed
+"Low, Hite, & Stanley",low-hite-and-stanley,billed
+Blue Bonnets,blue-bonnets,billed
+2 Nit Wits,2-nit-wits,billed
+Shorty Howell,shorty-howell,billed
+The Canine Gang,the-canine-gang,billed
+Leon Prima,leon-prima,billed
+Jimmy Vincent,jimmy-vincent,billed
+Lou Owen,lou-owen,billed
+3 Edwards,3-edwards,billed
+Silver Echo Quartet,silver-echo-quartet,billed
+Gatemouth Moore,gatemouth-moore,billed
+Princess Aurelia,princess-aurelia,billed
+Billy & Evelyn Nightingale,billy-and-evelyn-nightingale,billed
+Royal Harmony Five,royal-harmony-five,billed
+Manhattan Trio,manhattan-trio,billed
+Skeet & Skeeter,skeet-and-skeeter,billed
+Ben Carter & Mantan Moreland,ben-carter-and-mantan-moreland,billed
+Count LeRoy,count-leroy,billed
+Count Leroy,count-leroy,billed
+3 Fat Men,3-fat-men,billed
+Boyd Raeburn,boyd-raeburn,billed
+Boyd Raeburn Ork,boyd-raeburn,billed
+Ford,ford,billed
+Bowie & Bennie,bowie-and-bennie,billed
+Miller & Boo Gee,miller-and-boo-gee,billed
+Miller & Boogee,miller-and-boo-gee,llm
+Honey Boy Thompson,honey-boy-thompson,billed
+Del Ray Brothers,del-ray-brothers,billed
+Claudia Oliver,claudia-oliver,billed
+Cabalettes,cabalettes,billed
+Johnny Taylor,johnny-taylor,billed
+Cab Jivers,cab-jivers,billed
+Jonah Jones,jonah-jones,billed
+Joe Taylor,joe-taylor,billed
+Stevens Brothers & their bear,stevens-brothers-and-their-bear,billed
+Kay Little,kay-little,billed
+"Tim, Crack, & Vivian",tim-crack-and-vivian,billed
+Billy Mitchell,billy-mitchell,billed
+Al Cowan's Tramps,al-cowan-s-tramps,billed
+Remos' Midgets,remos-midgets,billed
+5 Cabineers,cabineers,llm
+Cabineers,cabineers,billed
+Foster Johnson,foster-johnson,billed
+Toni Brown,toni-brown,billed
+Irene Wiley,irene-wiley,billed
+Coty & Sue,coty-and-sue,billed
+Great Render,great-render,billed
+Snooks & Allen,snooks-and-allen,billed
+Boogie & Woogie,boogie-and-woogie,billed
+Blues Harris,blues-harris,billed
+Sonny Bibb,sonny-bibb,billed
+Praire View College Co-Eds,prairie-view-college-co-eds,llm
+Prairie View College Co-eds,prairie-view-college-co-eds,billed
+Leon Collins,leon-collins,billed
+Buster & Toby,buster-and-toby,billed
+Duke Of Iron,duke-of-iron,billed
+LaFleur & Manners,lafleur-and-manners,billed
+Baron Harris,baron-harris,billed
+Warren Evans,warren-evans,billed
+Ray & Ravita,ray-and-ravita,billed
+3 Jacks,3-jacks,billed
+3 Sophisticated Ladies,3-sophisticated-ladies,billed
+Tommy Reynolds,tommy-reynolds-band,billed
+Tommy Reynolds Band,tommy-reynolds-band,billed
+Tommy Reynolds band,tommy-reynolds-band,billed
+Doris Smart & 3 Jacks,doris-smart-and-3-jacks,billed
+Wyatt Clarke & Rosalie Young,wyatt-clarke-and-rosalie-young,billed
+Flournoy Miller & Johnny Lee,flournoy-miller-and-johnny-lee,billed
+Doris Smart,doris-smart,billed
+"Leroy, Leroy, & Juanita",leroy-leroy-and-juanita,billed
+Rene & Russell,rene-and-russell,billed
+Toni Jenkins,toni-jenkins,billed
+Rhythm Williams,rhythm-williams,billed
+Grey Family,grey-family,billed
+Red Caps,red-caps,billed
+Slim & Jim,slim-and-jim,billed
+John Hopkins,john-hopkins,billed
+Billy Wells & 4 Fays,billy-wells-and-4-fays,billed
+Wells & 4 Fays,billy-wells-and-4-fays,llm
+George Hudson,george-hudson,billed
+George Hudson Band,george-hudson,billed
+George Hudson Ork,george-hudson,billed
+Georgie Hudson,george-hudson,llm
+Georgie Hudson Band,george-hudson,llm
+Manhattan Debs,manhattan-debs,billed
+Flash McDonald,flash-mcdonald,billed
+Jelly Roll & Zuzu,jelly-roll-and-zuzu,billed
+Jellyroll & Zuzu,jelly-roll-and-zuzu,llm
+3 Glenns,3-glenns,billed
+Ray & Rae,ray-and-rae,billed
+George Williams & Roscoe Dyla,george-williams-and-roscoe-dyla,billed
+Billy & Eleanor,billy-and-eleanor-byrd,llm
+Billy & Eleanor Byrd,billy-and-eleanor-byrd,billed
+Riff Robbins Trio,riff-robbins-trio,billed
+King Cole Trio,king-cole-trio,billed
+Timmie Rogers,timmie-rogers,billed
+Johnny Hodges,johnny-hodges,billed
+Johnny Hodges Ork,johnny-hodges,billed
+Johnny Hodges ork,johnny-hodges,billed
+Ray Mance,ray-nance,llm
+Ray Nance,ray-nance,billed
+Rex Stewart,rex-stewart,billed
+Al Hibbler,al-hibbler,billed
+Johnny Gardner,johnny-gardner,billed
+Rastus Murray,rastus-murray,billed
+4 Pin-Up Girls,4-pin-up-girls,billed
+Billie Rogers,billie-rogers-and-her-band,billed
+Billie Rogers & Her Band,billie-rogers-and-her-band,billed
+Melo-Dears,melo-dears,billed
+Larry Steele,larry-steele,billed
+Ann Jenkins,ann-jenkins,billed
+Boyd & Chapman,boyd-and-chapman,billed
+4 Mello Tones,4-mello-tones,billed
+Janie Moses,janie-moses,billed
+Arthur Walker,arthur-walker,billed
+Harris & Jones,harris-and-jones,billed
+Essex Scott,essex-scott,billed
+Lord Essex,essex-scott,llm
+Red Lyons,red-lyons,billed
+Tiny Dickerson,tiny-dickerson,billed
+Al Wilson,al-wilson,billed
+Taps & Wilda,tops-and-wilda,llm
+Tops & Wilda,tops-and-wilda,billed
+Clayton & Phillips,clayton-and-phillips,billed
+Annabelle Hill,annabelle-hill,billed
+Heckle & Jive,heckle-and-jive,billed
+Albert Ammons & Pete Johnson,albert-ammons-and-pete-johnson,billed
+Big Joe Turner,big-joe-turner,billed
+Joe Turner,big-joe-turner,llm
+Chuck & Jackie,chuck-and-jackie,billed
+Winnie Thompson,winnie-thompson,billed
+"Frank ""Fat Man"" Humphries",frank-humphries,billed
+"Frank ""Fat Man"" Humphries ork",frank-humphries,billed
+Frank Humphries,frank-humphries,billed
+Frank Humphries Ork,frank-humphries,billed
+Carol Tucker,carol-tucker,billed
+3 Smith Sisters,3-smith-sisters,billed
+Smooth & Mellow,smooth-and-mellow,billed
+The Notes,the-notes,billed
+Nora Blunt,nora-blunt,billed
+Milton Buggs,milton-buggs,billed
+Frank Galbreath,frank-galbreath,billed
+Juggling Jewels,juggling-jewels,billed
+Kelsey,kelsey,billed
+4 Notes,4-notes,billed
+"Tim Moore, Crackshot, & Vivian Harris",tim-moore-crackshot-and-vivian-harris,billed
+3 Little Sisters,3-little-sisters,billed
+Dewey Taylor,dewey-taylor,billed
+Marva Louis,marva-louis,billed
+Deek Watson & Brown Dots,deek-watson-and-brown-dots,billed
+Raps & Taps,raps-and-taps,billed
+Smith & Doyle,smith-and-doyle,billed
+Virginia's Puppets,virginia-s-puppets,billed
+Al & Billie Richards,al-and-billie-richards,billed
+Wynonie Harris,wynonie-harris,billed
+Gausmith Brothers,gausmith-brothers,billed
+Jeter-Pillars,jeter-pillars-band,billed
+Jeter-Pillars Band,jeter-pillars-band,billed
+Freddie Douglas,freddie-douglas,billed
+Margaret Watkins,margaret-watkins,billed
+Smitty & Dotty,smitty-and-dotty,billed
+2 Rhythm Kings,2-rhythm-kings,billed
+Ziggy Johnson's Brownskin Chorus,ziggy-johnson-s-brownskin-chorus,billed
+Ziggy Johnson's Brownskin Chorus Girls,ziggy-johnson-s-brownskin-chorus,llm
+Dallas Bartley,dallas-bartley-band,billed
+Dallas Bartley Band,dallas-bartley-band,billed
+Edwards Brothers,edwards-brothers,billed
+Ralph Cooper & His Stooges,ralph-cooper-and-his-stooges,billed
+Tab Smith,tab-smith,billed
+Tab Smith Band,tab-smith,billed
+Ziggy Johnson's Brown Skin Dancing Dolls,ziggy-johnson-s-brown-skin-dancing-dolls,billed
+Betty Mays,betty-mays,billed
+Coleman Clark,coleman-clark,billed
+Big Bill Broonzy,big-bill-broonzy,billed
+Loumell Morgan Trio,loumell-morgan-trio,billed
+Bull Moose Jackson,bull-moose-jackson,billed
+Bull Moose Jackson Orchestra,bull-moose-jackson,billed
+Leon Ketchum,leon-ketchum,billed
+3 Steeplechasers,steeplechasers,llm
+4 Steeplechasers,steeplechasers,llm
+Steeplechasers,steeplechasers,billed
+Ollie Bishop,ollie-bishop,billed
+McGinty & Hughes,mcginty-and-hughes,billed
+Anita Brown,anita-brown,billed
+Marlins,marlins,billed
+Mal Hallett,mal-hallett-band,billed
+Mal Hallett Band,mal-hallett-band,billed
+Mabel Fairbanks,mabel-fairbanks,billed
+Rigoletto Brothers & Aimee Sisters,rigoletto-brothers-and-aimee-sisters,billed
+Rogers & Collins,rogers-and-collins,billed
+"Coco, Steve, & Eddie",coco-steve-and-eddie,billed
+Ralph James,ralph-james,billed
+Rhythm Girls,rhythm-girls,billed
+2 Business Men Of Rhythm,2-business-men-of-rhythm,billed
+Dorothy Donegan,dorothy-donegan,billed
+Beulah Bryant,beulah-bryant,billed
+"Hop, Skip, & Jump",hop-skip-and-jump,billed
+Roscoe Dyla,roscoe-dyla,billed
+Joe Liggins & Honeydrippers,joe-liggins-and-honeydrippers,billed
+Jackie Petty,jackie-petty,billed
+Dick & Dot Remy,dick-and-dot-remy,billed
+Edna Mae Harris & Crackshot,edna-mae-harris-and-crackshot,billed
+Edna Mae Harris & Crackshow,edna-mae-harris-and-crackshot,llm
+"Johnny ""Scat"" Davis",johnny-scat-davis-band,billed
+"Johnny ""Scat"" Davis Band",johnny-scat-davis-band,billed
+Private Cecil Gant,private-cecil-gant,billed
+Bon Bon,bon-bon-and-band,billed
+Bon Bon & Band,bon-bon-and-band,billed
+Ben Berry,ben-berry,billed
+Margo,margo,billed
+Louis Jordan held over,louis-jordan-held-over,billed
+Bishop & Palmer,bishop-and-palmer,billed
+O'Donnell & Blair,o-donnell-and-blair,billed
+Bixie Crawford,bixie-crawford,billed
+Bixie Harris,bixie-crawford,llm
+3 Rockets,3-rockets,billed
+Annisteen Allen,annisteen-allen,billed
+Panama Francis,panama-francis,billed
+Mack & Joe,mack-and-joe,billed
+Sadie & Stella,sadie-and-stella,billed
+Tato & Marta,tato-and-marta,billed
+Jubalaires,jubalaires,billed
+Cindy & Windy,cindy-and-windy,billed
+Atlantic City Ebony Follies,atlantic-city-ebony-follies,billed
+Hortense Allen,hortense-allen,billed
+Debutantes,debutantes,billed
+5 Greys,5-greys,billed
+Coles & Atkins,coles-and-atkins,billed
+Honi Coles & Cholly Atkins,coles-and-atkins,seed
+Octoroons,octoroons,billed
+3 Rays,3-rays,billed
+2 Rimmer Sisters,rimmer-sisters,llm
+Rimmer Sisters,rimmer-sisters,billed
+Mel Moore,mel-moore,billed
+Masalene & Dasalene,masalene-and-dasalene,billed
+Sam & Eddie,sam-and-eddie,billed
+Mamie Ferguson,mamie-ferguson,billed
+Potas & Felson,potas-and-felson,billed
+3 Multon Steppers,3-multon-steppers,billed
+Sybil Lewis,sybil-lewis,billed
+Sybyil Lewis,sybil-lewis,llm
+Bob Merrill,bob-merrill,billed
+John Bonn,john-bunn,llm
+John Bunn,john-bunn,billed
+Jesse & James Charlie Ray,jesse-and-james-charlie-ray,billed
+Gerald Wilson,gerald-wilson-band,billed
+Gerald Wilson Band,gerald-wilson-band,billed
+Congaroos,congaroos,billed
+Congeroos,congaroos,llm
+3 Buddies,3-buddies,billed
+Mariners,mariners,billed
+6 Marvelettes,6-marvelettes,billed
+Buell Thomas,buell-thomas,billed
+Slam Stewart Quartet,slam-stewart-quartet,billed
+3 Johnnies,3-johnnies,billed
+3 Dunhills,dunhills,llm
+Dunhills,dunhills,billed
+Moke & Doke,moke-and-doke,billed
+All Americans,all-americans,billed
+Arthur Prysock,arthur-prysock,billed
+Jansleys,jansleys,billed
+Wingfoot,wingfoot,billed
+Ann Moore,ann-moore,billed
+Bob Bailey,bob-bailey,billed
+Tick & Tock,tick-and-tock,billed
+Gil Maison,gil-maison,billed
+Paul Smith,paul-smith,billed
+Leslie Scott,leslie-scott,billed
+Mercer Ellington,mercer-ellington,billed
+Mercer Ellington Band,mercer-ellington,billed
+Howard Nichols,howard-nichols,billed
+Cats 'N Jammers,cats-n-jammers,billed
+Jigsaws,jigsaws,billed
+Dizzy Gillespie,dizzy-gillespie,billed
+Moni,moni,billed
+Peck & Peck,peck-and-peck,billed
+Mitchell & Gibson,mitchell-and-gibson,billed
+Charlie Riano,charlie-riano,billed
+Tiny Grimes,tiny-grimes-band,billed
+Tiny Grimes Band,tiny-grimes-band,billed
+Estelle & Dinas,estelle-and-dinas,billed
+Lu Elliott,lu-elliott,billed
+Lucy Elliott,lu-elliott,llm
+Ernie Morris,ernie-morris,billed
+Bill Williams,bill-williams,billed
+Lamberties,lamberties,billed
+McCain & Goddard,mccain-and-goddard,billed
+Dolores Parker,dolores-parker,billed
+Laura Washington,laura-washington,billed
+4 Vagabonds,4-vagabonds,billed
+Cozy Cole,cozy-cole,billed
+June Hawkins,june-hawkins,billed
+Lucille Waters,lucille-waters,billed
+Jimmie Lewis,jimmie-lewis,billed
+Beth & Martin,beth-and-martin,billed
+Vernie & Hatchie,vernie-and-hatchie,billed
+Sylvia Manon Trio,sylvia-manon-trio,billed
+Miller & Lee,miller-and-lee,billed
+Phillips & Wall,phillips-and-wall,billed
+Kawazawas,kawazawas,billed
+Johnny Otis,johnny-otis,billed
+Johnny Otis Band,johnny-otis,billed
+Johnny Otis and his band,johnny-otis,billed
+Johnny Otis ork,johnny-otis,billed
+Johnny Moore's 3 Blazers,johnny-moore-s-3-blazers,billed
+Coleridge Davis,coleridge-davis-band,billed
+Coleridge Davis Band,coleridge-davis-band,billed
+Addison Carey's Brownskin Chorus,addison-carey-s-chorus,llm
+Addison Carey's Chorus,addison-carey-s-chorus,billed
+Slim Gaillard,slim-gaillard,billed
+Slim Gaillard Trio,slim-gaillard,llm
+Slim Galliard,slim-gaillard,llm
+Randy Brooks,randy-brooks-band,billed
+Randy Brooks Band,randy-brooks-band,billed
+Hicks & Berry,hicks-and-berry,billed
+Tampa & Bateest,tampa-and-bateest,billed
+Roy Milton,roy-milton,billed
+Roy Milton Band,roy-milton,billed
+Paul Breckenridge,paul-breckenridge,billed
+Paul Breckinridge,paul-breckenridge,llm
+Dobbson's Dogs,dobbson-s-dogs,billed
+Alberta Hunter,alberta-hunter,billed
+2 Jacks,2-jacks,billed
+Joiner & Hamid,joiner-and-hamid,billed
+Lee Richardson,lee-richardson,billed
+Norma Shepherd,norma-shepherd,billed
+Dr. Horse & His Jockeys,dr-horse-and-his-jockeys,billed
+Manhattan Steppers,manhattan-steppers,billed
+Manhatten Steppers,manhattan-steppers,llm
+Hickory Hill Billies,hickory-hill-billies,billed
+Lewis & White,lewis-and-white,billed
+Norma Miller,norma-miller,billed
+Lora Pierre,lora-pierre,billed
+Mantan Moreland,mantan-moreland,billed
+Sy Oliver,sy-oliver,billed
+Sy Oliver Band,sy-oliver,billed
+Sy Oliver Ork,sy-oliver,billed
+Ravens,ravens,billed
+Bob & Al,bob-and-al,billed
+Dick Berk,dick-berk,billed
+Howell & Bowser,howell-and-bowser,billed
+Lem Talley,lem-talley,billed
+Deborah Murphy,deborah-murphy,billed
+Fats Thomas,fats-thomas,billed
+Scratch & Patch,scratch-and-patch,billed
+Illinois Jacquet,illinois-jacquet,billed
+Illinois Jacquet Band,illinois-jacquet,billed
+Illinois Jaquet,illinois-jacquet,manual
+Illinois Jaquet Band,illinois-jacquet,manual
+Melody Masters,melody-masters,billed
+Austin & Young,austin-and-young,billed
+Scoops Carey,scoops-carey,billed
+Ford & Harris,ford-and-harris,billed
+Jo Jones,jo-jones,billed
+Thorn & Roberts,thorn-and-roberts,billed
+Stone Cold Dead Houdini,stone-cold-dead-houdini,billed
+Cat Anderson,cat-anderson,billed
+Cat Anderson Band,cat-anderson,billed
+Cat Anderson Ork,cat-anderson,billed
+Little Miss Cornshucks,little-miss-cornshucks,billed
+Jimmy Butts,jimmy-butts,billed
+Will Mastin Trio,will-mastin-trio,billed
+4 Moroccans,4-moroccans,billed
+Rosebud,rosebud,billed
+Nick & Anita Ball,nick-and-anita-ball,billed
+Jack Teagarden,jack-teagarden,billed
+Myers & Walker,myers-and-walker,billed
+Myers & Walter,myers-and-walker,llm
+"Slip, Slap, & Slide",slip-slap-and-slide,billed
+Kenny & Lloyd,kenny-and-lloyd,billed
+Sid Catlett,sid-catlett,billed
+Sid Catlett Band,sid-catlett,billed
+Arnett Cobb,arnett-cobb,billed
+Arnett Cobb Band,arnett-cobb,billed
+Arnett Cobb Ork,arnett-cobb,billed
+Charlie Davis' Brownskin Chorus Girls,charlie-davis-brownskin-chorus-girls,billed
+Hadda Brooks,hadda-brooks,billed
+Balinese Dancers,balinese-dancers,billed
+Toby Winters,toby-winters,billed
+John Mason & Johnny Vigal,john-mason-and-johnny-vigal,billed
+Burnie Peacock,burnie-peacock,billed
+Juanita Pitts,juanita-pitts,billed
+Harris & Lillette,harris-and-lillette,billed
+Jackie Robinson,jackie-robinson,billed
+Harris Brothers,harris-brothers,billed
+3 Hall Sisters,hall-sisters,llm
+Hall Sisters,hall-sisters,billed
+Lad Lyon Trio,lad-lyon-trio,billed
+Ford Flash,ford-flash,billed
+Chano Pozo,chano-pozo,billed
+Basin Street Boys,basin-street-boys,billed
+Nellie Lutcher,nellie-lutcher,billed
+Herbie Fields,herbie-fields-band,billed
+Herbie Fields Band,herbie-fields-band,billed
+Herbie Fields Ork,herbie-fields-band,billed
+Chuck Brown,chuck-brown,billed
+McHarris & Delores,mcharris-and-dolores,llm
+McHarris & Dolores,mcharris-and-dolores,billed
+Baby Dee,baby-dee,billed
+4 Tunes,4-tunes,billed
+Bill Dillard,bill-dillard,billed
+Rocky & Vicky,rocky-and-vicky,billed
+Florence Hin Low,florence-hin-low,billed
+Luck & Lucky,luck-and-lucky,billed
+Jackie & Tuffie,jackie-and-tuffy,llm
+Jackie & Tuffy,jackie-and-tuffy,billed
+Smith Kids,smith-kids,billed
+Little Joe & Tiny Lou,little-joe-and-tiny-lou,billed
+Charlie Ventura,charlie-ventura,billed
+Buddy Stewart,buddy-stewart,billed
+Billy Williams,billy-williams,billed
+Ace Harris Quartet,ace-harris-quartet,billed
+Maybelle,maybelle,billed
+Louis & Oliver Sisters,louis-and-the-oliver-sisters,llm
+Louis & The Oliver Sisters,louis-and-the-oliver-sisters,billed
+Berk & Howell,berk-and-howell,billed
+Buddy RIch,buddy-rich,billed
+Buddy RIch Ork,buddy-rich,billed
+Buddy Rich,buddy-rich,billed
+Buddy Rich Ork,buddy-rich,billed
+Steve Condos,steve-condos,billed
+Garner & Wilson,garner-and-wilson,billed
+Streamliners,streamliners,billed
+King Odom 4,king-odom-four,billed
+King Odom Four,king-odom-four,billed
+Mae Gaddy,mae-gaddy,billed
+Jacqueline Hurley,jacqueline-hurley,billed
+Sabby Lewis,sabby-lewis,billed
+Sabby Lewis Band,sabby-lewis,billed
+Catherine Spencer,catherine-spencer,billed
+Carol Simms,carol-simms,billed
+Tomorrow's Stars,tomorrow-s-stars,billed
+Tip,tip,billed
+Tap & Toe,tap-and-toe,billed
+Martingales,martingales,billed
+Kay Davis,kay-davis,billed
+George Kirby,george-kirby,billed
+Sam Donahue,sam-donahue-band,billed
+Sam Donahue Band,sam-donahue-band,billed
+Honey Brothers,honey-brothers,billed
+Charles Brown,charles-brown,billed
+Jimmie Gorham,jimmie-gorham,billed
+Paul Willaims,paul-williams,manual
+Paul Willaims ork,paul-williams,manual
+Paul Williams,paul-williams,billed
+Paul Williams Orchestra,paul-williams,billed
+Paul Williams Ork,paul-williams,billed
+Paul Williams ork,paul-williams,billed
+Rivers & Brown,rivers-and-brown,billed
+Georg Paxton,georg-paxton-ork,billed
+Georg Paxton Ork,georg-paxton-ork,billed
+Wilkey & Dare,wilkey-and-dare,billed
+Peggy Thomas,peggy-thomas,billed
+Peggy Tomas,peggy-thomas,llm
+Ray Anthony,ray-anthony,billed
+Ray Anthony Ork,ray-anthony,billed
+Collins & Lee,collins-and-lee,billed
+Don & Stan King,don-and-stan-king,billed
+Paul Gayten Trio,paul-gayten-trio,billed
+Annie Laurie,annie-laurie,billed
+Josephine Premice,josephine-premice,billed
+Emerald Sisters,emerald-sisters,billed
+Julia Lee,julia-lee,billed
+Ina Ray Hutton,ina-ray-hutton-band,billed
+Ina Ray Hutton Band,ina-ray-hutton-band,billed
+Morris Lane Combo,morris-lane-combo,billed
+Buck Clayton,buck-clayton-ork,billed
+Buck Clayton Ork,buck-clayton-ork,billed
+Lester Young,lester-young,billed
+Lester Young Ork,lester-young,billed
+Lonnie Johnson,lonnie-johnson,billed
+Slam Stewart Trio,slam-stewart-trio,billed
+Fred & Sledge,fred-and-sledge,billed
+Bobby Stevens,bobby-stevens,billed
+Archie Savage & His Ebony Chorus,archie-savage-and-his-ebony-chorus,billed
+Freddy Slack,freddy-slack-ork,billed
+Freddy Slack Ork,freddy-slack-ork,billed
+Eddie Davis Quartet,eddie-davis-quartet,billed
+Charlie Parker,charlie-parker,billed
+Gene Ammons,gene-ammons,billed
+Gene Ammons Ork,gene-ammons,billed
+Crackshot & Monte Hawley,crackshot-and-monte-hawley,billed
+Sonny Thompson,sonny-thompson,billed
+Josh White,josh-white,billed
+Jay Smythe,jay-smythe,billed
+Ray Brown Trio,ray-brown-trio,billed
+Howard Brothers,howard-brothers,billed
+Dr. Neff,dr-neff,billed
+Eddie Wilcox,eddie-wilcox,billed
+Joe Thomas,joe-thomas,billed
+Joe Thomas Band,joe-thomas,billed
+Joe Thomas Ork,joe-thomas,billed
+Lopez & LaForte,lopez-and-laforte,billed
+Claude Marchant Dancers,claude-marchant-dancers,billed
+Shorty Sherlock,shorty-sherlock,billed
+Ivory Joe Hunter,ivory-joe-hunter,billed
+Ray Carroll,ray-carroll,billed
+Buster Harding,buster-harding-ork,billed
+Buster Harding Ork,buster-harding-ork,billed
+Hal McIntyre,hal-mcintyre-ork,billed
+Hal McIntyre Ork,hal-mcintyre-ork,billed
+Chuck & Vickie,chuck-and-vickie,billed
+Ruth Brown,ruth-brown,billed
+Wong Sisters,wong-sisters,billed
+Berk & Hallow,berk-and-hallow,billed
+Betty Bligh,betty-bligh,billed
+Barney Bigard,barney-bigard,billed
+Arvel Shaw,arvell-shaw,llm
+Arvell Shaw,arvell-shaw,billed
+Harold & Lola,harold-and-lola,billed
+"Jesse, Cornell, & Lawrence",jesse-cornell-and-lawrence,billed
+Do Ray & Me,do-ray-and-me,billed
+Frankie Cue,frankie-cue,billed
+Noble Trio,noble-trio,billed
+Hal Singer,hal-singer,billed
+Hal Singer Ork,hal-singer,billed
+Roy Brown,roy-brown,billed
+Vi Burnside & Her All-Girl,vi-burnside-and-her-all-girl-band,billed
+Vi Burnside & Her All-Girl Band,vi-burnside-and-her-all-girl-band,billed
+Ray-O-Vacs,ray-o-vacs,billed
+Wini Brown,wini-brown,billed
+Machito,machito,billed
+Machito Ork,machito,billed
+Kai Winding Sextet,kai-winding-sextet,billed
+Max Roach,max-roach,billed
+Lucky Thompson,lucky-thompson,billed
+Harry Belafonte,harry-belafonte,billed
+Brothr Bones,brothr-bones,billed
+Roll & Tap,roll-and-tapp,llm
+Roll & Tapp,roll-and-tapp,billed
+Teal Joy,teal-joy,billed
+Mathis Duo,mathis-duo,billed
+Milt Buckner,milt-buckner,billed
+Miguelito Valdes,miguelito-valdes,billed
+Miguelito Valdez,miguelito-valdes,llm
+Dud Bascom,dud-bascomb,manual
+Dud Bascomb,dud-bascomb,billed
+Dud Bascomb Band,dud-bascomb,billed
+Dud Bascomb Ork,dud-bascomb,billed
+Amos Milburn,amos-milburn,billed
+Dick Barrows,dick-barrows,billed
+Nickie & Vergie,nickie-and-vergie,billed
+Stir & Tray,stir-and-tray,billed
+Tiny Davis,tiny-davis-and-her-band,billed
+Tiny Davis & Her Band,tiny-davis-and-her-band,billed
+Herb Lance,herb-lance,billed
+Woody Herman,woody-herman-orchestra,billed
+Woody Herman Orchestra,woody-herman-orchestra,billed
+Rose Murphy,rose-murphy,billed
+Richards & Thompson,richards-and-thompson,billed
+Dottie & Sonny,dottie-and-sonny,billed
+Mardez & Lucia,mardez-and-lucia,billed
+Rae Pearl,rae-pearl,billed
+Flip Phillips,flip-phillips,billed
+Sonny Criss,sonny-criss,billed
+Tommy Turk,tommy-turk,billed
+Joe Carroll,joe-carroll,billed
+Johnny Hartman,johnny-hartman,billed
+Jimmie Givens & Sweetie,jimmie-givens-and-sweetie,billed
+Helene & Howard,helene-and-howard,billed
+Jimmy James,jimmy-james,billed
+Dyerettes,dyerettes,billed
+Paula Watson,paula-watson,billed
+Sammy Davis,sammy-davis-jr,llm
+Sammy Davis Jr.,sammy-davis-jr,billed
+Jr.,jr,billed
+2 Hotshots,2-hotshots,billed
+Spizzie Canfield's Dancing Chorus,spizzie-canfield-s-dancing-chorus,billed
+Vic & Arno,vic-and-arno,billed
+Celina,celina,billed
+WIllis Jackson,willis-jackson,billed
+Willis Jackson,willis-jackson,billed
+Willis Jackson Ork,willis-jackson,billed
+Willis Jackson ork,willis-jackson,billed
+Mayo Brothers,mayo-brothers,billed
+Connie Carroll,connie-carroll,billed
+Cortez & Jenee,cortez-and-jenee,billed
+Noro Morales,noro-morales,billed
+Clarence Muse,clarence-muse,billed
+Orioles,orioles,billed
+The Angel,the-angel,billed
+Tina & David,tina-and-david,billed
+Camille Howard,camille-howard,billed
+Trumpeteers,trumpeteers,billed
+Ames Brothers,ames-brothers,billed
+Symphony Sid,symphony-sid,billed
+Erroll Garner,erroll-garner,billed
+Erroll Garner Trio,erroll-garner,llm
+Thaddeus Drayton,thaddeus-drayton,billed
+Baby Goins,baby-goins,billed
+Barres Prince,barres-prince-ork,billed
+Barres Prince Ork,barres-prince-ork,billed
+Gene Krupa,gene-krupa,billed
+Kene Krupa,gene-krupa,manual
+Kene Krupa Ork,gene-krupa,manual
+3 Flames,3-flames,billed
+Taps & Winchester,taps-and-winchester,billed
+Dave Anderson,dave-anderson,billed
+George Shearing,george-shearing,billed
+Blenders,blenders,billed
+Herzogs,herzogs,billed
+Joan Barry,joan-barry,billed
+Janet Sayre,janet-sayre,billed
+Flick Montgomery,flick-montgomery,billed
+Alano & Angell,alano-and-angell,billed
+Billy Graves,billy-graves,billed
+Modern Minstrels,modern-minstrels,billed
+Lockjaw Jackson,lockjaw-jackson,billed
+Shadows,shadows,billed
+Zorita,zorita,billed
+Tiny Irvin,tiny-irvin,billed
+Sonny Parker,sonny-parker,billed
+Curley Hammer,curley-hamner,llm
+Curley Hamner,curley-hamner,billed
+Barr & Estes,barr-and-estes,billed
+Betty Be-Bop,betty-be-bop,billed
+Doug Duke,doug-duke,billed
+Paul Nitika,paul-nitika,billed
+Larry Darnell,larry-darnell,billed
+Rosales Sisters,rosales-sisters,billed
+Key Luke,key-luke,billed
+Crackshot & Monty,crackshot-and-monty,billed
+Chubby Newsom,chubby-newsom,billed
+Benson & Mann,benson-and-mann,billed
+Rastos & Bootsie,rastos-and-bootsie,billed
+Cootie Williams with Willis Jackson,cootie-williams-with-willis-jackson,billed
+3 Welles,3-welles,billed
+Frank Paris,frank-paris,billed
+Lipham Trio,lipham-trio,billed
+Harold King,harold-king,billed
+Crosby Sisters,crosby-sisters,billed
+Little Esther,little-esther,billed
+Mel Walker,mel-walker,billed
+Redd Lyte,redd-lyte,billed
+Hawkins Trio,hawkins-trio,billed
+Artie Shaw,artie-shaw,billed
+Billy & Ann,billy-and-ann,billed
+Mr. Google Eyes,mr-google-eyes,billed
+Sugar Chile Robinson,sugar-chile-robinson,billed
+Pat Rooney,pat-rooney,billed
+Sr.,sr,billed
+Manuel & Verita Vierra,manuel-and-verita-vierra,billed
+Striders,striders,billed
+Lott & J. Anders,lott-and-j-anders,billed
+Foxx & White,foxx-and-white,billed
+Louis Hawkins,louis-hawkins,billed
+3 Kayos,3-kayos,billed
+Rosettes,rosettes,billed
+Katie Bell Nubin,katie-bell-nubin,billed
+James Root,james-root,billed
+Bill Farrell,bill-farrell,billed
+Jimmy Witherspoon,jimmy-witherspoon,billed
+Camille Howard Trio,camille-howard-trio,billed
+Chai & Somay,chai-and-somay,billed
+Toni Harper,toni-harper,billed
+3 Harlemonicas,3-harlemonicas,billed
+Ray Malone,ray-malone,billed
+Earles,earles,billed
+Stan Getz,stan-getz,billed
+Billy Williams Quartet,billy-williams-quartet,billed
+Lou Wills Jr,lou-wills-jr,billed
+China Doll & Calypso Boys,china-doll-and-calypso-boys,billed
+Bob Dupont,bob-dupont,billed
+Lawrence Brown,lawrence-brown,billed
+Tables Davis,tables-davis,billed
+Calvin Boze,calvin-boze,billed
+Anita O'Day,anita-o-day,billed
+Treniers,treniers,billed
+Gene Gilbeaux 4,gene-gilbeaux-4,billed
+Arnold Dover,arnold-dover,billed
+Jimmie Scott,little-jimmy-scott,llm
+Jimmy Scott,little-jimmy-scott,llm
+Little Jimmy Scott,little-jimmy-scott,billed
+Big John Greer,big-john-greer,billed
+Joe Morris,joe-morris-ork,billed
+Joe Morris Ork,joe-morris-ork,billed
+Joe Morris ork,joe-morris-ork,billed
+Laurie Tate,laurie-tate,billed
+5 Amands,5-amands,billed
+Pickerts,pickerts,billed
+Savannah Churchill & Striders,savannah-churchill-and-striders,billed
+Leonard & Leonard,leonard-and-leonard,billed
+4 Buddies,4-buddies,billed
+Los Gatos,los-gatos,billed
+Conines,conines,billed
+Nipsey Russell,nipsey-russell,billed
+2 Bell Boys,2-bell-boys,billed
+Tamara & Orioff,tamara-and-orioff,billed
+Claud Young,claud-young,billed
+James Roots Jr.,james-roots-jr,billed
+Norma Miller Dancers,norma-miller-dancers,billed
+Wright Brothers,wright-brothers,billed
+Sonny Stitt,sonny-stitt,billed
+Hi Hatters,hi-hatters,billed
+Kinko,kinko,billed
+Irma Curry,irma-curry,billed
+Saxey Williams,saxey-williams,billed
+Ming Sing Troupe,ming-sing-troupe,billed
+Stick McGhee,stick-mcghee,billed
+Eddie Duram,eddie-durham,manual
+Eddie Duram Ork,eddie-durham,manual
+Eddie Durham,eddie-durham,billed
+Flash Gordon,flash-gordon,billed
+"Jesse, James, & Cornell",jesse-james-and-cornell,billed
+"Jessie, James, & Cornell",jesse-james-and-cornell,llm
+Jordanettes,jordanettes,billed
+Wild Bill Davis,wild-bill-davis,billed
+Novellos,novellos,billed
+Rosebut,rosebut,billed
+Whaling & Yvette,whaling-and-yvette,billed
+Dorsey Sisters,dorsey-sisters,billed
+Ralph & Mary Carnivale,ralph-and-mary-carnivale,billed
+Dominoes,dominoes,billed
+Howard & Wanda Bell,howard-and-wanda-bell,billed
+Clovers,clovers,billed
+Bob Ephriam,bobby-ephriam,llm
+Bobby Ephraim,bobby-ephriam,llm
+Bobby Ephram,bobby-ephriam,llm
+Bobby Ephriam,bobby-ephriam,billed
+Bill Derry,bill-derry,billed
+Adele Frances,adele-frances,billed
+Selah Quintet,selah-quintet,billed
+Aristocrats Of Rhythm,aristocrats-of-rhythm,billed
+Jimmy Smith,jimmy-smith,billed
+Clyde Terrell,clyde-terrell,billed
+Percy Mayfield,percy-mayfield,billed
+Karpis Trio,karpis-trio,billed
+Bud Cece Robinson,bud-cece-robinson,billed
+Iren Williams & Chitterson 3,iren-williams-and-chitterson-3,billed
+That Hardaway Girl,that-hardaway-girl,billed
+Barkley Family,barkley-family,billed
+Joan Shaw,joan-shaw,billed
+Todd Rhodes,todd-rhodes,billed
+Kitty Stevenson,kitty-stevenson,billed
+Freddie Mitchell,freddie-mitchell,billed
+Joyce Davis,joyce-davis,billed
+Brown & Beige,brown-and-beige,billed
+Doris Ruby,doris-ruby,billed
+Chris Powell & 5 Blue Flames,chris-powell-and-5-blue-flames,billed
+Bette McLaurin,bette-mclaurin,billed
+Lucille Dixon,lucille-dixon,billed
+Lewis & Allen,lewis-and-allyn,llm
+Lewis & Allyn,lewis-and-allyn,billed
+Tony Moro,tony-moro,billed
+Tiny Grimes & Rocking Highlanders,tiny-grimes-and-rocking-highlanders,billed
+Tong Brothers,tong-brothers,billed
+Dorothy Deering,dorothy-deering,billed
+Eunice Davis,eunice-davis,billed
+Sammy Hinds,sammy-hinds,billed
+Strut Flash,strut-flash,billed
+Louis Bellson,louis-bellson,billed
+Louis Bellson Band,louis-bellson,billed
+Juan Tizol,juan-tizol,billed
+Harry Carney,harry-carney,billed
+Ala Ming,ala-ming,billed
+Larks,larks,billed
+Helen James,helen-james,billed
+"Apus, George, & Sybil",apus-george-and-sybil,billed
+3 Lads,3-lads,billed
+Bud Harris & Frank Radcliff,bud-harris-and-hank-radcliff,llm
+Bud Harris & Hank Radcliff,bud-harris-and-hank-radcliff,billed
+Delage & Shirley,delage-and-shirley,billed
+Princess Orelia & Jose,princess-orelia-and-jose,billed
+Gilbert & Russell,gilbert-and-russell,billed
+Tomago & Queda,tomago-and-queda,billed
+Joe Chisolm,joe-chisolm,billed
+Rae & Rae,rae-and-rae,billed
+Maxie & Millie,maxie-and-millie,billed
+Baby Scruggs,baby-scruggs,billed
+Lola & Lita,lola-and-lita,billed
+Buddy De Franco,buddy-de-franco-band,billed
+Buddy De Franco Band,buddy-de-franco-band,billed
+Roy Douglas,roy-douglas,billed
+Eddie Echo,eddie-echo,billed
+2 Speed Kings,2-speed-kings,billed
+Roy Benson,roy-benson,billed
+Tommy Edwards,tommy-edwards,billed
+Top & Bottom,top-and-bottom,billed
+Canton Brothers,canton-brothers,billed
+Cardinals,cardinals,billed
+Don Bexley,don-bexley,billed
+5 Keys,5-keys,billed
+5 keys,5-keys,billed
+Leslie Scott & Marie Young,leslie-scott-and-marie-young,billed
+Marino Sisters,marino-sisters,billed
+Bobby Lane & Claire,bobby-lane-and-claire,billed
+Griffin Brothers,griffin-brothers,billed
+Margie Day,margie-day,billed
+4 Knights,4-knights,billed
+Chester Delphin,chester-delphin,billed
+Buster Brown,buster-brown,billed
+Denvers,denvers,billed
+Earl Williams,earl-williams,billed
+Lucille Chance,lucille-chance,billed
+Cycling Kirks,cycling-kirks,billed
+Lilette,lilette,billed
+2 Kit Kats,2-kit-kats,billed
+Anita Echols,anita-echols,billed
+3 Tapateers,tapateers,llm
+Tapateers,tapateers,billed
+Varieteers,varieteers,billed
+Valerie Carr,valerie-carr,billed
+Lorenzo Conyers,lorenzo-conyers,billed
+Whitney Thompson,whitney-thompson,billed
+Fred Ellis,fred-ellis,billed
+Josephine Baker,josephine-baker,billed
+Pat Henning,pat-henning,billed
+Meribeth Old,meribeth-old,billed
+Milt Jackson,milt-jackson,billed
+Ralph & Lorraine,ralph-and-lorraine,billed
+Bill Cook,bill-cook,billed
+Jimmy 'T99' Nelson,jimmy-t99-nelson,billed
+Ruby Ring,ruby-ring,billed
+Jack Meyand,jack-meyand,billed
+Billy Wright,billy-wright,billed
+Jimmy Tyler,jimmy-tyler-band,billed
+Jimmy Tyler Band,jimmy-tyler-band,billed
+Jimmy Tyler Ork,jimmy-tyler-band,billed
+Fontaine Brothers,fontaine-brothers,billed
+Marion Bruce,marion-bruce,billed
+Conrad Pringle,conrad-pringle,billed
+Olveros,olveros,billed
+Sammy & Eddie,sammy-and-eddie,billed
+Lowell Fulson,lowell-fulson-ork,billed
+Lowell Fulson ork,lowell-fulson-ork,billed
+Ray Charles,ray-charles,billed
+John Cirillino,john-cirillino,billed
+Lula Reed,lula-reed,billed
+Velyn & Laverne,velyn-and-laverne,billed
+Parks,parks,billed
+Beau Jenkins,beau-jenkins,billed
+Fontaines,fontaines,billed
+Joe Dean Allen,joe-dean-allen,billed
+James Moody,james-moody,billed
+James Moody ork,james-moody,billed
+Danny Alexander,danny-alexander,billed
+Chris Columbus,chris-columbus,billed
+Bill Jennings,bill-jennings,billed
+Jimmy McPhail,jimmy-mcphail,billed
+Swallows,swallows,billed
+Marcella Porche,marcella-porche,billed
+Leon Cephas,leon-cephas,billed
+Willie Mae Thornton,willie-mae-thornton,billed
+13 Rhythm Kings,13-rhythm-kings,billed
+Tiny Kennedy,tiny-kennedy,billed
+Tamara Hayes,tamara-hayes,billed
+Bojos,bojos,billed
+Bud Harris & Mantan Moreland,bud-harris-and-mantan-moreland,billed
+Mantan Moreland & Bud Harris,bud-harris-and-mantan-moreland,llm
+Jackie Davis 3,jackie-davis-3,billed
+Shearegueds,shearegueds,billed
+Hot Shots,hot-shots,billed
+Gil Bernal,gil-bernal,billed
+Ann Nichols,ann-nichols,billed
+Glenns,glenns,billed
+Austin Powell Quintet,austin-powell-quintet,billed
+Bernie George,bernie-george,billed
+Sunny Gale,sunny-gale,billed
+Sympnony Syd,sympnony-syd,billed
+4 Honey Girls,4-honey-girls,billed
+Jimmy Grissom,jimmy-grissom,billed
+Betty Roche,betty-roche,billed
+Paul Gonsalves,paul-gonsalves,billed
+Oscar Peterson Trio,oscar-peterson-trio,billed
+Leslie Uggams,leslie-uggams,billed
+4 Diamonds,4-diamonds,billed
+Dolores Martin,dolores-martin,billed
+Buzz Bolton,buzz-bolton,billed
+Dreamers,dreamers,billed
+Eddie Mack,eddie-mack,billed
+Ray Sneed 4,ray-sneed-4,billed
+Princess DePaur,princess-depaur,billed
+La Bommie,la-bommie,billed
+Edna McGriff,edna-mcgriff,billed
+Spence Twins,spence-twins,billed
+Danny Cobb,danny-cobb,billed
+Jimmy Forrest,jimmy-forrest,billed
+Words,words,billed
+Betty Carter,betty-carter,billed
+Duke Hampton,duke-hampton,billed
+Marilyn Moore,marilyn-moore,billed
+Annel & Brask,annel-and-brask,billed
+5 Blazes,5-blazes,billed
+Hamtree Harrington & Louise,hamtree-harrington-and-louise,billed
+Vicki David,vicki-david,billed
+Lee Marx,lee-marx,billed
+Little Walter,little-walter,billed
+H-Bomb Ferguson,h-bomb-ferguson,billed
+Tokaya Troupe,tokayer-troupe,llm
+Tokayer Troupe,tokayer-troupe,billed
+Lloyd Price,lloyd-price,billed
+Phyllis Branch,phyllis-branch,billed
+Skating Brownies,skating-brownies,billed
+Bert & Cynthia,bert-and-cynthia,billed
+Janice Day,janice-day,billed
+Josh White Jr.,josh-white-jr,billed
+Stuffy Bryant,stuffy-bryant,billed
+Chuck Brown & Rita,chuck-brown-and-rita,billed
+Tables Gates,tables-gates,billed
+Jesse,jesse,billed
+James & Cornell,james-and-cornell,billed
+Sally Blair,sally-blair,billed
+Leroy Strange,leroy-strange,billed
+Checkers,checkers,billed
+Lady Terry,lady-terry,billed
+Bob McCrachen,bob-mccrachen,billed
+Marty Napoleon,marty-napoleon,billed
+Babs Gonzales,babs-gonzales,billed
+Georgia Carr,georgia-carr,billed
+Jefferson & Taylor,jefferson-and-taylor,billed
+Lili St. Cyr,lili-st-cyr,billed
+Willie Mabon,willie-mabon,billed
+Joe Loco,joe-loco,billed
+Milt Buckner Trio,milt-buckner-trio,billed
+Joe Holiday,joe-holiday-band,billed
+Joe Holiday Band,joe-holiday-band,billed
+Big Jay McNeely,big-jay-mcneely,billed
+5 Royales,5-royales,billed
+Bert Howell & Frank Radcliff,bert-howell-and-frank-radcliff,billed
+Red Saunders,red-saunders,billed
+Viola Kemp,viola-kemp,billed
+Big Maybelle,big-maybelle,billed
+Donald Fontaine Dancers,donald-fontaine-dancers,billed
+Linda Hayes,linda-hayes,billed
+Little Buck,little-buck,billed
+Nolan Lewis,nolan-lewis,billed
+Emitt Slay Trio,emitt-slay-trio,billed
+Bob White,bob-white,billed
+Lady Odiva,lady-odiva,billed
+Kuda Bux,kuda-bux,billed
+Mary Louise,mary-louise,billed
+Willie Lewis,willie-lewis,billed
+Joe Louis,joe-louis,billed
+Leonard Reed,leonard-reed,billed
+King Pleasure,king-pleasure,billed
+Gordon & Gordon,gordon-and-gordon,billed
+Crip Heard,crip-heard,billed
+Kenneth Scott,kenneth-scott,billed
+Howel & Radcliff,howell-and-radcliff,llm
+Howell & Radcliff,howell-and-radcliff,billed
+Andrew Wideman,andrew-wideman,billed
+Elsie Smith,elsie-smith,billed
+Anna Mae Winburn & Sweethearts Of Rhythm,anna-mae-winburn-and-sweethearts-of-rhythm,billed
+Vi Burnside,vi-burnside,billed
+Bobby Lucas,bobby-lucas,billed
+Sarah McLawler Trio,sarah-mclawler-trio,billed
+Ross & Andrea,ross-and-andrea,billed
+Tito Puente,tito-puente,billed
+Lavern Baker,lavern-baker,billed
+The Great Morton,the-great-morton,billed
+Bobby Priest & Al Fosse,bobby-priest-and-al-fosse,billed
+Vocaleers,vocaleers,billed
+Valentine & Rita,valentine-and-rita,billed
+Crickets,crickets,billed
+2 Cantons,2-cantons,billed
+Frank Marlow,frank-marlowe,llm
+Frank Marlowe,frank-marlowe,billed
+Tables Turner,tables-turner,billed
+Margie McGlory,margie-mcglory,billed
+Sidney Bechet,sidney-bechet,billed
+Los Tropicans,los-tropicans,billed
+Louise Brown,louise-brown,billed
+Charlie Smith,charlie-smith,billed
+Wingy Manone,wingy-manone,billed
+Bobby Winters,bobby-winters,billed
+Joe Chisolm & Willie Lewis,joe-chisolm-and-willie-lewis,billed
+Jones & Wilbert,jones-and-wilbert,billed
+Vicki Davis,vicki-davis,billed
+Drifters,drifters,billed
+Varetta Dillard,varetta-dillard,billed
+Johnny Ace,johnny-ace,billed
+Bill Johnson,bill-johnson-band,billed
+Bill Johnson Band,bill-johnson-band,billed
+Junior Parker,junior-parker,billed
+Princess Tall Chief,princess-tall-chief,billed
+Ebonaires,ebonaires,billed
+Canfield Dancers,canfield-dancers,billed
+Rose Hardaway,rose-hardaway,billed
+Du Droppers,du-droppers,billed
+Agramonte,agramonte,billed
+Beulah Frazier,beulah-frazier,billed
+4 Phillips,4-phillips,billed
+Wanderers,wanderers,billed
+Jose Curbello Mambo,jose-curbello-mambo-band,billed
+Jose Curbello Mambo Band,jose-curbello-mambo-band,billed
+Nick Ball,nick-ball,billed
+Sugar Ray Robinson,sugar-ray-robinson,billed
+Annette Swinson,annette-swinson,billed
+Swain & Green,swain-and-green,billed
+Ronnie Wilson,ronnie-wilson,billed
+Betty DeQuincy,betty-dequincy,billed
+Asia Boys,asia-boys,billed
+Faye Adams,faye-adams,billed
+Al Savage,al-savage,billed
+Mr. Stringbean,mr-stringbean,billed
+Yatilda Dix,yatilda-dix,billed
+6 Boginos,6-boginos,billed
+Fedi & Fedi,fedi-and-fedi,billed
+Chuck & Nedra,chuck-and-nedra,billed
+Stefan & Celise,stefan-and-celise,billed
+Stephan & Celise,stefan-and-celise,llm
+3 Leggers,3-leggers,billed
+Bonita Sisters,bonita-sisters,billed
+Roy Hamilton,roy-hamilton,billed
+Bennie Green,bennie-green,billed
+Benny Green,bennie-green,llm
+Al Taylor,al-taylor,billed
+Flamingos,flamingos,billed
+Oolan Farley,oolan-farley,billed
+Scatman Crothers,scatman-crothers,billed
+Chuck Willis,chuck-willis,billed
+Marie Adams,marie-adams,billed
+Junior Ryder,junior-ryder,billed
+Lee Matthews,lee-matthews,billed
+Lilette & Slam Stewart,lilette-and-slam-stewart,billed
+6 Antonettes,6-antonettes,billed
+Louis Bellson 5,louis-bellson-5,billed
+Elsie & Babs,elsie-and-babs,billed
+Harptones,harptones,billed
+Tito Rodriguez,tito-rodriguez,billed
+Michael & Nilda,michael-and-nilda,billed
+Clay Tyson,clay-tyson,billed
+Gloria Irving,gloria-irving,billed
+Red Prysock,red-prysock,billed
+Red Prysock Ork,red-prysock,billed
+Red Prysock ork,red-prysock,billed
+Pat Reed,pat-reed,billed
+Fontane Trio,fontane-trio,billed
+Chubby Newsom & Alberta Adams,chubby-newsom-and-alberta-adams,billed
+Jimmy Randolph,jimmy-randolph,billed
+Ernest Seales,ernest-seales,billed
+Paul Quinichette,paul-quinichette,billed
+Leonard Reed's Chorus Girls,leonard-reed-s-chorus-girls,billed
+Rastus & Williams,rastus-and-williams,billed
+Mambo Aces,mambo-aces,billed
+Candido,candido,billed
+Mirta Silva,mirta-silva,billed
+Arsenio Rodriguez,arsenio-rodriguez,billed
+Phillip Forte Dancers,phillip-forte-dancers,billed
+Phillips Fort Dancers,phillip-forte-dancers,llm
+Spiders,spiders,billed
+Guitar Slim,guitar-slim,billed
+Counts,counts,billed
+B.B. King,b-b-king,billed
+Earl Forrest,earl-forrest,billed
+Bill Harvey,bill-harvey-ork,billed
+Bill Harvey ork,bill-harvey-ork,billed
+Mildred Jones,mildred-jones,billed
+Slappy White,slappy-white,billed
+Barbara DeCosta,barbara-decosta,billed
+Guy Mosley,guy-mosley,billed
+3 Royal Rockets,3-royal-rockets,billed
+Wong Hong Shu Troupe,wong-hong-shu-troupe,billed
+Dennis Brooks,dennis-brooks,billed
+Spaniels,spaniels,billed
+Lewis & Chisolm,lewis-and-chisolm,billed
+Richie Cannon,richie-cannon,billed
+Facundo Rivero 5,facundo-rivero-5,billed
+Baby Washington,baby-washington,billed
+4 Guys,4-guys,billed
+Patterson & Langley,patterson-and-langley,billed
+Tun Tun,tun-tun,billed
+Austin Powell,austin-powell,billed
+Eddie Bonnemere,eddie-bonnemere,billed
+Eddie Bonnemere & Ork,eddie-bonnemere,billed
+Eddie Bonnemere ork,eddie-bonnemere,billed
+Hines Kids,hines-kids,billed
+Jimmy Valentine & Ruth,jimmy-valentine-and-ruth,billed
+Albenice,albenice,billed
+Bertice Reading,bertice-reading,billed
+"Eddie ""Lockjaw"" Davis",eddie-lockjaw-davis,billed
+Eddie Davis,eddie-lockjaw-davis,billed
+Hucklebuck Trio,hucklebuck-trio,billed
+George Guy,george-guy,billed
+Charlie Fuqua's Ink Spots,charlie-fuqua-s-ink-spots,billed
+Carmen McRae,carmen-mcrae,billed
+David Powell,david-powell,billed
+Chord Cats,chords,llm
+Chords,chords,billed
+Rusty Bryant,rusty-bryant-ork,billed
+Rusty Bryant Ork,rusty-bryant-ork,billed
+Othella Dallas,othella-dallas,billed
+Honey Tones,honey-tones,billed
+6 Sons Of Morocco,6-sons-of-morocco,billed
+Little Willie,little-willie,billed
+Rhea & Bea,rhea-and-bea,billed
+Hungarian Troupe,hungarian-troupe,billed
+Chico O'Farrill,chico-o-farrill,billed
+Coleman Family,coleman-family,billed
+Bobby Orton's Teen Aces,bobby-orton-s-teen-aces,billed
+Rosa LaRoso,rosa-laroso,billed
+Regals,regals,billed
+Olivette Miller & Albert Gibson,olivette-miller-and-albert-gibson,billed
+Pembroke & Johnson,pembroke-and-johnson,billed
+"Jackson, James, & Cornell",jackson-james-and-cornell,billed
+Patty Ann Mesner,patty-ann-mesner,billed
+Patty Anne Mesner,patty-ann-mesner,llm
+Ford Buck,ford-buck,billed
+Jackie Starr,jackie-starr,billed
+Nat King Cole,nat-king-cole,billed
+Joya Sherrill,joya-sherrill,billed
+Leo deLyon,leo-delyon,billed
+Midnighters,midnighters,billed
+Helen Thompson,helen-thompson,billed
+Kid Gavilan,kid-gavilan,billed
+Magid Triplets,magid-triplets,billed
+Margie Anderson,margie-anderson,billed
+Al Jackson,al-jackson,billed
+4 Comets,4-comets,billed
+Wilbur Kirk,wilbur-kirk,billed
+Bill Kenny,bill-kenny,billed
+Hortense Allen's Chorus,hortense-allen-s-chorus,billed
+Penguins,penguins,billed
+Bomb Busters,bomb-busters,billed
+Moonglows,moonglows,billed
+Bill Doggett,bill-doggett,billed
+Bill Doggett Band,bill-doggett,billed
+Ursula Reed,ursula-reed,billed
+Joan Karter,joan-karter,billed
+Tommy Brown,tommy-brown,billed
+Jimmy Mosby,jimmy-mosby,billed
+Elsa Waldo,elsa-waldo,billed
+Sarah Lowe,sarah-lowe,billed
+Rivileers,rivileers,billed
+Jan Strickland,jan-strickland,billed
+Joyce Bryant,joyce-bryant,billed
+Helen Vernon Trio,helen-vernon-trio,billed
+Danny Overbea,danny-overbea,billed
+Charlie & Ray,charlie-and-ray,billed
+Buddy Griffin & Claudia Swann,buddy-griffin-and-claudia-swann,billed
+Sherry Sisters,sherry-sisters,billed
+Irvin C. Miller's Brownskin Models of 1955,irvin-c-miller-s-brownskin-models-of-1955,billed
+Johnny Christian,johnny-christian,billed
+Rhythmaires,rhythmaires,billed
+Jon White,jon-white,billed
+Glenn Covington,glenn-covington,billed
+Hillman Brothers,hillman-brothers,billed
+Lang Troupe,lang-troupe,billed
+Charms,charms,billed
+Buddy Tate,buddy-tate,billed
+Beulah Swan,beulah-swan,billed
+Princess D'Orsay,princess-d-orsay,billed
+3 Dancing Dictators,3-dancing-dictators,billed
+Hearts,hearts,billed
+Sharon Porter,sharon-porter,billed
+Della Reese,della-reese,billed
+Don Phillips,don-phillips,billed
+Iron Jaw Wilson,iron-jaw-wilson,billed
+Memphis Slim,memphis-slim,billed
+Dakota Staton,dakota-staton,billed
+Peiro Brothers,peiro-brothers,billed
+Marie Knight,marie-knight,billed
+Flournoy Miller & Mantan Moreland,mantan-moreland-and-flournoy-miller,llm
+Mantan Moreland & Flournoy Miller,mantan-moreland-and-flournoy-miller,billed
+Dolphus Prince,dolphus-prince,billed
+Olga Ford,olga-ford,billed
+Christine Harper,christine-harper,billed
+Jerri Winters,jerri-winters,billed
+Hamptones,hamptones,billed
+Zippy the Chimp,zippy-the-chimp,billed
+Perez Prado,perez-prado,billed
+Nappy Brown,nappy-brown,billed
+Carmen Romano,carmen-romano,billed
+Gene & Eunice,gene-and-eunice,billed
+Bo Diddley,bo-diddley,billed
+Nutmegs,nutmegs,billed
+Etta Jones,etta-jones,billed
+4 Fellows,4-fellows,billed
+Dolores Ware,dolores-ware,billed
+"Sam ""The Man"" Taylor",sam-taylor,billed
+Sam Taylor,sam-taylor,billed
+Etta James & Peaches,etta-james-and-peaches,billed
+Ada Lee,ada-lee,billed
+Jack Turner,jack-turner,billed
+Clark Kids,clark-kids,billed
+Leo De Lyon,leo-de-lyon,billed
+Leo de Lyon,leo-de-lyon,billed
+Buddy Phillips Dancers,buddy-phillips-dancers,billed
+Cadillacs,cadillacs,billed
+Titus Turner,titus-turner,billed
+Solitaires,solitaires,billed
+Walkin' Willie Hickerson,walkin-willie-hickerson,billed
+Bop & Lock,bop-and-lock,billed
+Little Willie John,little-willie-john,billed
+Rastus & George,rastus-and-george,billed
+Vivian & Tassi,vivian-and-tassi,billed
+Buddy Griffin,buddy-griffin,billed
+Buddy Griffin Ork,buddy-griffin,billed
+Buddy Griffin ork,buddy-griffin,billed
+Claudia Swann,claudia-swann,billed
+Cavaliers,cavaliers,billed
+Eddie Jefferson,eddie-jefferson,billed
+Dancing Jets,dancing-jets,billed
+Eartha Kitt,eartha-kitt,billed
+5 Encores,5-encores,billed
+Fouche Dancers,fouche-dancers,billed
+Hortense Allen Dancers,hortense-allen-dancers,billed
+Geoffrey Holder Dancers,geoffrey-holder-dancers,billed
+Royal Jokers,royal-jokers,billed
+Buddy Bowser,buddy-bowser,billed
+King & King,king-and-king,billed
+El Dorados,el-dorados,billed
+Sweethearts,sweethearts,billed
+Jimmy Peterson,jimmy-peterson,billed
+Florence Wright,florence-wright,billed
+Platters,platters,billed
+Cuban Pete & Millie,cuban-pete-and-millie,billed
+Jack Dupree,jack-dupree,billed
+Earl King,earl-king,billed
+Little George Smith,little-george-smith,billed
+Jacks,jacks,billed
+Howling Wolf,howling-wolf,billed
+Etta James,etta-james,billed
+Heartbeats,heartbeats,billed
+Alfredito,alfredito,billed
+La Playa Sextette,la-playa-sextette,billed
+Fi-Tones,fi-tones,billed
+Chuck Berry,chuck-berry,billed
+Valentines,valentines,billed
+Floyd Ryland,floyd-ryland,billed
+Choker Campbell,choker-campbell,billed
+Collegians,collegians,billed
+Mildred Anderson,mildred-anderson,billed
+Pearls,pearls,billed
+Sil Austin,sil-austin,billed
+Donna Hightower,donna-hightower,billed
+Diablos,diablos,billed
+Turbans,turbans,billed
+Mambo Jets,mambo-jets,billed
+Oliver & Smith,oliver-and-smith,billed
+5 Blind Boys Of Mississippi,blind-boys-of-mississippi,llm
+Blind Boys Of Mississippi,blind-boys-of-mississippi,billed
+Pilgrim Travelers,pilgrim-travelers,billed
+Nightingales,nightingales,billed
+Harmonizing Four,harmonizing-four,billed
+Caravans,caravans,billed
+Alex Bradford Singers,alex-bradford-singers,billed
+Brother Joe May,brother-joe-may,billed
+Sister Ethel Davenport,sister-ethel-davenport,billed
+Christine Clark,christine-clark,billed
+Thermon Ruth,thermon-ruth,billed
+Starbuds,starbuds,billed
+Delltones,delltones,billed
+Sonny Boy Williamson,sonny-boy-williamson,billed
+Warren Berry,warren-berry,billed
+Colts,colts,billed
+Rosa La King,rosa-la-king,billed
+Romp & Stomp,romp-and-stomp,billed
+Clifford Brown,clifford-brown,billed
+Hi-Fis,hi-fis,billed
+Condos & Brandow,condos-and-brandow,billed
+Priscilla Bowman,priscilla-bowman,billed
+Joe Tex,joe-tex,billed
+LaFlotte Duo,laflotte-duo,billed
+Bubber Johnson,bubber-johnson,billed
+Mickey & Sylvia,mickey-and-sylvia,billed
+Little Richard,little-richard,billed
+Linda Hopkins,linda-hopkins,billed
+Lloyd Lambert,lloyd-lambert-ork,billed
+Lloyd Lambert Ork,lloyd-lambert-ork,billed
+Katherine Dunham Dancers,katherine-dunham-dancers,billed
+Mae Barnes,mae-barnes,billed
+Malagon Sisters,malagon-sisters,billed
+Leaders,leaders,billed
+4 Aces,4-aces,billed
+Diahann Carroll,diahann-carroll,billed
+Clara Ward Singers,clara-ward-singers,billed
+Ward Singers,clara-ward-singers,llm
+Dixie Hummingbirds,dixie-hummingbirds,billed
+Davis Sisters,davis-sisters,billed
+Mighty Skylights,skylights,llm
+Skylights,skylights,billed
+Charles Taylor & All-Stars,charles-taylor-and-all-stars,billed
+Dean Barlow,dean-barlow,billed
+Brook Benton,brook-benton,billed
+Schoolboys,schoolboys,billed
+Teen Queens,teen-queens,billed
+Sugar & Spice,sugar-and-spice,billed
+Dottie Smith,dottie-smith,billed
+Cleftones,cleftones,billed
+Sensations,sensations,billed
+Willows,willows,billed
+Phil Waddell,phil-waddell,billed
+Patty Austin,patty-austin,billed
+Coasters,coasters,billed
+Cal Green,cal-green-band,billed
+Cal Green Band,cal-green-band,billed
+Ethel Ennis,ethel-ennis,billed
+Al Jackson & Fat Men,al-jackson-and-fat-men,billed
+Pee Wee Crayton,pee-wee-crayton,billed
+Richard Wilson,richard-wilson,billed
+Shirley Gunter,shirley-gunter,billed
+Flairs,flairs,billed
+Cookies,cookies,billed
+Screamin' Jay Hawkins,screamin-jay-hawkins,billed
+Screaming Jay Hawkins,screamin-jay-hawkins,llm
+Jesse Powell,jesse-powell-ork,billed
+Jesse Powell Ork,jesse-powell-ork,billed
+Clyde McPhatter,clyde-mcphatter,billed
+Frankie Lymon & Teenagers,frankie-lymon-and-teenagers,billed
+Pretenders,pretenders,billed
+Mabel King,mabel-king,billed
+Watts & Lynn,watts-and-lynn,billed
+Alex Bradford,alex-bradford,billed
+Professor Alex Bradford,alex-bradford,llm
+Stevens Singers,stevens-singers,billed
+Jessie Mae Renfroe,jessie-mae-renfroe,billed
+Julia Doyle,julia-doyle,billed
+Robert Ross,robert-ross,billed
+Heartbreakers,heartbreakers,billed
+Mr. Blues,mr-blues,billed
+Lonnie Satin,lonnie-satin,billed
+Lonnie Sattin,lonnie-satin,llm
+Jayhawks,jayhawks,billed
+Bop Chords,bop-chords,billed
+Vicki Nelson,vickie-nelson,llm
+Vickie Nelson,vickie-nelson,billed
+Rudy Green,rudy-green,billed
+Mickey Baker,mickey-baker,billed
+Wheels,wheels,billed
+Cousins,cousins,billed
+Chuck Fly,chuck-fly,billed
+Hines Brothers,hines-brothers,billed
+Rhythm On Ice,rhythm-on-ice,billed
+Larry Ellis,larry-ellis,billed
+5 Satins,5-satins,billed
+Butchie Saunders,butchie-saunders,billed
+Channels,channels,billed
+Soul Stirrers,soul-stirrers,billed
+G-Clefs,g-clefs,billed
+Teenagers,teenagers,billed
+Joytones,joytones,billed
+Jean Chapel,jean-chapel,billed
+Bob Kornegay,bob-kornegay,billed
+Jimmy Wright,jimmy-wright,billed
+Jimmy Wright Ork,jimmy-wright,billed
+Dolly Cooper,dolly-cooper,billed
+Blockbusters,blockbusters,billed
+Young Jessie,young-jessie,billed
+Earl Warren,earl-warren,billed
+Earl Warren Ork,earl-warren,billed
+Cadets,cadets,billed
+Magnificents,magnificents,billed
+"Johnny ""Guitar"" Watson",johnny-watson,billed
+Johnny Watson,johnny-watson,billed
+Chorals,chorals,billed
+Lecuona Cuban Boys,lecuona-cuban-boys,billed
+Meringuito,meringuito,billed
+Velours,velours,billed
+Dells,dells,billed
+Ruth Mc Fadden,ruth-mc-fadden,billed
+Jimmie Cavello & Houserockers,jimmie-cavello-and-houserockers,billed
+Gloria Lynn,gloria-lynn,billed
+Chips,chips,billed
+Ann Cole,ann-cole,billed
+Robert & Johnny,robert-and-johnny,billed
+Reuben Phillips,reuben-phillips,billed
+Reuben Phillips Ork,reuben-phillips,billed
+Reuben Phillips ork,reuben-phillips,billed
+Eddie Cooley & Dimples,eddie-cooley-and-dimples,billed
+Billy Mason,billy-mason,billed
+Angels,angels,billed
+Lanes,lanes,billed
+Rhythm Jesters,rhythm-jesters,billed
+Sonny Knight,sonny-knight,billed
+Jo-Ann Campbell,jo-ann-campbell,billed
+Frankie Brunson,frankie-brunson,billed
+Carl Holland,carl-holland,billed
+Cha Cha Taps,cha-cha-taps,billed
+Gospel Harmonettes,gospel-harmonettes,billed
+Original Gospel Harmonettes,gospel-harmonettes,llm
+Herman Stevens,professor-herman-stevens,llm
+Professor Herman Stevens,professor-herman-stevens,billed
+Daniel Singers,daniel-singers,billed
+Teenchords,teenchords,billed
+Clarence Henry,clarence-henry,billed
+Jesse Belvin,jesse-belvin,billed
+Cannonball Adderley,cannonball-adderley,billed
+Cannonball Adderly,cannonball-adderley,llm
+Ocie Smith,ocie-smith,billed
+3 Friends,3-friends,billed
+Buddy Bower,buddy-bower,billed
+Andre Williams,andre-williams,billed
+Belltones,belltones,billed
+Playboys,playboys,billed
+Tarriers,tarriers,billed
+Helen Ferguson,helen-ferguson,billed
+Pearl Gonzalez 5,pearl-gonzalez-5,billed
+Johnny Barracuda,johnny-barracuda,billed
+Trinidad Steel,trinidad-steel-band,billed
+Trinidad Steel Band,trinidad-steel-band,billed
+Solomon Burke,solomon-burke,billed
+Little Joe & Thrillers,little-joe-and-thrillers,billed
+Minors,minors,billed
+Crazy Cris Columbo,crazy-cris-columbo-band,billed
+Crazy Cris Columbo Band,crazy-cris-columbo-band,billed
+El Boy,el-boy,billed
+Larry Birdsong,larry-birdsong,billed
+Lloyd Thomas,lloyd-thomas,billed
+Versatones,versatones,billed
+Lady Calypso,lady-calypso,billed
+King Caribe,king-caribe,billed
+King Rudy,king-rudy,billed
+Danny Knight,danny-knight,billed
+Federals,federals,billed
+Gospel Wonders,gospel-wonders,billed
+Atomics,atomics,billed
+Louis Jordan Tympany 5,louis-jordan-tympany-5,billed
+Jackie Davis,jackie-davis,billed
+Wild Bill Moore,wild-bill-moore,billed
+Brunellos,brunellos,billed
+Pinkney Roberts,pinkney-roberts,billed
+Mauri Leighton,mauri-leighton,billed
+Ernie Andrews,ernie-andrews,billed
+Paul Meeres,paul-meeres,billed
+Junior & Lorraine,junior-and-lorraine,billed
+Debonettes,debonettes,billed
+Paragons,paragons,billed
+Avons,avons,billed
+Metronomes,metronomes,billed
+Robin Robinson,robin-robinson,billed
+Cellos,cellos,billed
+Pearl Primus,pearl-primus,billed
+Lord Kitchner,lord-kitchner,billed
+Count Of Monte Cristo,count-of-monte-cristo,billed
+Johnnie & Joe,johnnie-and-joe,billed
+Johnny Mathis,johnny-mathis,billed
+Jive Bombers,jive-bombers,billed
+Miller Sisters,miller-sisters,billed
+Stewart & Oscar,stewart-and-oscar,billed
+Jimmy Valentine,jimmy-valentine,billed
+Charlie & Carmen,charlie-and-carmen,billed
+Jesters,jesters,billed
+Charts,charts,billed
+Joan & Joy,joan-and-joy,billed
+Donnie Elbert,donnie-elbert,billed
+Jewel Gospel Singers,jewel-gospel-singers,billed
+Spiritualaires,spiritualaires,billed
+Dubs,dubs,billed
+Fran & Flo,fran-and-flo,billed
+Dale Hawkins,dale-hawkins,billed
+Butterfly,butterfly,billed
+Carol Strickland,carol-strickland,billed
+Shirley & Lee,shirley-and-lee,billed
+Otis Williams & Charms,otis-williams-and-charms,billed
+Huey Smith & Clowns,huey-smith-and-clowns,billed
+Lee Andrews & Hearts,lee-andrews-and-hearts,billed
+Otis Rush,otis-rush,billed
+Buddy Holly & Crickets,buddy-holly-and-crickets,billed
+Paul King,paul-king,billed
+Stu & Oscar,stu-and-oscar,billed
+Shells,shells,billed
+Don Covay,don-covay,billed
+Pretty Boy,don-covay,llm
+Fats Domino,fats-domino,billed
+Little Joe,little-joe,billed
+Hart Sisters,hart-sisters,billed
+Golden Arrows,golden-arrows,billed
+Eddie Chamblee,eddie-chamblee,billed
+Jerry Lee Lewis,jerry-lee-lewis,billed
+Little Beats,little-beats,billed
+5 Quails,5-quails,billed
+Del Vikings,del-vikings,billed
+Mellokings,mellokings,billed
+Tunedrops,tunedrops,billed
+Tune Weavers,tune-weavers,billed
+Lovers,lovers,billed
+Dolly King,dolly-king,billed
+Billy Barnes,billy-barnes,billed
+Chantels,chantels,billed
+Delroys,delroys,billed
+Tony Harris,tony-harris,billed
+Jimmy Morgan,jimmy-morgan,billed
+Bobby Marchan,bobby-marchan,billed
+Nicki Redman,nicki-redman,billed
+Sentimentals,sentimentals,billed
+Ernie Freeman,ernie-freeman-ork,billed
+Ernie Freeman Ork,ernie-freeman-ork,billed
+Lillian Offitt,lillian-offitt,billed
+Palmero Brothers,palmero-brothers,billed
+Jackie Wilson,jackie-wilson,billed
+Redd Fox,redd-foxx,llm
+Redd Foxx,redd-foxx,billed
+Swan Silvertones,swan-silvertones,billed
+Hightower Singers,hightower-singers,billed
+Nathaniel Rivers,nathaniel-rivers,billed
+Kodoks,kodoks,billed
+Tiny Topsy,tiny-topsy,billed
+Bobby Day,bobby-day,billed
+Bobbettes,bobbettes,billed
+Wynona Carr,wynona-carr,billed
+Thurston Harris,thurston-harris,billed
+Glowtones,glowtones,billed
+Dee Clark,dee-clark,billed
+Blue Notes,blue-notes,billed
+Robinson Sisters,robinson-sisters,billed
+Capers,capers,billed
+Jimmy Charles,jimmy-charles,billed
+Tiny Tim,tiny-tim,billed
+Edith McKay,edith-mckay,billed
+Al & Ray,al-and-ray,billed
+Original Cadillacs,original-cadillacs,billed
+Deltairs,deltairs,billed
+Don & Dewey,don-and-dewey,billed
+Malley & Margot,malley-and-margot,billed
+Hart Singers,hart-singers,billed
+Gospel Clefs,gospel-clefs,billed
+Gilbert Atkins,gilbert-atkins,billed
+Doc Bagby,doc-bagby,billed
+Doc Bagby Ork,doc-bagby,billed
+Silhouettes,silhouettes,billed
+Lee Allen,lee-allen,billed
+Frankie Lymon,frankie-lymon,billed
+3 Playmates,3-playmates,billed
+Rays,rays,billed
+Hollywood Flames,hollywood-flames,billed
+Jimmy Reed,jimmy-reed,billed
+John Lee Hooker,john-lee-hooker,billed
+Joan Temple,joan-temple,billed
+Gospelaires,gospelaires,billed
+Staple Singers,staple-singers,billed
+Selah Jubilee Singers,selah-jubilee-singers,billed
+Selah Singers,selah-jubilee-singers,llm
+Jewels,jewels,billed
+Maceo Woods,maceo-woods,billed
+Billy & Lillie,billy-and-lillie,billed
+Sheppard Sisters,sheppard-sisters,billed
+Ebon-Knights,ebon-knights,billed
+Velvets,velvets,billed
+Shirelles,shirelles,billed
+Pastels,pastels,billed
+Lee Diamond & Upsetters,lee-diamond-s-upsetters,llm
+Lee Diamond's Upsetters,lee-diamond-s-upsetters,billed
+Geoffrey Holder,geoffrey-holder,billed
+Dolly Lyons,dolly-lyons,billed
+Bradford Specials,bradford-specials,billed
+Imperial Gospel Singers,imperial-gospel-singers,billed
+Pilgrim Harmonaires,pilgrim-harmonaires,billed
+Fidelitys,fidelitys,billed
+Beverly Ann Gibson,beverly-ann-gibson,billed
+Freddie Scott,freddie-scott,billed
+Fran Warren,fran-warren,billed
+Hortense Allen's Dancing Girls,hortense-allen-s-dancing-girls,billed
+Ruth McFadden,ruth-mcfadden,billed
+Ruth McFaddens,ruth-mcfadden,llm
+Zeniths,zeniths,billed
+Apus & Wiltshire,apus-and-wiltshire,billed
+Swanee Quartet,swanee-quartet,billed
+J. Monroe,j-monroe,billed
+Isley Bros.,isley-bros,billed
+Rolling Rockets,rolling-rockets,billed
+Val Martinez,val-martinez,billed
+Rasberry Singers,rasberry-singers,billed
+Gospel Chordettes,gospel-chordettes,billed
+Crowns,crowns,billed
+Mary Ann Fisher,mary-ann-fisher,billed
+Monotones,monotones,billed
+Ed Townsend,ed-townsend,billed
+Jerry Butler & Impressions,jerry-butler-and-impressions,billed
+Storey Sisters,storey-sisters,billed
+Danleers,danleers,billed
+Kalin Twins,kalin-twins,billed
+Sonny Til,sonny-til,billed
+Rocking Kids,rocking-kids,billed
+Bobby Freeman,bobby-freeman,billed
+Ketty Lester,ketty-lester,billed
+Dion & Belmonts,dion-and-belmonts,billed
+Samson & Delilah,samson-and-delilah,billed
+Jimmy Lewis,jimmy-lewis,billed
+Juggling Joe,juggling-joe,billed
+Ralph Mathis & Ambers,ralph-mathis-and-ambers,billed
+Bob & Earl,bob-and-earl,billed
+Videos,videos,billed
+Satellites,satellites,billed
+Ronnie Baxter,ronnie-baxter,billed
+Brooklyn All-Star Singers,brooklyn-all-star-singers,billed
+Swanee Quintet,swanee-quintet,billed
+Gospel Starlettes,gospel-starlettes,billed
+Lil Greenwood,lil-greenwood,billed
+Ozzie Bailey,ozzie-bailey,billed
+Olympics,olympics,billed
+Quintones,quintones,billed
+Bobby Long,bobby-long,billed
+Bobby Hendricks,bobby-hendricks,billed
+Royal Holidays,royal-holidays,billed
+Oscar McLollie & Annette,oscar-mclollie-and-annette,billed
+Sad Sam & Pineapple,sad-sam-and-pineapple,billed
+Andy Rose,andy-rose,billed
+Mona Desmond,mona-desmond,billed
+Upsetters,upsetters,billed
+Little Anthony & Imperials,little-anthony-and-imperials,billed
+Eddie Anderson & Playmate,eddie-anderson-and-playmate,billed
+Miles Davis,miles-davis,billed
+Wailers,wailers,billed
+Johnny Richards,johnny-richards-ork,billed
+Johnny Richards Band,johnny-richards-ork,billed
+Johnny Richards Ork,johnny-richards-ork,billed
+Shields,shields,billed
+Larry Williams,larry-williams,billed
+John Bubbles,john-bubbles,billed
+Chris Connor,chris-connor,billed
+Axidentals,axidentals,billed
+Stars Of Faith,stars-of-faith,billed
+Consolers,consolers,billed
+Elizabeth Lands,elizabeth-lands,billed
+Grace Gospel Singers,grace-gospel-singers,billed
+Emersons,emersons,billed
+5 Chanels,5-chanels,billed
+Frances Burnett,frances-burnett,billed
+Frances Burnette,frances-burnett,llm
+Jazz! Horace Silver,jazz-horace-silver,billed
+Bill Henderson,bill-henderson,billed
+Herb Pomeroy,herb-pomeroy,billed
+Unique Teens,unique-teens,billed
+Miller Brothers,miller-brothers,billed
+Professor Charles Taylor,professor-charles-taylor,billed
+Highway QC's,highway-qc-s,billed
+Hightowers,hightowers,billed
+Soul Seekers,soul-seekers,billed
+Duane Eddy,duane-eddy,billed
+Solomon Gideon,solomon-gideon,billed
+Lambert Hendricks & Ross,lambert-hendricks-and-ross,billed
+Arnold Dover & Spouse,arnold-dover-and-spouse,billed
+Cleo Bernard,cleo-bernard,billed
+Jerry Butler,jerry-butler,billed
+Crests,crests,billed
+Wade Flemons,wade-flemons,billed
+Maynard Ferguson,maynard-ferguson,billed
+Gerry Mulligan,gerry-mulligan,billed
+Sonny Rollins,sonny-rollins,billed
+Will Gaines,will-gaines,billed
+Willie Gaines,will-gaines,llm
+Art Blakey & Jazz Messengers,art-blakey-and-jazz-messengers,billed
+Ahmad Jamal,ahmad-jamal,billed
+Sally Jenkins Singers,sally-jenkins-singers,billed
+Dave Brubeck,dave-brubeck,billed
+Jazz All Stars,jazz-all-stars,billed
+"Harry ""Sweets"" Edison",harry-sweets-edison,billed
+Ernestine Anderson,ernestine-anderson,billed
+Jesse Lee Turner,jesse-lee-turner,billed
+Jimmie Barnes & Gibraltars,jimmie-barnes-and-gibraltars,billed
+Thelonius Monk,thelonius-monk,billed
+Vashti Singers,vashti-singers,billed
+Eugene Church,eugene-church,billed
+Fiestas,fiestas,billed
+Genies,genies,billed
+Sam Hawkins,sam-hawkins,billed
+Marv Johnson,marv-johnson,billed
+Diane Dove,diane-dove,billed
+Paul Perriman,paul-perriman,billed
+Sam Cooke,sam-cooke,billed
+Nina Simone,nina-simone,billed
+Moanin Dancers,moanin-dancers,billed
+James Brown & Famous Flames,james-brown-and-famous-flames,billed
+Vi Kemp,vi-kemp,billed
+Verna White,verna-white,billed
+Senators,senators,billed
+Mighty Gospel Giants,mighty-gospel-giants,billed
+Flanagan Singers,flanagan-singers,billed
+Dave Baby Cortez,dave-baby-cortez,billed
+Jimmy Smith Trio,jimmy-smith-trio,billed
+Queen's Jesters,queen-s-jesters,billed
+Gil Evans,gil-evans-band,billed
+Gil Evans Band,gil-evans-band,billed
+Skyliners,skyliners,billed
+Impalas,impalas,billed
+Ray Peterson,ray-peterson,billed
+Modern Jazz Quartet,modern-jazz-quartet,billed
+Jimmy Ricks,jimmy-ricks,billed
+Wilbert Harrison,wilbert-harrison,billed
+Clintonian Cubs,clintonian-cubs,billed
+Falcons,falcons,billed
+Rockets,rockets,billed
+Swan Silvertone Singers,swan-silvertone-singers,billed
+Mattison Trio,mattison-trio,billed
+Clickettes,clickettes,billed
+Sammy Turner,sammy-turner,billed
+Stereos,stereos,billed
+Lois Lee,lois-lee,billed
+Johnny Nash,johnny-nash,billed
+Jay Brothers,jay-brothers,billed
+Terry Gibbs,terry-gibbs-band,billed
+Terry Gibbs Band,terry-gibbs-band,billed
+Alex Bradford & His Men Of Song,alex-bradford-and-his-men-of-song,billed
+Spirit Of Memphis Singers,spirit-of-memphis-singers,billed
+Jimmy Jones,jimmy-jones,billed
+Corinthian Singers,corinthian-singers,billed
+Barbara McNair,barbara-mcnair,billed
+Raelettes,raelettes,billed
+Miracles,miracles,billed
+Eileen Barton,eileen-barton,billed
+Hal Loman & His Playmates,hal-loman-and-his-playmates,billed
+Fireflies,fireflies,billed
+Big Daddy,big-daddy,billed
+Bobby Lewis,bobby-lewis,billed
+Santo & Johnny,santo-and-johnny,billed
+Lee Thomas,lee-thomas,billed
+Frexels,frexels,billed
+Geraldine Climmons,geraldine-climmons,billed
+Bobby Charles Quintet,bobby-charles-quintet,billed
+Flying Nesbits,flying-nesbits,billed
+Tarheel Slim & Little Ann,tarheel-slim-and-little-ann,billed
+Earl Grant,earl-grant,billed
+Walter Nicks Dancers,walter-nicks-dancers,billed
+Red Garland,red-garland,billed
+Red Garland Trio,red-garland,llm
+Kingdom Jubilee,kingdom-jubilee,billed
+Gospel Cogerettes,gospel-cogerettes,billed
+Roosevelt Grier,roosevelt-grier,billed
+Centurians,centurians,billed
+Barrett Strong,barrett-strong,billed
+Jean Samson,jean-samson,billed
+Olatunji,olatunji,billed
+Denizulu Dancers,denizulu-dancers,billed
+Mike Quashi,mike-quashi,billed
+Cruisers,cruisers,billed
+Fay Simmons,fay-simmons,billed
+Luther Bond,luther-bond,billed
+4 Tops,4-tops,billed
+Lenny Welch,lenny-welch,billed
+Ben E. King,ben-e-king,billed
+Billy Bland,billy-bland,billed
+Vines,vines,billed
+Jean DuShon,jean-dushon,billed
+Tick-Tocks,tick-tocks,billed
+Abbey Lincoln,abbey-lincoln,billed
+Madison Dancers,madison-dancers,billed
+JC Heard Quintet,jc-heard-quintet,billed
+Adam Wade,adam-wade,billed
+James Cleveland,james-cleveland,billed
+Odetta,odetta,billed
+Alvin Ailey Dancers,alvin-ailey-dancers,billed
+Ron Holden,ron-holden,billed
+King Coleman,king-coleman,billed
+Hazel Scott,hazel-scott,billed
+Herbie Mann,herbie-mann,billed
+Philly Joe Jones Sextet,philly-joe-jones-sextet,billed
+Brock Peters,brock-peters,billed
+Ahmad Jamal Trio,ahmad-jamal-trio,billed
+Nancy Wilson,nancy-wilson,billed
+Art Farmer & Jazztet,art-farmer-and-jazztet,billed
+Dante & Evergreens,dante-and-evergreens,billed
+Vibrations,vibrations,billed
+Jesse Hill,jesse-hill,billed
+Original Drifters,original-drifters,billed
+Johnny Moore Darrow,johnny-moore-darrow,billed
+Jimmy Oliver,jimmy-oliver-ork,billed
+Jimmy Oliver ork,jimmy-oliver-ork,billed
+Danny & Juniors,danny-and-juniors,billed
+Blue Notes Jimmy Charles,blue-notes-jimmy-charles,billed
+Dinah Washington & her Proteges,dinah-washington-and-her-proteges,billed
+Hank Ballard & Midnighters,hank-ballard-and-midnighters,billed
+Ike & Tina Turner,ike-and-tina-turner,billed
+Andy & Bey Sisters,andy-and-bey-sisters,billed
+Jackie & Starlites,jackie-and-starlites,billed
+Arthur Bragg,arthur-bragg,billed
+Lon Fontaine Trio,lon-fontaine-trio,billed
+4 Taps,4-taps,billed
+Sugar Pie DeSanto,sugar-pie-desanto,billed
+Delores Coleman,delores-coleman,billed
+James Brown,james-brown,billed
+Maurice Williams & Gladiolas,maurice-williams-and-gladiolas,billed
+Gary US Bonds,gary-us-bonds,billed
+Cashmeres,cashmeres,billed
+Drinkard Singers,drinkard-singers,billed
+Jackie Verdell,jackie-verdell,billed
+Edsels,edsels,billed
+Mary Wells,mary-wells,billed
+Maxine Brown,maxine-brown,billed
+Aretha Franklin,aretha-franklin,billed
+Shep & Limelites,shep-and-limelites,billed
+Marcels,marcels,billed
+Jackie Brenston,jackie-brenston,billed
+Eloise Carter,eloise-carter,billed
+Billy Gails,billy-gails,billed
+Jimmie & Jean,jimmie-and-jean,billed
+Miriam Makeba,miriam-makeba,billed
+Mongo Santamaria,mongo-santamaria,billed
+Willie Bobo,willie-bobo,billed
+Richard Pryor,richard-pryor,billed
+Gladys Knight & Pips,gladys-knight-and-pips,billed
+Chubby Checker,chubby-checker,billed
+Chuck Jackson,chuck-jackson,billed
+Spinners,spinners,billed
+Ernie K Doe,ernie-k-doe,billed
+Carla Thomas,carla-thomas,billed
+Phil Upchurch,phil-upchurch,billed
+Slim Harpo,slim-harpo,billed
+Thornton Sisters,thornton-sisters,billed
+Tommy Hunt,tommy-hunt,billed
+Chris Kenner,chris-kenner,billed
+Van McCoy,van-mccoy,billed
+Dreamlovers,dreamlovers,billed
+Sonny Til & Orioles,sonny-til-and-orioles,billed
+Little Anthony,little-anthony,billed
+Nate Nelson,nate-nelson,billed
+Timi Yuro,timi-yuro,billed
+Orlons,orlons,billed
+Duels,duels,billed
+Little Caesar & Romans,little-caesar-and-romans,billed
+Curley Mae,curley-mae,billed
+Dovells,dovells,billed
+Junior Lewis,junior-lewis,billed
+Jive 5,jive-5,billed
+Jarmels,jarmels,billed
+Marvelettes,marvelettes,billed
+James Ray,james-ray,billed
+Tammy Montgomery,tammy-montgomery,billed
+Sims Twins,sims-twins,billed
+Impressions,impressions,billed
+Gene McDaniels,gene-mcdaniels,billed
+Flip Wilson,flip-wilson,billed
+Shirley Scott,shirley-scott,billed
+Al Grey,al-grey,billed
+Billy Mitchell 6,billy-mitchell-6,billed
+Corsairs,corsairs,billed
+Crystals,crystals,billed
+Imperials,imperials,billed
+Ronnie & Hi-Lites,ronnie-and-hi-lites,billed
+Timmie Lymon & Fascinators,timmie-lymon-and-fascinators,billed
+Volumes,volumes,billed
+Contours,contours,billed
+Rivingtons,rivingtons,billed
+Radiants,radiants,billed
+Vandellas,vandellas,billed
+Marvin Gaye,marvin-gaye,billed
+Chris Montez,chris-montez,billed
+Little Eva,little-eva,billed
+Duprees,duprees,billed
+Screaming Jay Hawkins And Pat,screaming-jay-hawkins-and-pat,billed
+Gigi,gigi,billed
+Esther Phillips,esther-phillips,billed
+Gene Chandler,gene-chandler,billed
+Johnny Thunder,johnny-thunder,billed
+Fascinations,fascinations,billed
+Modern Flamingos,modern-flamingos,billed
+Ruby & Romantics,ruby-and-romantics,billed
+Dootones,dootones,billed
+Cupids,cupids,billed
+Paul Winley,paul-winley,billed
+Laddins,laddins,billed
+MC George Smith,mc-george-smith,billed
+Vivian Reed,vivian-reed,billed
+Van Dykes,van-dykes,billed
+Maskman & Agents,maskman-and-agents,billed

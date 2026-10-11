@@ -1,0 +1,3523 @@
+[
+ [
+  {
+   "name": "Charlie & Ray",
+   "billed_as": [
+    "Charlie & Ray"
+   ],
+   "years": "1955-1966",
+   "n": 17,
+   "hints": [],
+   "sample_cobills": [
+    "Bo Diddley",
+    "5 Keys",
+    "Claudia Swann",
+    "Moonglows",
+    "Solitaires",
+    "Schoolboys"
+   ]
+  },
+  {
+   "name": "Charlie Ray",
+   "billed_as": [
+    "Charlie Ray"
+   ],
+   "years": "1934-1948",
+   "n": 11,
+   "hints": [],
+   "sample_cobills": [
+    "Spider Bruce",
+    "Edna \"Yack\" Taylor",
+    "John Mason",
+    "Jimmy Baskett",
+    "Pigmeat",
+    "Tiny Bradshaw Ork"
+   ]
+  },
+  {
+   "name": "Ray Charles",
+   "billed_as": [
+    "Ray Charles"
+   ],
+   "years": "1952-1961",
+   "n": 8,
+   "hints": [
+    "blind pianist"
+   ],
+   "sample_cobills": [
+    "Betty Carter",
+    "Tiny Topsy",
+    "Raelettes",
+    "Dee Clark",
+    "Coasters",
+    "Lowell Fulson ork"
+   ]
+  },
+  {
+   "name": "Arlene, Charlie, & Ruby",
+   "billed_as": [
+    "Arlene, Charlie, & Ruby"
+   ],
+   "years": "1937-1937",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Nicholas Brothers",
+    "Lucky Millinder & Mills Blue Rhythm Band",
+    "Barrington Guy",
+    "Mae Alix",
+    "John Mason",
+    "Apus Brooks"
+   ]
+  },
+  {
+   "name": "Arlene, Charlie, & Ray",
+   "billed_as": [
+    "Arlene, Charlie, & Ray"
+   ],
+   "years": "1937-1937",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Earl Hines",
+    "Ida James",
+    "Son & Sonny",
+    "Winnie & Bobbie Johnson",
+    "Evelyn Keyes",
+    "Norton & Margo"
+   ]
+  },
+  {
+   "name": "Charles Ray",
+   "billed_as": [
+    "Charles Ray"
+   ],
+   "years": "1934-1934",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Don Redman Ork",
+    "Harlan Lattimore",
+    "Jazzlips Richardson",
+    "4 Bobs",
+    "Johnny Lee Long & Pigmeat"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Cook & Brown",
+   "billed_as": [
+    "Cook & Brown"
+   ],
+   "years": "1935-1961",
+   "n": 20,
+   "hints": [],
+   "sample_cobills": [
+    "Al Hibbler",
+    "Pigmeat",
+    "John Mason",
+    "Duke Ellington",
+    "Johnny Hodges",
+    "Peg Leg Bates"
+   ]
+  },
+  {
+   "name": "Troy Brown",
+   "billed_as": [
+    "Troy Brown"
+   ],
+   "years": "1934-1941",
+   "n": 6,
+   "hints": [],
+   "sample_cobills": [
+    "Aida Ward",
+    "Mabel Scott",
+    "Rhythm Kings",
+    "3 Palmer Brothers",
+    "Norton & Margot",
+    "Ralph Cooper band"
+   ]
+  },
+  {
+   "name": "Brown & Beige",
+   "billed_as": [
+    "Brown & Beige"
+   ],
+   "years": "1951-1953",
+   "n": 3,
+   "hints": [],
+   "sample_cobills": [
+    "Whitney Thompson",
+    "King Cole Trio",
+    "Freddie Mitchell",
+    "Joyce Davis",
+    "Spider Bruce",
+    "Doris Ruby"
+   ]
+  },
+  {
+   "name": "Rivers & Brown",
+   "billed_as": [
+    "Rivers & Brown"
+   ],
+   "years": "1948-1948",
+   "n": 2,
+   "hints": [],
+   "sample_cobills": [
+    "Dizzy Gillespie",
+    "Beale Street Boys",
+    "Al Hylton",
+    "Billy Nightingale",
+    "Ravens",
+    "Dinah Washington"
+   ]
+  },
+  {
+   "name": "Brown & Brown",
+   "billed_as": [
+    "Brown & Brown"
+   ],
+   "years": "1936-1944",
+   "n": 2,
+   "hints": [],
+   "sample_cobills": [
+    "Erskine Hawkins & Bama State Collegians Ork",
+    "3 Giants Of Rhythm",
+    "Phantom Steppers",
+    "Pigmeat",
+    "John Mason",
+    "Jimmy Baskett"
+   ]
+  },
+  {
+   "name": "Brown & Brown Trio",
+   "billed_as": [
+    "Brown & Brown Trio"
+   ],
+   "years": "1943-1945",
+   "n": 2,
+   "hints": [],
+   "sample_cobills": [
+    "Fletcher Henderson",
+    "Cuban Diamonds",
+    "Douglas Brothers",
+    "Sharkey The Seal",
+    "Buddy Johnson",
+    "Ella Johnson"
+   ]
+  },
+  {
+   "name": "Ray Brown Trio",
+   "billed_as": [
+    "Ray Brown Trio"
+   ],
+   "years": "1948-1948",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Ella Fitzgerald",
+    "Boyd Raeburn Ork",
+    "Howard Brothers",
+    "Apus & Estrellita"
+   ]
+  },
+  {
+   "name": "Brown & Browm",
+   "billed_as": [
+    "Brown & Browm"
+   ],
+   "years": "1935-1935",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Mae Johnson",
+    "Bama State Collegians",
+    "Erskine Hawkins",
+    "Billy Daniels",
+    "Edna Mae Holly",
+    "Dusty Fletcher"
+   ]
+  },
+  {
+   "name": "Brown Trio",
+   "billed_as": [
+    "Brown Trio"
+   ],
+   "years": "1935-1935",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Ethel Waters",
+    "4 Tan Tippers",
+    "Danny Logan's Syncopators",
+    "Ralph Cooper",
+    "Jimmy Baskett",
+    "Pigmeat"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Ella Fitzgerald",
+   "billed_as": [
+    "Ella Fitzgerald",
+    "Ella Fitzgerald & Band",
+    "Ella Fitzgerald & Ork"
+   ],
+   "years": "1935-1959",
+   "n": 37,
+   "hints": [],
+   "sample_cobills": [
+    "Chick Webb Ork",
+    "Pigmeat",
+    "Bardu Ali",
+    "Jimmy Baskett",
+    "Taft Jordan",
+    "George Wiltshire"
+   ]
+  },
+  {
+   "name": "Ella Fitzderald",
+   "billed_as": [
+    "Ella Fitzderald"
+   ],
+   "years": "1940-1940",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Peg Leg Bates",
+    "2 Zephyrs",
+    "Sadji",
+    "Jackie Mabley"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Erskine Hawkins",
+   "billed_as": [
+    "Erskine Hawkins",
+    "Erskine Hawkins Band",
+    "Erskine Hawkins Ork"
+   ],
+   "years": "1935-1957",
+   "n": 35,
+   "hints": [],
+   "sample_cobills": [
+    "Jimmie Mitchell",
+    "Pigmeat",
+    "Ace Harris",
+    "Ida James",
+    "Sandy Burns",
+    "Dolores Brown"
+   ]
+  },
+  {
+   "name": "Ersikine Hawkins",
+   "billed_as": [
+    "Ersikine Hawkins"
+   ],
+   "years": "1941-1941",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Burnham, Harris, & Scott",
+    "3 Wiles",
+    "Juanita Johnson",
+    "Ida James",
+    "Jimmie Mitchell",
+    "Freddie Koko"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Drifters",
+   "billed_as": [
+    "Drifters"
+   ],
+   "years": "1953-1967",
+   "n": 31,
+   "hints": [],
+   "sample_cobills": [
+    "Mickey & Sylvia",
+    "Big Maybelle",
+    "Little Willie John",
+    "Lucky Millinder",
+    "Lloyd Price",
+    "Bunny Briggs"
+   ]
+  },
+  {
+   "name": "Original Drifters",
+   "billed_as": [
+    "Original Drifters"
+   ],
+   "years": "1960-1960",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Clyde McPhatter",
+    "Johnny Moore Darrow",
+    "Jimmy Oliver ork",
+    "Bobbettes",
+    "George Kirby"
+   ]
+  },
+  {
+   "name": "3 Drifters",
+   "billed_as": [
+    "3 Drifters"
+   ],
+   "years": "1934-1934",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Luis Russell",
+    "Tiny Bradshaw",
+    "Edith Wilson",
+    "Taps Miller",
+    "Carlisle & Rosa",
+    "Johnny Lee Long & Pigmeat"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Ella Johnson",
+   "billed_as": [
+    "Ella Johnson"
+   ],
+   "years": "1943-1959",
+   "n": 30,
+   "hints": [],
+   "sample_cobills": [
+    "Buddy Johnson",
+    "Arthur Prysock",
+    "Floyd Ryland",
+    "Nolan Lewis",
+    "Pigmeat",
+    "Patterson & Jackson"
+   ]
+  },
+  {
+   "name": "Bella Johnson",
+   "billed_as": [
+    "Bella Johnson"
+   ],
+   "years": "1937-1937",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Tiny Bradshaw Band",
+    "Edgar Hayes",
+    "Kathryn Perry",
+    "Taps Miller",
+    "3 Peppers",
+    "Lang Sisters"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Myra Johnson",
+   "billed_as": [
+    "Myra Johnson"
+   ],
+   "years": "1934-1946",
+   "n": 14,
+   "hints": [],
+   "sample_cobills": [
+    "Fats Waller",
+    "John Mason",
+    "Jimmy Baskett",
+    "Pigmeat",
+    "Ford, Marshall, & Jones",
+    "Vivian Harris"
+   ]
+  },
+  {
+   "name": "Mae Johnson",
+   "billed_as": [
+    "Mae Johnson"
+   ],
+   "years": "1935-1939",
+   "n": 6,
+   "hints": [],
+   "sample_cobills": [
+    "Velma Middleton",
+    "Erskine Hawkins",
+    "Edna Mae Holly",
+    "Pearl Baines",
+    "Blanche Calloway Ork",
+    "Elizabeth Kelly"
+   ]
+  },
+  {
+   "name": "Marv Johnson",
+   "billed_as": [
+    "Marv Johnson"
+   ],
+   "years": "1959-1960",
+   "n": 4,
+   "hints": [],
+   "sample_cobills": [
+    "Buddy Johnson",
+    "Big Maybelle",
+    "Wanderers",
+    "Eugene Church",
+    "Fiestas",
+    "Genies"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Sybil Lewis",
+   "billed_as": [
+    "Sybil Lewis"
+   ],
+   "years": "1946-1950",
+   "n": 23,
+   "hints": [],
+   "sample_cobills": [
+    "Pigmeat",
+    "John Bunn",
+    "Cootie Williams",
+    "Conway & Parks",
+    "Edwards Sisters",
+    "Johnny Moore's 3 Blazers"
+   ]
+  },
+  {
+   "name": "Sybyil Lewis",
+   "billed_as": [
+    "Sybyil Lewis"
+   ],
+   "years": "1947-1947",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Cats & The Fiddle",
+    "Johnny Otis Band",
+    "Lem Talley",
+    "Deborah Murphy",
+    "Fats Thomas",
+    "Scratch & Patch"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Billie Holiday",
+   "billed_as": [
+    "Billie Holiday"
+   ],
+   "years": "1937-1955",
+   "n": 20,
+   "hints": [],
+   "sample_cobills": [
+    "Pigmeat",
+    "Jimmy Rushing",
+    "George Wiltshire",
+    "Butterbeans & Susie",
+    "Big Time Crip",
+    "3 Peters Sisters"
+   ]
+  },
+  {
+   "name": "Billie Halliday",
+   "billed_as": [
+    "Billie Halliday"
+   ],
+   "years": "1935-1935",
+   "n": 1,
+   "hints": [
+    "Holiday"
+   ],
+   "sample_cobills": [
+    "Ralph Cooper Ork",
+    "Palmer & Peaches",
+    "Lillyn Brown",
+    "William Dill & Co.",
+    "Pigmeat",
+    "Jimmy Baskett"
+   ]
+  },
+  {
+   "name": "Billy Holiday",
+   "billed_as": [
+    "Billy Holiday"
+   ],
+   "years": "1935-1935",
+   "n": 1,
+   "hints": [
+    "Billie"
+   ],
+   "sample_cobills": [
+    "Willie Bryand Ork",
+    "Berry Brothers",
+    "Pearl Baines",
+    "5 Percolators",
+    "John Mason",
+    "Pigmeat"
+   ]
+  },
+  {
+   "name": "Billy Halliday",
+   "billed_as": [
+    "Billy Halliday"
+   ],
+   "years": "1934-1934",
+   "n": 1,
+   "hints": [
+    "Billie Holiday"
+   ],
+   "sample_cobills": [
+    "Pops & Louie",
+    "5 Charlottes",
+    "Bobbie Henderson",
+    "Betty Roland",
+    "Billy Maples Ork",
+    "Eddie Green"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "4 Ink Spots",
+   "billed_as": [
+    "4 Ink Spots"
+   ],
+   "years": "1934-1950",
+   "n": 19,
+   "hints": [],
+   "sample_cobills": [
+    "Sandy Burns",
+    "George Wiltshire",
+    "Ella Fitzgerald",
+    "Pigmeat",
+    "Dusty Fletcher",
+    "Ralph Brown"
+   ]
+  },
+  {
+   "name": "Ink Spots",
+   "billed_as": [
+    "Ink Spots"
+   ],
+   "years": "1941-1953",
+   "n": 4,
+   "hints": [
+    "Charlie Fuqua's"
+   ],
+   "sample_cobills": [
+    "Sunset Royal Orchestra",
+    "Spider Bruce",
+    "Sandy Burns",
+    "Johnny Vigal",
+    "Froshien Stewart",
+    "Eddie, Jack & Betty"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "John Bunn",
+   "billed_as": [
+    "John Bunn"
+   ],
+   "years": "1946-1952",
+   "n": 21,
+   "hints": [],
+   "sample_cobills": [
+    "Pigmeat",
+    "Sybil Lewis",
+    "Charlie Barnet",
+    "Edwards Sisters",
+    "Johnny Moore's 3 Blazers",
+    "George Wiltshire"
+   ]
+  },
+  {
+   "name": "John Bonn",
+   "billed_as": [
+    "John Bonn"
+   ],
+   "years": "1946-1946",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Cootie Williams",
+    "Ada Brown",
+    "Bob Merrill",
+    "Conway & Parks",
+    "Pigmeat",
+    "Sybil Lewis"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Flamingos",
+   "billed_as": [
+    "Flamingos"
+   ],
+   "years": "1954-1966",
+   "n": 21,
+   "hints": [],
+   "sample_cobills": [
+    "Big Maybelle",
+    "Fidelitys",
+    "Heartbeats",
+    "Dells",
+    "Channels",
+    "Titus Turner"
+   ]
+  },
+  {
+   "name": "Modern Flamingos",
+   "billed_as": [
+    "Modern Flamingos"
+   ],
+   "years": "1963-1963",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": []
+  }
+ ],
+ [
+  {
+   "name": "Big Maybelle",
+   "billed_as": [
+    "Big Maybelle"
+   ],
+   "years": "1953-1963",
+   "n": 21,
+   "hints": [],
+   "sample_cobills": [
+    "Bo Diddley",
+    "Reuben Phillips Ork",
+    "Channels",
+    "Drifters",
+    "Flamingos",
+    "Jackie Wilson"
+   ]
+  },
+  {
+   "name": "Maybelle",
+   "billed_as": [
+    "Maybelle"
+   ],
+   "years": "1948-1948",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Tiny Bradshaw",
+    "Ace Harris Quartet",
+    "Nicodemus",
+    "Mitchell & Gibson",
+    "Louis & The Oliver Sisters"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "John La Rue",
+   "billed_as": [
+    "John La Rue"
+   ],
+   "years": "1938-1939",
+   "n": 21,
+   "hints": [],
+   "sample_cobills": [
+    "John Mason",
+    "Johnny Vigal",
+    "George Wiltshire",
+    "Sandy Burns",
+    "Ivie Anderson",
+    "Slim & Slam"
+   ]
+  },
+  {
+   "name": "Jack Larue",
+   "billed_as": [
+    "Jack Larue"
+   ],
+   "years": "1949-1949",
+   "n": 1,
+   "hints": [
+    "John La Rue"
+   ],
+   "sample_cobills": [
+    "Red Caps",
+    "Little Miss Cornshucks",
+    "Joe Thomas Ork",
+    "Dottie & Sonny"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Sarah Vaughan",
+   "billed_as": [
+    "Sarah Vaughan"
+   ],
+   "years": "1943-1960",
+   "n": 20,
+   "hints": [],
+   "sample_cobills": [
+    "Dizzy Gillespie",
+    "Symphony Sid",
+    "Earl Hines",
+    "Billy Eckstein",
+    "Billy Eckstine",
+    "Apus & Estrellita"
+   ]
+  },
+  {
+   "name": "Sarah Vaughn",
+   "billed_as": [
+    "Sarah Vaughn"
+   ],
+   "years": "1949-1949",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Hal Singer",
+    "Boyd Raeburn",
+    "Pigmeat"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Moke & Poke",
+   "billed_as": [
+    "Moke & Poke"
+   ],
+   "years": "1938-1953",
+   "n": 17,
+   "hints": [],
+   "sample_cobills": [
+    "Pigmeat",
+    "Andy Kirk Ork",
+    "Pha Terrell",
+    "Mary Lou Williams",
+    "Cab Calloway",
+    "Avis Andrews"
+   ]
+  },
+  {
+   "name": "Coke & Poke",
+   "billed_as": [
+    "Coke & Poke"
+   ],
+   "years": "1945-1947",
+   "n": 3,
+   "hints": [],
+   "sample_cobills": [
+    "4 Ink Spots",
+    "Cootie Williams",
+    "Eddie \"Cleanhead\" Vinson",
+    "Ella Fitzgerald",
+    "Ralph Brown",
+    "Eddie \"Cleanhead\" Vinson Band"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Edwards Sisters",
+   "billed_as": [
+    "Edwards Sisters"
+   ],
+   "years": "1937-1953",
+   "n": 17,
+   "hints": [],
+   "sample_cobills": [
+    "Willie Bryant Ork",
+    "Norman Astwood",
+    "Jackie Mabley",
+    "Lucky Millinder",
+    "Rosetta Tharpe",
+    "Tiny Bradshaw"
+   ]
+  },
+  {
+   "name": "Edward Sisters",
+   "billed_as": [
+    "Edward Sisters"
+   ],
+   "years": "1942-1942",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Lil Green",
+    "Tiny Bradshaw",
+    "Glenn & Jenkins",
+    "Snap & Snappy"
+   ]
+  },
+  {
+   "name": "2 Edwards Sisters",
+   "billed_as": [
+    "2 Edwards Sisters"
+   ],
+   "years": "1937-1937",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Don Redmon Ork",
+    "Louise McCarroll",
+    "Harlan Lattimore",
+    "3 Swing-Crazy Gobs",
+    "Pigmeat",
+    "John Mason"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Jimmy Rushing",
+   "billed_as": [
+    "Jimmy Rushing"
+   ],
+   "years": "1937-1959",
+   "n": 18,
+   "hints": [],
+   "sample_cobills": [
+    "Count Basie",
+    "John Mason",
+    "Helen Humes",
+    "Johnny Vigal",
+    "Thelma Carpenter",
+    "Shorts Davis"
+   ]
+  },
+  {
+   "name": "Jimmy Rusing",
+   "billed_as": [
+    "Jimmy Rusing"
+   ],
+   "years": "1947-1947",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Count Basie",
+    "Jo Jones",
+    "Bob Bailey",
+    "Ann Moore",
+    "Stump & Stumpy",
+    "2 Zephyrs"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Little Willie John",
+   "billed_as": [
+    "Little Willie John"
+   ],
+   "years": "1955-1966",
+   "n": 16,
+   "hints": [],
+   "sample_cobills": [
+    "Upsetters",
+    "Drifters",
+    "Ruth Brown",
+    "Bill Doggett",
+    "Chantels",
+    "James Brown & Famous Flames"
+   ]
+  },
+  {
+   "name": "Little Willie",
+   "billed_as": [
+    "Little Willie"
+   ],
+   "years": "1954-1955",
+   "n": 3,
+   "hints": [
+    "tap dancer"
+   ],
+   "sample_cobills": [
+    "Pigmeat",
+    "Drifters",
+    "Erskine Hawkins",
+    "Lu Elliott",
+    "Stefan & Celise",
+    "6 Sons Of Morocco"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "2 Zephyrs",
+   "billed_as": [
+    "2 Zephyrs"
+   ],
+   "years": "1936-1956",
+   "n": 17,
+   "hints": [],
+   "sample_cobills": [
+    "Louis Armstrong",
+    "Velma Middleton",
+    "Butterbeans & Susie",
+    "Billy & Evelyn Nightingale",
+    "Sarah Vaughan",
+    "Noble Sissle Ork"
+   ]
+  },
+  {
+   "name": "2 Zephers",
+   "billed_as": [
+    "2 Zephers"
+   ],
+   "years": "1954-1954",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Harptones",
+    "Buddy Johnson ork",
+    "Ella Johnson",
+    "Nolan Lewis",
+    "Tun Tun",
+    "Phillips Fort Dancers"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Cadillacs",
+   "billed_as": [
+    "Cadillacs"
+   ],
+   "years": "1955-1963",
+   "n": 17,
+   "hints": [],
+   "sample_cobills": [
+    "Tiny Topsy",
+    "Sil Austin",
+    "Cookies",
+    "Bo Diddley",
+    "Heartbeats",
+    "Hollywood Flames"
+   ]
+  },
+  {
+   "name": "Original Cadillacs",
+   "billed_as": [
+    "Original Cadillacs"
+   ],
+   "years": "1957-1957",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Blue Notes",
+    "Robinson Sisters",
+    "Capers",
+    "Jimmy Charles",
+    "Tiny Tim",
+    "Edith McKay"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Don Redman Ork",
+   "billed_as": [
+    "Don Redman",
+    "Don Redman Band",
+    "Don Redman Ork"
+   ],
+   "years": "1934-1957",
+   "n": 17,
+   "hints": [],
+   "sample_cobills": [
+    "Pearl Bailey",
+    "John Mason",
+    "Harlan Lattimore",
+    "Chuck & Chuckles",
+    "Jimmy Baskett",
+    "Louise McCarroll"
+   ]
+  },
+  {
+   "name": "Don Redmon Ork",
+   "billed_as": [
+    "Don Redmon Ork"
+   ],
+   "years": "1937-1937",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Louise McCarroll",
+    "Harlan Lattimore",
+    "3 Swing-Crazy Gobs",
+    "2 Edwards Sisters",
+    "Pigmeat",
+    "John Mason"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Burnham, Harris, & Scott",
+   "billed_as": [
+    "Burnham Harris & Scott",
+    "Burnham, Harris & Scott",
+    "Burnham, Harris, & Scott"
+   ],
+   "years": "1935-1946",
+   "n": 11,
+   "hints": [],
+   "sample_cobills": [
+    "Pigmeat",
+    "Jimmy Baskett",
+    "John Mason",
+    "Anise & Aland",
+    "George Wiltshire",
+    "Luis Russell"
+   ]
+  },
+  {
+   "name": "Harris & Scott",
+   "billed_as": [
+    "Harris & Scott"
+   ],
+   "years": "1942-1948",
+   "n": 5,
+   "hints": [],
+   "sample_cobills": [
+    "Burnham",
+    "Erskine Hawkins",
+    "Laura Washington",
+    "Fats Waller",
+    "Myra Johnson",
+    "3 Shades Of Rhythm"
+   ]
+  },
+  {
+   "name": "Harris, Burnham, & Scott",
+   "billed_as": [
+    "Harris, Burnham, & Scott"
+   ],
+   "years": "1946-1946",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Lucky Millinder",
+    "Annisteen Allen",
+    "Leon Ketchum",
+    "2 Rimmer Sisters",
+    "Bull Moose Jackson",
+    "Paul Breckenridge"
+   ]
+  },
+  {
+   "name": "Burnean, Harris, & Scott",
+   "billed_as": [
+    "Burnean, Harris, & Scott"
+   ],
+   "years": "1940-1940",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Sunset Royal Band",
+    "Silver The Horse",
+    "Spoons Brown",
+    "Long & Short",
+    "John Mason",
+    "Johnny Vigal"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Mills Brothers",
+   "billed_as": [
+    "Mills Brothers"
+   ],
+   "years": "1935-1949",
+   "n": 10,
+   "hints": [],
+   "sample_cobills": [
+    "Pigmeat",
+    "Claude Hopkins Ork",
+    "Beverly White",
+    "Jimmy Baskett",
+    "Dusty Fletcher",
+    "Sandy Burns"
+   ]
+  },
+  {
+   "name": "3 Miller Brothers",
+   "billed_as": [
+    "3 Miller Brothers"
+   ],
+   "years": "1934-1937",
+   "n": 6,
+   "hints": [],
+   "sample_cobills": [
+    "John Mason",
+    "Ford, Marshall, & Jones",
+    "Roland Holder",
+    "Pigmeat",
+    "Jimmy Baskett",
+    "Teddy Hill"
+   ]
+  },
+  {
+   "name": "Millen Brothers",
+   "billed_as": [
+    "Millen Brothers"
+   ],
+   "years": "1939-1939",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Jimmie Lunceford Ork",
+    "Troy Brown",
+    "Apus & Estrellita",
+    "Red Rogers",
+    "Marjorie Hubbard"
+   ]
+  },
+  {
+   "name": "Miller Brothers",
+   "billed_as": [
+    "Miller Brothers"
+   ],
+   "years": "1958-1958",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Dee Clark",
+    "Frankie Lymon",
+    "Valerie Carr",
+    "Unique Teens",
+    "Johnnie & Joe",
+    "Larry Darnell"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Mel Walker",
+   "billed_as": [
+    "Mel Walker"
+   ],
+   "years": "1950-1952",
+   "n": 4,
+   "hints": [],
+   "sample_cobills": [
+    "Little Esther",
+    "Johnny Otis",
+    "Redd Lyte",
+    "Pigmeat",
+    "Jay Smythe",
+    "Ralph Cooper"
+   ]
+  },
+  {
+   "name": "T-Bone Walker",
+   "billed_as": [
+    "T-Bone Walker"
+   ],
+   "years": "1948-1956",
+   "n": 3,
+   "hints": [],
+   "sample_cobills": [
+    "Spider Bruce",
+    "Thelma Carpenter",
+    "Hot Lips Page",
+    "Vivian Harris",
+    "Johnny Vigal",
+    "Tab Smith"
+   ]
+  },
+  {
+   "name": "Arthur Walker",
+   "billed_as": [
+    "Arthur Walker"
+   ],
+   "years": "1945-1947",
+   "n": 3,
+   "hints": [],
+   "sample_cobills": [
+    "Earl Hines",
+    "Essex Scott",
+    "Dolores Parker",
+    "4 Mello Tones",
+    "Salt & Pepper",
+    "Janie Moses"
+   ]
+  },
+  {
+   "name": "Myers & Walker",
+   "billed_as": [
+    "Myers & Walker"
+   ],
+   "years": "1947-1951",
+   "n": 2,
+   "hints": [],
+   "sample_cobills": [
+    "Louis Armstrong",
+    "Jack Teagarden",
+    "Velma Middleton",
+    "Leslie Scott",
+    "3 Rockets",
+    "Buddy Johnson"
+   ]
+  },
+  {
+   "name": "Walker & Walker",
+   "billed_as": [
+    "Walker & Walker"
+   ],
+   "years": "1936-1940",
+   "n": 2,
+   "hints": [],
+   "sample_cobills": [
+    "Sunset Royal Band",
+    "Rex Ingram",
+    "Havana Serenaders",
+    "3 Brown Jacks",
+    "Velma Middleton",
+    "Hilda Rogers"
+   ]
+  },
+  {
+   "name": "\"Teabone\" Walker",
+   "billed_as": [
+    "\"Teabone\" Walker"
+   ],
+   "years": "1943-1943",
+   "n": 1,
+   "hints": [
+    "T-Bone"
+   ],
+   "sample_cobills": [
+    "Cats & The Fiddle",
+    "Miltin Larkin Ork",
+    "Cook & Brown",
+    "Princess Sahloo"
+   ]
+  },
+  {
+   "name": "Myers & Walter",
+   "billed_as": [
+    "Myers & Walter"
+   ],
+   "years": "1953-1953",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Linda Hayes",
+    "Swallows",
+    "Machito",
+    "Moms Mabley",
+    "Little Buck"
+   ]
+  },
+  {
+   "name": "Kirby Walker",
+   "billed_as": [
+    "Kirby Walker"
+   ],
+   "years": "1934-1934",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Tiny Bradshaw Ork",
+    "Greenlee & Rogers",
+    "Billie Higgins",
+    "Gallie DeGaston",
+    "Viola McCoy",
+    "Jimmy Baskett"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Rosetta Tharpe",
+   "billed_as": [
+    "Rosetta Tharpe"
+   ],
+   "years": "1939-1960",
+   "n": 15,
+   "hints": [],
+   "sample_cobills": [
+    "Lucky Millinder",
+    "Trevor Bacon",
+    "Crackshot",
+    "4 Ink Spots",
+    "Edwards Sisters",
+    "Tim Moore"
+   ]
+  },
+  {
+   "name": "Sister Rosetta Tharpe",
+   "billed_as": [
+    "Sister Rosetta Tharpe"
+   ],
+   "years": "1960-1960",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "James Cleveland"
+   ]
+  },
+  {
+   "name": "Sister Tharpe",
+   "billed_as": [
+    "Sister Tharpe"
+   ],
+   "years": "1940-1940",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Coleman Hawkins",
+    "Deep River Boys",
+    "Dusty Fletcher",
+    "Punch & Judy"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Jesse James",
+   "billed_as": [
+    "Jesse James"
+   ],
+   "years": "1938-1951",
+   "n": 6,
+   "hints": [],
+   "sample_cobills": [
+    "Pigmeat",
+    "Ralph Cooper",
+    "Chick Carter's Band",
+    "Willie Bryant",
+    "Marcy & Roberta",
+    "Desoree Alexander"
+   ]
+  },
+  {
+   "name": "Jesse & James",
+   "billed_as": [
+    "Jesse & James"
+   ],
+   "years": "1942-1947",
+   "n": 4,
+   "hints": [],
+   "sample_cobills": [
+    "4 Ink Spots",
+    "Lucky Millinder",
+    "Rosetta Tharpe",
+    "Trevor Bacon",
+    "Edwards Sisters",
+    "Tim Moore"
+   ]
+  },
+  {
+   "name": "James & Cornell",
+   "billed_as": [
+    "James & Cornell"
+   ],
+   "years": "1952-1953",
+   "n": 2,
+   "hints": [],
+   "sample_cobills": [
+    "Jesse",
+    "Illinois Jacquet",
+    "Bette McLaurin",
+    "George Kirby",
+    "Apus & Estrellita",
+    "Joe Louis"
+   ]
+  },
+  {
+   "name": "Jessie James",
+   "billed_as": [
+    "Jessie James"
+   ],
+   "years": "1937-1937",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Louise Beavers",
+    "Miller's Brownskin Models Of 1937",
+    "Tanya",
+    "Alta Oates",
+    "Marcus Hall",
+    "George Bias"
+   ]
+  },
+  {
+   "name": "Jessie, James, & Cornell",
+   "billed_as": [
+    "Jessie, James, & Cornell"
+   ],
+   "years": "1951-1951",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Wynonie Harris",
+    "Annie Laurie",
+    "Stick McGhee",
+    "Eddie Durham",
+    "Arnett Cobb",
+    "Flash Gordon"
+   ]
+  },
+  {
+   "name": "Jesse, James, & Cornell",
+   "billed_as": [
+    "Jesse, James, & Cornell"
+   ],
+   "years": "1951-1951",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Josephine Baker",
+    "Pat Henning"
+   ]
+  },
+  {
+   "name": "Jackson, James, & Cornell",
+   "billed_as": [
+    "Jackson, James, & Cornell"
+   ],
+   "years": "1954-1954",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Louis Jordan",
+    "Hal Singer",
+    "Arnold Dover",
+    "Freddie & Flo",
+    "Patty Ann Mesner"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Willis Jackson",
+   "billed_as": [
+    "WIllis Jackson",
+    "Willis Jackson",
+    "Willis Jackson Ork"
+   ],
+   "years": "1949-1958",
+   "n": 13,
+   "hints": [],
+   "sample_cobills": [
+    "Ruth Brown",
+    "Dinah Washington",
+    "Edwards Brothers",
+    "Harptones",
+    "Cootie Williams",
+    "Ida James"
+   ]
+  },
+  {
+   "name": "Willie Jackson",
+   "billed_as": [
+    "Willie Jackson"
+   ],
+   "years": "1940-1943",
+   "n": 3,
+   "hints": [],
+   "sample_cobills": [
+    "Count Basie",
+    "Helen Humes",
+    "Jimmy Rushing",
+    "Hotcha Drew",
+    "Tommy & Al",
+    "Alex Lovejoy"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Chantels",
+   "billed_as": [
+    "Chantels"
+   ],
+   "years": "1957-1963",
+   "n": 10,
+   "hints": [],
+   "sample_cobills": [
+    "Little Willie John",
+    "Chuck Jackson",
+    "Dominoes",
+    "5 Satins",
+    "Delroys",
+    "Little Joe"
+   ]
+  },
+  {
+   "name": "Channels",
+   "billed_as": [
+    "Channels"
+   ],
+   "years": "1956-1959",
+   "n": 6,
+   "hints": [],
+   "sample_cobills": [
+    "Big Maybelle",
+    "Flamingos",
+    "Mickey & Sylvia",
+    "Heartbeats",
+    "Bo Diddley",
+    "Charlie & Ray"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Ace Harris",
+   "billed_as": [
+    "Ace Harris",
+    "Ace Harris Band"
+   ],
+   "years": "1938-1951",
+   "n": 9,
+   "hints": [],
+   "sample_cobills": [
+    "Erskine Hawkins",
+    "Jimmie Mitchell",
+    "Pigmeat",
+    "Dolores Brown",
+    "Spider Bruce",
+    "Laura Washington"
+   ]
+  },
+  {
+   "name": "Alice Harris",
+   "billed_as": [
+    "Alice Harris"
+   ],
+   "years": "1935-1938",
+   "n": 3,
+   "hints": [],
+   "sample_cobills": [
+    "Don Redman Ork",
+    "Harlan Lattimore",
+    "Walter Batie & Clarence Foster",
+    "Jennie Dancey",
+    "Naomi Price",
+    "Billy Branch Family"
+   ]
+  },
+  {
+   "name": "Ace Harris Quartet",
+   "billed_as": [
+    "Ace Harris Quartet"
+   ],
+   "years": "1948-1948",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Tiny Bradshaw",
+    "Maybelle",
+    "Nicodemus",
+    "Mitchell & Gibson",
+    "Louis & The Oliver Sisters"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "International Sweethearts Of Rhythm",
+   "billed_as": [
+    "International Sweethearts Of Rhythm"
+   ],
+   "years": "1942-1948",
+   "n": 9,
+   "hints": [],
+   "sample_cobills": [
+    "Jackie Mabley",
+    "3 Brown Sisters",
+    "Charioteers",
+    "Joyner & Foster",
+    "Eddie Rector",
+    "Jimmy Baskett"
+   ]
+  },
+  {
+   "name": "Sweethearts Of Rhythm",
+   "billed_as": [
+    "Sweethearts Of Rhythm"
+   ],
+   "years": "1941-1949",
+   "n": 3,
+   "hints": [],
+   "sample_cobills": [
+    "Alberta Perkins",
+    "4 Co-Eds",
+    "Yak Taylor",
+    "Naomi Price",
+    "Lillian Brown",
+    "Myrtle Hutchinson"
+   ]
+  },
+  {
+   "name": "International Sweethearts Of Rhyhtm",
+   "billed_as": [
+    "International Sweethearts Of Rhyhtm"
+   ],
+   "years": "1946-1946",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Deek Watson & Brown Dots",
+    "5 Crackerjacks",
+    "Jimmie Lewis",
+    "Tim Moore",
+    "Beth & Martin",
+    "Vivian Harris"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Berry Brothers",
+   "billed_as": [
+    "Berry Brothers"
+   ],
+   "years": "1934-1948",
+   "n": 7,
+   "hints": [],
+   "sample_cobills": [
+    "Cab Calloway",
+    "Valaida Snow",
+    "5 Spirits Of Rhythm",
+    "Lillian Cowan",
+    "Marshall Rogers & Dinah",
+    "Roy Atkins & Little Bitts"
+   ]
+  },
+  {
+   "name": "3 Berry Brothers",
+   "billed_as": [
+    "3 Berry Brothers"
+   ],
+   "years": "1937-1950",
+   "n": 6,
+   "hints": [],
+   "sample_cobills": [
+    "Pigmeat",
+    "John Mason",
+    "Don Redman Ork",
+    "Chuck & Chuckles",
+    "Princess Aurelia & Pete",
+    "Jimmy Baskett"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Jimmie Mitchell",
+   "billed_as": [
+    "Jimmie Mitchell"
+   ],
+   "years": "1940-1951",
+   "n": 12,
+   "hints": [],
+   "sample_cobills": [
+    "Erskine Hawkins",
+    "Ace Harris",
+    "Dolores Brown",
+    "Laura Washington",
+    "Pigmeat",
+    "3 Peppers"
+   ]
+  },
+  {
+   "name": "Jimmmie Mitchell",
+   "billed_as": [
+    "Jimmmie Mitchell"
+   ],
+   "years": "1946-1946",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Erskine Hawkins",
+    "Dolores Brown",
+    "Ace Harris",
+    "Walter Batie",
+    "5 Greys",
+    "Boyd & Chapman"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Orlando Roberson",
+   "billed_as": [
+    "Orlando Roberson"
+   ],
+   "years": "1934-1946",
+   "n": 10,
+   "hints": [],
+   "sample_cobills": [
+    "Claude Hopkins Ork",
+    "Swan & Lee",
+    "Sandy Burns",
+    "Claude Hopkins",
+    "Roland Holder",
+    "Miller & Mantan"
+   ]
+  },
+  {
+   "name": "Orlando Robeson",
+   "billed_as": [
+    "Orlando Robeson"
+   ],
+   "years": "1935-1935",
+   "n": 2,
+   "hints": [],
+   "sample_cobills": [
+    "Claude Hopkins",
+    "3 Dukes",
+    "Edith Sewell",
+    "Ken Tai Trio",
+    "Josephine Garrison",
+    "Pigmeat"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Tap & Toe",
+   "billed_as": [
+    "Tap & Toe"
+   ],
+   "years": "1948-1953",
+   "n": 6,
+   "hints": [],
+   "sample_cobills": [
+    "Tip",
+    "Lucky Millinder",
+    "Annisteen Allen",
+    "Pigmeat",
+    "Paul Breckenridge",
+    "Bull Moose Jackson"
+   ]
+  },
+  {
+   "name": "Tip, Tap, & Toe",
+   "billed_as": [
+    "Tip, Tap, & Toe"
+   ],
+   "years": "1937-1946",
+   "n": 6,
+   "hints": [],
+   "sample_cobills": [
+    "Teddy Hill Ork",
+    "Charioteers",
+    "Teddy Hale",
+    "3 Dandridge Sisters",
+    "Babe Wallace",
+    "Sweetie Pie"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Freddie & Flo",
+   "billed_as": [
+    "Freddie & Flo"
+   ],
+   "years": "1941-1961",
+   "n": 11,
+   "hints": [],
+   "sample_cobills": [
+    "Louis Jordan",
+    "Sonny Stitt",
+    "Wynonie Harris",
+    "Lucky Millinder",
+    "Trevor Bacon",
+    "Rosetta Tharpe"
+   ]
+  },
+  {
+   "name": "Al & Freddie",
+   "billed_as": [
+    "Al & Freddie"
+   ],
+   "years": "1939-1939",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Claude Hopkins Ork",
+    "Beverly White",
+    "Orlando Roberson",
+    "Pete Nugent",
+    "Babe Edwards",
+    "5 Hep Cats"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "3 Peters Sisters",
+   "billed_as": [
+    "3 Peters Sisters"
+   ],
+   "years": "1940-1946",
+   "n": 9,
+   "hints": [],
+   "sample_cobills": [
+    "Norman Astwood",
+    "Miller Brothers & Lois",
+    "Billie Holiday",
+    "Cab Calloway",
+    "Moke & Doke",
+    "All Americans"
+   ]
+  },
+  {
+   "name": "Peters Sisters",
+   "billed_as": [
+    "Peters Sisters"
+   ],
+   "years": "1938-1939",
+   "n": 2,
+   "hints": [],
+   "sample_cobills": [
+    "Tiny Bradshaw",
+    "Big Time Crip",
+    "Maxie Armstrong",
+    "Joan Lee",
+    "Pigmeat",
+    "Jimmy Baskett"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Babe Wallace",
+   "billed_as": [
+    "Babe Wallace"
+   ],
+   "years": "1935-1941",
+   "n": 9,
+   "hints": [],
+   "sample_cobills": [
+    "George Wiltshire",
+    "Babe Matthews",
+    "Chick Webb Ork",
+    "Ella Fitzgerald",
+    "Bardu Ali",
+    "Sandy Burns"
+   ]
+  },
+  {
+   "name": "Wallace Boys",
+   "billed_as": [
+    "Wallace Boys"
+   ],
+   "years": "1942-1942",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Louis Armstrong",
+    "Sonny Woods",
+    "Ann Baker",
+    "Pops & Louie",
+    "Cholly & Dottie",
+    "Moore & Byrd"
+   ]
+  },
+  {
+   "name": "Bob Wallace",
+   "billed_as": [
+    "Bob Wallace"
+   ],
+   "years": "1937-1937",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Claude Hopkins Ork",
+    "Pops & Louie",
+    "Ruby Elzy",
+    "Peaches & Palmer",
+    "Pigmeat",
+    "John Mason"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Olympics",
+   "billed_as": [
+    "Olympics"
+   ],
+   "years": "1958-1966",
+   "n": 10,
+   "hints": [],
+   "sample_cobills": [
+    "Ben E. King",
+    "Coasters",
+    "Quintones",
+    "Danleers",
+    "Bobby Long",
+    "Bobby Hendricks"
+   ]
+  },
+  {
+   "name": "3 Olympics",
+   "billed_as": [
+    "3 Olympics"
+   ],
+   "years": "1934-1934",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Chick Webb Ork",
+    "Jesse \"Lazybones\" Cryor",
+    "Ernest \"Bubbles\" Whitman",
+    "Johnny Lee Long & Pigmeat"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Jimmie Smith",
+   "billed_as": [
+    "Jimmie Smith"
+   ],
+   "years": "1940-1955",
+   "n": 8,
+   "hints": [
+    "dances on a xylophone"
+   ],
+   "sample_cobills": [
+    "Buddy Johnson",
+    "Ella Johnson",
+    "Mills Brothers",
+    "Claude Hopkins Ork",
+    "Belle Powell",
+    "Son & Sonny"
+   ]
+  },
+  {
+   "name": "Jimmy Smith Trio",
+   "billed_as": [
+    "Jimmy Smith Trio"
+   ],
+   "years": "1959-1960",
+   "n": 2,
+   "hints": [],
+   "sample_cobills": [
+    "Sarah Vaughan",
+    "Lambert",
+    "Hendricks & Ross",
+    "Max Roach",
+    "Redd Foxx",
+    "Ray Charles"
+   ]
+  },
+  {
+   "name": "Jimmy Smith",
+   "billed_as": [
+    "Jimmy Smith"
+   ],
+   "years": "1951-1951",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Charlie Barnet",
+    "Bill Derry",
+    "Adele Frances",
+    "Selah Quintet",
+    "Arnold Dover",
+    "Aristocrats Of Rhythm"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Charlie Turner's Arcadians",
+   "billed_as": [
+    "Charlie Turner's Arcadians"
+   ],
+   "years": "1934-1936",
+   "n": 9,
+   "hints": [],
+   "sample_cobills": [
+    "Garbage",
+    "Gladys Mike",
+    "Oscar Newman",
+    "4 Flash Devils",
+    "Sandy Burns",
+    "Ralph Cooper"
+   ]
+  },
+  {
+   "name": "Charlie Turner & Arcadians",
+   "billed_as": [
+    "Charlie Turner & Arcadians"
+   ],
+   "years": "1934-1934",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Nicholas Brothers",
+    "Emmett Mathews",
+    "Garbage",
+    "Vivian Brown",
+    "Ford, Buoy, & Daley"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "3 Kings",
+   "billed_as": [
+    "3 Kings"
+   ],
+   "years": "1941-1945",
+   "n": 2,
+   "hints": [],
+   "sample_cobills": [
+    "Andy Kirk",
+    "June Richmond",
+    "Floyd Smith",
+    "Mary Lou Williams",
+    "Chuck & Chuckles",
+    "Tampa Boys"
+   ]
+  },
+  {
+   "name": "3 Rhythm Kings",
+   "billed_as": [
+    "3 Rhythm Kings",
+    "Three Rhythm Kings"
+   ],
+   "years": "1935-1953",
+   "n": 2,
+   "hints": [
+    "dancers"
+   ],
+   "sample_cobills": [
+    "Earl Hines Ork",
+    "3 Palmer Brothers",
+    "Taps Miller",
+    "Katherine Perry",
+    "Al Moore Trio",
+    "Ralph Cooper"
+   ]
+  },
+  {
+   "name": "13 Rhythm Kings",
+   "billed_as": [
+    "13 Rhythm Kings"
+   ],
+   "years": "1952-1952",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Johnny Otis",
+    "Little Esther",
+    "Mel Walker",
+    "Willie Mae Thornton",
+    "Pigmeat",
+    "Jay Smythe"
+   ]
+  },
+  {
+   "name": "Rhythm Kings",
+   "billed_as": [
+    "Rhythm Kings"
+   ],
+   "years": "1934-1934",
+   "n": 1,
+   "hints": [
+    "dancers"
+   ],
+   "sample_cobills": [
+    "Aida Ward",
+    "Mabel Scott",
+    "3 Palmer Brothers",
+    "Norton & Margot",
+    "Ralph Cooper band",
+    "Benny Carter Band"
+   ]
+  },
+  {
+   "name": "2 Speed Kings",
+   "billed_as": [
+    "2 Speed Kings"
+   ],
+   "years": "1951-1951",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Johnny Hodges ork",
+    "Orioles",
+    "Bette McLaurin",
+    "Roy Benson",
+    "Pigmeat"
+   ]
+  },
+  {
+   "name": "3 Jungle Kings",
+   "billed_as": [
+    "3 Jungle Kings"
+   ],
+   "years": "1939-1939",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Earl Hines Ork",
+    "Kathryn Perry",
+    "Tommy Trent",
+    "Eddie Green",
+    "Chink Smith",
+    "Damaroff & Dawn"
+   ]
+  },
+  {
+   "name": "2 Rhythm Kings",
+   "billed_as": [
+    "2 Rhythm Kings"
+   ],
+   "years": "1945-1945",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Buddy Johnson",
+    "Ella Johnson",
+    "Smitty & Dotty",
+    "Jimmie Smith",
+    "Ziggy Johnson's Brownskin Chorus",
+    "Tim Moore, Crackshot, & Vivian Harris"
+   ]
+  },
+  {
+   "name": "3 Speed Kings",
+   "billed_as": [
+    "3 Speed Kings"
+   ],
+   "years": "1939-1939",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Tiny Bradshaw Ork",
+    "Louise Beavers",
+    "Reginald Fenderson",
+    "Willie Bryant",
+    "John Mason"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Bobbie Caston",
+   "billed_as": [
+    "Bobbie Caston"
+   ],
+   "years": "1936-1951",
+   "n": 8,
+   "hints": [],
+   "sample_cobills": [
+    "Sonny Woods",
+    "Pigmeat",
+    "John Mason",
+    "Jimmy Baskett",
+    "Luis Russell Ork",
+    "Luis Russell"
+   ]
+  },
+  {
+   "name": "Bobbie Gaston",
+   "billed_as": [
+    "Bobbie Gaston"
+   ],
+   "years": "1935-1935",
+   "n": 2,
+   "hints": [],
+   "sample_cobills": [
+    "Luis Russell",
+    "Sonny Woods",
+    "Old Man River Trio",
+    "Peg Leg Bates",
+    "Norton & Margot",
+    "Cook & Brown"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "3 Rockets",
+   "billed_as": [
+    "3 Rockets"
+   ],
+   "years": "1945-1953",
+   "n": 7,
+   "hints": [],
+   "sample_cobills": [
+    "Count Basie",
+    "Jimmy Rushing",
+    "Dusty Fletcher",
+    "Bob Bailey",
+    "Shorts Davis",
+    "Louis Armstrong"
+   ]
+  },
+  {
+   "name": "Rolling Rockets",
+   "billed_as": [
+    "Rolling Rockets"
+   ],
+   "years": "1958-1958",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Huey Smith & Clowns",
+    "Bobbettes",
+    "Red Prysock",
+    "Linda Hopkins",
+    "Isley Bros.",
+    "Val Martinez"
+   ]
+  },
+  {
+   "name": "Rockets",
+   "billed_as": [
+    "Rockets"
+   ],
+   "years": "1959-1959",
+   "n": 1,
+   "hints": [
+    "dancers"
+   ],
+   "sample_cobills": [
+    "Coasters",
+    "Falcons",
+    "Stump & Stumpy",
+    "Frances Burnett",
+    "Tommy Brown",
+    "Reuben Phillips ork"
+   ]
+  },
+  {
+   "name": "3 Royal Rockets",
+   "billed_as": [
+    "3 Royal Rockets"
+   ],
+   "years": "1954-1954",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "B.B. King",
+    "Earl Forrest",
+    "Bill Harvey ork",
+    "Mildred Jones",
+    "Lucky Millinder",
+    "Slappy White"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "4 Kit Kats",
+   "billed_as": [
+    "4 Kit Kats"
+   ],
+   "years": "1942-1951",
+   "n": 6,
+   "hints": [],
+   "sample_cobills": [
+    "Erskine Hawkins",
+    "Cats & The Fiddle",
+    "Fletcher Henderson",
+    "3 Businessmen Of Rhythm",
+    "Rhythm Debs",
+    "Bobby Evans"
+   ]
+  },
+  {
+   "name": "2 Kit Kats",
+   "billed_as": [
+    "2 Kit Kats"
+   ],
+   "years": "1951-1957",
+   "n": 4,
+   "hints": [],
+   "sample_cobills": [
+    "Arnett Cobb",
+    "Larry Darnell",
+    "Kitty Stevenson",
+    "Jesse James",
+    "Pigmeat",
+    "Louis Armstrong"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Fletcher Henderson",
+   "billed_as": [
+    "Fletcher Henderson",
+    "Fletcher Henderson Ork"
+   ],
+   "years": "1934-1945",
+   "n": 9,
+   "hints": [],
+   "sample_cobills": [
+    "Jimmy Baskett",
+    "Pigmeat",
+    "John Mason",
+    "Charles Holland",
+    "Eddie Hunter & Speedy Smith",
+    "Andrew Tribble"
+   ]
+  },
+  {
+   "name": "Fletcher Hendeson",
+   "billed_as": [
+    "Fletcher Hendeson"
+   ],
+   "years": "1935-1935",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Pops & Louie",
+    "Duke Jenkins",
+    "Madeline Belt",
+    "Happy Day Quartet",
+    "Sandy Burns",
+    "Apus Brooks"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Blanche Calloway Ork",
+   "billed_as": [
+    "Blanche Calloway",
+    "Blanche Calloway Band",
+    "Blanche Calloway Ork"
+   ],
+   "years": "1935-1941",
+   "n": 9,
+   "hints": [],
+   "sample_cobills": [
+    "Rhythm Willie",
+    "Pigmeat",
+    "Velma Middleton",
+    "John Mason",
+    "Jimmy Baskett",
+    "Elizabeth Kelly"
+   ]
+  },
+  {
+   "name": "Blanch Calloway Ork",
+   "billed_as": [
+    "Blanch Calloway Ork"
+   ],
+   "years": "1939-1939",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Bob Parish",
+    "Mush & Sugar",
+    "2 Rhythm Giants",
+    "Frances Brock",
+    "Cowans' Tramp Band",
+    "John Mason"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Norton & Margot",
+   "billed_as": [
+    "Norton & Margot"
+   ],
+   "years": "1934-1935",
+   "n": 4,
+   "hints": [],
+   "sample_cobills": [
+    "Ralph Cooper",
+    "Pigmeat",
+    "Jimmy Baskett",
+    "Aida Ward",
+    "Mabel Scott",
+    "Rhythm Kings"
+   ]
+  },
+  {
+   "name": "Norton & Margo",
+   "billed_as": [
+    "Norton & Margo"
+   ],
+   "years": "1936-1941",
+   "n": 3,
+   "hints": [],
+   "sample_cobills": [
+    "Pigmeat",
+    "John Mason",
+    "Jimmy Baskett",
+    "Lucky Millinder & Mills Blue Rhythm Band",
+    "Chuck Richards",
+    "Edgar Hayes"
+   ]
+  },
+  {
+   "name": "Norton & Holley",
+   "billed_as": [
+    "Norton & Holley"
+   ],
+   "years": "1941-1941",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Stump & Stumpy",
+    "Edity Wilson",
+    "Honi Coles",
+    "Hilda Rogers",
+    "Moore & Byrd"
+   ]
+  },
+  {
+   "name": "Norton & Norton",
+   "billed_as": [
+    "Norton & Norton"
+   ],
+   "years": "1939-1939",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Fats Waller Band",
+    "Myra Johnson",
+    "Ford, Marshall, & Jones",
+    "John Mason"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Screamin' Jay Hawkins",
+   "billed_as": [
+    "Screamin' Jay Hawkins"
+   ],
+   "years": "1956-1966",
+   "n": 7,
+   "hints": [],
+   "sample_cobills": [
+    "Big Maybelle",
+    "5 Keys",
+    "Charlie & Ray",
+    "Shirley Gunter",
+    "Flairs",
+    "Cadillacs"
+   ]
+  },
+  {
+   "name": "Screaming Jay Hawkins",
+   "billed_as": [
+    "Screaming Jay Hawkins"
+   ],
+   "years": "1956-1957",
+   "n": 2,
+   "hints": [],
+   "sample_cobills": [
+    "Bo Diddley",
+    "Cadillacs",
+    "Dells",
+    "Debutantes",
+    "Schoolboys",
+    "Chips"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Tramp Band",
+   "billed_as": [
+    "Tramp Band"
+   ],
+   "years": "1936-1939",
+   "n": 4,
+   "hints": [],
+   "sample_cobills": [
+    "Dusty Fletcher",
+    "Avis Andrews",
+    "Claude Hopkins Ork",
+    "Orlando Roberson",
+    "Edith Wilson",
+    "Hard-Time Burton"
+   ]
+  },
+  {
+   "name": "Cowans' Musical Madcaps",
+   "billed_as": [
+    "Cowans' Musical Madcaps"
+   ],
+   "years": "1946-1947",
+   "n": 2,
+   "hints": [
+    "Tramp Band"
+   ],
+   "sample_cobills": [
+    "Lil Green",
+    "Sadie & Stella",
+    "Sahji",
+    "Pigmeat & Company",
+    "International Sweethearts Of Rhythm",
+    "Jackie Mabley"
+   ]
+  },
+  {
+   "name": "Al Cowans' Musical Madcaps",
+   "billed_as": [
+    "Al Cowans' Musical Madcaps"
+   ],
+   "years": "1946-1946",
+   "n": 1,
+   "hints": [
+    "Tramp Band"
+   ],
+   "sample_cobills": [
+    "Lil Green",
+    "Valaida Snow",
+    "Peck & Peck",
+    "Count Leroy",
+    "Pigmeat",
+    "Sybil Lewis"
+   ]
+  },
+  {
+   "name": "Cowans's Musical Madcaps",
+   "billed_as": [
+    "Cowans's Musical Madcaps"
+   ],
+   "years": "1943-1943",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Ella Fitzgerald",
+    "Eddie Durham's All Girl Band",
+    "The Bryants",
+    "Rubberlegs Williams",
+    "Tim, George, & Vivian"
+   ]
+  },
+  {
+   "name": "Cowan's Cyclonic Musical Madcaps",
+   "billed_as": [
+    "Cowan's Cyclonic Musical Madcaps"
+   ],
+   "years": "1943-1943",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Una Mae Carlisle",
+    "Herman Autrey",
+    "Slick Jones",
+    "Willie Bryant",
+    "Ruby Smith",
+    "Harold Cromer"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "5 Crackerjacks",
+   "billed_as": [
+    "5 Crackerjacks"
+   ],
+   "years": "1934-1946",
+   "n": 7,
+   "hints": [],
+   "sample_cobills": [
+    "Flournoy Miller",
+    "Tim Moore",
+    "Lithia Hill",
+    "Bessie Dudley",
+    "Herbert Brown",
+    "3 Yorkers"
+   ]
+  },
+  {
+   "name": "Crackerjacks",
+   "billed_as": [
+    "Crackerjacks"
+   ],
+   "years": "1944-1944",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Don Redman Band",
+    "Dolores Brown",
+    "3 Chocolateers",
+    "Cabin Kids",
+    "Johnny Vigal",
+    "John Mason"
+   ]
+  },
+  {
+   "name": "Cracker Jacks",
+   "billed_as": [
+    "Cracker Jacks"
+   ],
+   "years": "1945-1945",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "International Sweethearts Of Rhythm",
+    "3 Cabin Kids",
+    "Raps & Taps",
+    "Smith & Doyle",
+    "Virginia's Puppets"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Bobby Evans",
+   "billed_as": [
+    "Bobby Evans"
+   ],
+   "years": "1935-1942",
+   "n": 5,
+   "hints": [],
+   "sample_cobills": [
+    "Erskine Hawkins",
+    "Willie Bryant Ork",
+    "Dee Lloyd McKay",
+    "Vivian Brown",
+    "Ralph Brown",
+    "Sandy Burns"
+   ]
+  },
+  {
+   "name": "Bob Evans",
+   "billed_as": [
+    "Bob Evans"
+   ],
+   "years": "1936-1946",
+   "n": 2,
+   "hints": [],
+   "sample_cobills": [
+    "Fats Waller",
+    "Charlie Turner's Arcadians",
+    "Pigmeat",
+    "John Mason",
+    "Jimmy Baskett",
+    "Oleanders"
+   ]
+  },
+  {
+   "name": "Bobbie Evans",
+   "billed_as": [
+    "Bobbie Evans"
+   ],
+   "years": "1938-1938",
+   "n": 2,
+   "hints": [],
+   "sample_cobills": [
+    "Pigmeat",
+    "Stuff Smith Band",
+    "Jesse Stone Ork",
+    "3 Tops",
+    "Rita Boyce",
+    "Jimmy Baskett"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Ray Nance",
+   "billed_as": [
+    "Ray Nance"
+   ],
+   "years": "1944-1955",
+   "n": 8,
+   "hints": [],
+   "sample_cobills": [
+    "Duke Ellington",
+    "Cat Anderson",
+    "Johnny Hodges",
+    "Al Hibbler",
+    "Harry Carney",
+    "Dusty Fletcher"
+   ]
+  },
+  {
+   "name": "Ray Mance",
+   "billed_as": [
+    "Ray Mance"
+   ],
+   "years": "1958-1958",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Duke Ellington",
+    "Slappy White",
+    "Lil Greenwood",
+    "Johnny Hodges",
+    "Harry Carney",
+    "Paul Gonsalves"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Harptones",
+   "billed_as": [
+    "Harptones"
+   ],
+   "years": "1954-1957",
+   "n": 8,
+   "hints": [],
+   "sample_cobills": [
+    "Big Maybelle",
+    "Bo Diddley",
+    "Cleftones",
+    "Joytones",
+    "Tito Rodriguez",
+    "Mabel Scott"
+   ]
+  },
+  {
+   "name": "Hamptones",
+   "billed_as": [
+    "Hamptones"
+   ],
+   "years": "1955-1955",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Curley Hammer",
+    "Patty Anne Mesner",
+    "Janet Sayre",
+    "Zippy the Chimp"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Eddie Heywood",
+   "billed_as": [
+    "Eddie Heywood",
+    "Eddie Heywood Band"
+   ],
+   "years": "1939-1955",
+   "n": 7,
+   "hints": [],
+   "sample_cobills": [
+    "Spider Bruce",
+    "Benny Carter Ork",
+    "Tyree Glenn",
+    "Jerry & Turk",
+    "3 Tops",
+    "Edna Harris"
+   ]
+  },
+  {
+   "name": "Eddie Heywood Combo",
+   "billed_as": [
+    "Eddie Heywood Combo"
+   ],
+   "years": "1955-1955",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Roy Hamilton",
+    "Stump & Stumpy",
+    "Bunny Briggs",
+    "Florence Wright",
+    "Bill Cook"
+   ]
+  },
+  {
+   "name": "Eddie Haywood",
+   "billed_as": [
+    "Eddie Haywood"
+   ],
+   "years": "1953-1953",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Timmie Rogers",
+    "Big Maybelle",
+    "Alberto Soccaras",
+    "Donald Fontaine Dancers"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Louis Bellson",
+   "billed_as": [
+    "Louis Bellson",
+    "Louis Bellson Band"
+   ],
+   "years": "1951-1959",
+   "n": 8,
+   "hints": [
+    "Pearl's white husband"
+   ],
+   "sample_cobills": [
+    "Pearl Bailey",
+    "Duke Ellington",
+    "Bill Bailey",
+    "Don Redman",
+    "Ray Nance",
+    "Juan Tizol"
+   ]
+  },
+  {
+   "name": "Louis Bellson 5",
+   "billed_as": [
+    "Louis Bellson 5"
+   ],
+   "years": "1954-1954",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Pearl Bailey",
+    "3 Riffs",
+    "Don Redman Ork",
+    "Lewis & Van",
+    "Elsie & Babs"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "3 Brown Buddies",
+   "billed_as": [
+    "3 Brown Buddies"
+   ],
+   "years": "1934-1949",
+   "n": 4,
+   "hints": [],
+   "sample_cobills": [
+    "Willie Bryant Ork",
+    "Jane Calloway",
+    "Alma Hubbard",
+    "4 Chords",
+    "Johnny Lee Long & Pigmeat",
+    "Buddy Johnson"
+   ]
+  },
+  {
+   "name": "3 Buddies",
+   "billed_as": [
+    "3 Buddies"
+   ],
+   "years": "1946-1950",
+   "n": 2,
+   "hints": [],
+   "sample_cobills": [
+    "Spider Bruce",
+    "Gerald Wilson Band",
+    "Congeroos",
+    "Charlie Ray",
+    "Mariners",
+    "Joe Liggins & Honeydrippers"
+   ]
+  },
+  {
+   "name": "4 Buddies",
+   "billed_as": [
+    "4 Buddies"
+   ],
+   "years": "1950-1951",
+   "n": 2,
+   "hints": [],
+   "sample_cobills": [
+    "Larry Darnell",
+    "Paul Williams Orchestra",
+    "Chubby Newsom",
+    "Los Gatos",
+    "Conines",
+    "Pigmeat"
+   ]
+  },
+  {
+   "name": "4 Budds",
+   "billed_as": [
+    "4 Budds"
+   ],
+   "years": "1936-1936",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Andy Kirk Ork",
+    "Pha Terrell",
+    "Mary Lou Williams",
+    "2 Zephyrs",
+    "Allen & Kent Family",
+    "David, Goliath, & Witty"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Lu Elliott",
+   "billed_as": [
+    "Lu Elliott"
+   ],
+   "years": "1948-1956",
+   "n": 7,
+   "hints": [],
+   "sample_cobills": [
+    "Erskine Hawkins",
+    "Pigmeat",
+    "Lucky Millinder",
+    "Paul Breckenridge",
+    "Claude Marchant Dancers",
+    "Ruth Brown"
+   ]
+  },
+  {
+   "name": "Lucy Elliott",
+   "billed_as": [
+    "Lucy Elliott"
+   ],
+   "years": "1946-1948",
+   "n": 2,
+   "hints": [
+    "Lu Elliott"
+   ],
+   "sample_cobills": [
+    "Benny Carter Band",
+    "Ernie Morris",
+    "Bill Williams",
+    "Rubberlegs Williams",
+    "Lamberties",
+    "McCain & Goddard"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "McCain & Ross",
+   "billed_as": [
+    "McCain & Ross"
+   ],
+   "years": "1934-1941",
+   "n": 8,
+   "hints": [],
+   "sample_cobills": [
+    "Jimmy Baskett",
+    "Sonny Woods",
+    "John Mason",
+    "Willie Bryant Ork",
+    "Al Jenkins Ork",
+    "5 Rhythm Racketeers"
+   ]
+  },
+  {
+   "name": "McLain & Ross",
+   "billed_as": [
+    "McLain & Ross"
+   ],
+   "years": "1936-1936",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "4 Ink Spots",
+    "Lucky Sisters",
+    "Burnham Harris & Scott",
+    "Sunshine Sammy",
+    "Hardy Brothers Band",
+    "Margaret Simms"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Miller Brothers & Lois",
+   "billed_as": [
+    "Miller Brothers & Lois"
+   ],
+   "years": "1940-1947",
+   "n": 8,
+   "hints": [],
+   "sample_cobills": [
+    "Jimmie Lunceford",
+    "3 Peters Sisters",
+    "Dusty Fletcher",
+    "Cab Calloway",
+    "Erskine Hawkins",
+    "5 Crackerjacks"
+   ]
+  },
+  {
+   "name": "Miller Brothers & Ford",
+   "billed_as": [
+    "Miller Brothers & Ford"
+   ],
+   "years": "1938-1938",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Sunset Royal Ork",
+    "Ace Harris",
+    "Arthur Simpkins",
+    "Paul Robinson's Harmonica Champions",
+    "Swan",
+    "Lee & Astford"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Billy Banks",
+   "billed_as": [
+    "Billy Banks"
+   ],
+   "years": "1935-1939",
+   "n": 7,
+   "hints": [],
+   "sample_cobills": [
+    "Noble Sissle Ork",
+    "George Wiltshire",
+    "Sandy Burns",
+    "Buddy Doyle",
+    "Edith Wilson",
+    "Eunice Wilson"
+   ]
+  },
+  {
+   "name": "Billy Barnes",
+   "billed_as": [
+    "Billy Barnes"
+   ],
+   "years": "1957-1958",
+   "n": 2,
+   "hints": [],
+   "sample_cobills": [
+    "Roy Hamilton",
+    "Tune Weavers",
+    "Dyerettes",
+    "Ann Cole",
+    "Bill Cook",
+    "Lovers"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "George Hudson Band",
+   "billed_as": [
+    "George Hudson",
+    "George Hudson Band",
+    "George Hudson Ork"
+   ],
+   "years": "1944-1950",
+   "n": 8,
+   "hints": [],
+   "sample_cobills": [
+    "Spider Bruce",
+    "Louis Jordan",
+    "Ravens",
+    "Dinah Washington",
+    "Manhattan Debs",
+    "Flash McDonald"
+   ]
+  },
+  {
+   "name": "Georgie Hudson Band",
+   "billed_as": [
+    "Georgie Hudson Band"
+   ],
+   "years": "1949-1949",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "George Shearing",
+    "Ruth Brown",
+    "Harry Belafonte",
+    "Spider Bruce"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Redd Foxx",
+   "billed_as": [
+    "Redd Foxx"
+   ],
+   "years": "1957-1963",
+   "n": 8,
+   "hints": [],
+   "sample_cobills": [
+    "Count Basie",
+    "Joe Williams",
+    "Betty Carter",
+    "Phillip Forte Dancers",
+    "Lambert",
+    "Hendricks & Ross"
+   ]
+  },
+  {
+   "name": "Redd Fox",
+   "billed_as": [
+    "Redd Fox"
+   ],
+   "years": "1958-1958",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Will Mastin Trio",
+    "Sammy Davis",
+    "Jr.",
+    "Fran Warren",
+    "Coles & Atkins",
+    "Hortense Allen's Dancing Girls"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Shorts Davis",
+   "billed_as": [
+    "Shorts Davis"
+   ],
+   "years": "1943-1953",
+   "n": 7,
+   "hints": [],
+   "sample_cobills": [
+    "Count Basie",
+    "Jimmy Rushing",
+    "Laurel Watson",
+    "Apus & Estrellita",
+    "DeCarlos",
+    "Tim, George, & Vivian"
+   ]
+  },
+  {
+   "name": "Shorty Davis",
+   "billed_as": [
+    "Shorty Davis"
+   ],
+   "years": "1944-1945",
+   "n": 2,
+   "hints": [],
+   "sample_cobills": [
+    "Count Basie",
+    "Thelma Carpenter",
+    "Jimmy Rushing",
+    "Peg Leg Bates",
+    "John Mason",
+    "Johnny Vigal"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Ford, Marshall, & Jones",
+   "billed_as": [
+    "Ford, Marshall, & Jones"
+   ],
+   "years": "1934-1939",
+   "n": 7,
+   "hints": [],
+   "sample_cobills": [
+    "Sandy Burns",
+    "Babe Matthews",
+    "3 Miller Brothers",
+    "George Williams",
+    "Roland Holder",
+    "John Mason"
+   ]
+  },
+  {
+   "name": "Ford, Marshall, & Janet",
+   "billed_as": [
+    "Ford, Marshall, & Janet"
+   ],
+   "years": "1938-1938",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Claude Hopkins Ork",
+    "Johnny & George",
+    "Beverly White",
+    "Jean & Joan",
+    "Rochelle Trio",
+    "Dottie Adams"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Dot Saulters",
+   "billed_as": [
+    "Dot Saulters"
+   ],
+   "years": "1936-1945",
+   "n": 3,
+   "hints": [],
+   "sample_cobills": [
+    "Ethel Waters",
+    "Ted Lewis Jr.",
+    "Helena Smith",
+    "Tyler Twins & Leonard",
+    "Marcy Brothers & Beatrice",
+    "Pigmeat"
+   ]
+  },
+  {
+   "name": "Dotty Saulter",
+   "billed_as": [
+    "Dotty Saulter"
+   ],
+   "years": "1954-1954",
+   "n": 2,
+   "hints": [],
+   "sample_cobills": [
+    "Drifters",
+    "Lucky Millinder",
+    "Leonard Reed",
+    "Clay Tyson",
+    "Gloria Irving",
+    "Sarah Vaughan"
+   ]
+  },
+  {
+   "name": "Dottie Saulters",
+   "billed_as": [
+    "Dottie Saulters"
+   ],
+   "years": "1946-1948",
+   "n": 2,
+   "hints": [],
+   "sample_cobills": [
+    "Cab Calloway",
+    "3 Peters Sisters",
+    "Moke & Doke",
+    "3 Poms",
+    "All Americans",
+    "Willie Bryant"
+   ]
+  },
+  {
+   "name": "Dol Saulters",
+   "billed_as": [
+    "Dol Saulters"
+   ],
+   "years": "1944-1944",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Cab Calloway",
+    "3 Chocolateers",
+    "Holmes & Jean",
+    "Claudia Oliver",
+    "Cabalettes",
+    "Johnny Taylor"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "George Holmes",
+   "billed_as": [
+    "George Holmes"
+   ],
+   "years": "1937-1957",
+   "n": 3,
+   "hints": [],
+   "sample_cobills": [
+    "Earl Scott & Leslie Waters",
+    "Starlight Dixie Trio",
+    "Ann Cooper",
+    "Billy Irons",
+    "Joe Woods",
+    "3 Skipsters"
+   ]
+  },
+  {
+   "name": "Rubberneck Holmes",
+   "billed_as": [
+    "Rubberneck Holmes"
+   ],
+   "years": "1938-1939",
+   "n": 2,
+   "hints": [],
+   "sample_cobills": [
+    "Louis Armstrong Ork",
+    "Midge Williams",
+    "Sonny Woods",
+    "Stump & Stumpy",
+    "John Garth",
+    "Dusty Fletcher"
+   ]
+  },
+  {
+   "name": "Ventriloquist Holmes",
+   "billed_as": [
+    "Ventriloquist Holmes"
+   ],
+   "years": "1938-1939",
+   "n": 2,
+   "hints": [],
+   "sample_cobills": [
+    "Chick Webb Ork",
+    "Ella Fitzgerald",
+    "Teddy Hale",
+    "Dippy Dees & Dizzy",
+    "4 Box Brothers",
+    "Billy King"
+   ]
+  },
+  {
+   "name": "Holmes",
+   "billed_as": [
+    "Holmes"
+   ],
+   "years": "1938-1938",
+   "n": 1,
+   "hints": [
+    "ventriloquist"
+   ],
+   "sample_cobills": [
+    "Chick Webb Ork",
+    "Ella Fitzgerald",
+    "Nicodemus",
+    "Helena & Joe Smith",
+    "3 Yams"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Tim, George, & Vivian",
+   "billed_as": [
+    "Tim, George, & Vivian"
+   ],
+   "years": "1943-1943",
+   "n": 5,
+   "hints": [],
+   "sample_cobills": [
+    "Buddy Johnson",
+    "Ella Johnson",
+    "Andrew Sinclair",
+    "Tit & Tat",
+    "Graysons",
+    "Count Basie"
+   ]
+  },
+  {
+   "name": "Tim, Crack, & Vivian",
+   "billed_as": [
+    "Tim, Crack, & Vivian"
+   ],
+   "years": "1944-1944",
+   "n": 2,
+   "hints": [],
+   "sample_cobills": [
+    "Georgie Auld",
+    "Una Mae Carlisle",
+    "3 Reeves Sisters",
+    "Joe Taylor",
+    "Stevens Brothers & their bear",
+    "Kay Little"
+   ]
+  },
+  {
+   "name": "Tim & Vivian",
+   "billed_as": [
+    "Tim & Vivian"
+   ],
+   "years": "1944-1944",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Erskine Hawkins",
+    "Jimmie Mitchell",
+    "Effie Smith",
+    "Kinneys",
+    "2 Swing Maniacs",
+    "Salt & Pepper"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Norma Miller Dancers",
+   "billed_as": [
+    "Norma Miller Dancers"
+   ],
+   "years": "1950-1958",
+   "n": 7,
+   "hints": [],
+   "sample_cobills": [
+    "Louis Jordan",
+    "Rosetta Tharpe",
+    "Rosettes",
+    "Katie Bell Nubin",
+    "James Roots Jr.",
+    "Tiny Bradshaw"
+   ]
+  },
+  {
+   "name": "Norma Miller",
+   "billed_as": [
+    "Norma Miller"
+   ],
+   "years": "1947-1947",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Billy Eckstine",
+    "Kitty Murray",
+    "Tampa Boys",
+    "Pigmeat",
+    "Sybil Lewis",
+    "John Bunn"
+   ]
+  }
+ ],
+ [
+  {
+   "name": "Sunset Royal Band",
+   "billed_as": [
+    "Sunset Royal Band",
+    "Sunset Royal Orchestra",
+    "Sunset Royal Ork"
+   ],
+   "years": "1936-1943",
+   "n": 7,
+   "hints": [],
+   "sample_cobills": [
+    "John Mason",
+    "Sandy Burns",
+    "Johnny Vigal",
+    "Rex Ingram",
+    "Havana Serenaders",
+    "3 Brown Jacks"
+   ]
+  },
+  {
+   "name": "Sunset Royal Serenaders",
+   "billed_as": [
+    "Sunset Royal Serenaders"
+   ],
+   "years": "1936-1936",
+   "n": 1,
+   "hints": [],
+   "sample_cobills": [
+    "Mamie Smith",
+    "Hix & His Sizzling Six",
+    "Beale Street Boys",
+    "Leon Hill",
+    "Jimmie & Bunny",
+    "Pigmeat"
+   ]
+  }
+ ]
+]

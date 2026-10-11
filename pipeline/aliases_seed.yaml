@@ -1,0 +1,153 @@
+# Hand-written from Marv Goldberg's NOTES preamble in uncamarvy.txt.
+# performers: canonical name -> billed variants (+ real name / type where Goldberg gives them)
+# member_aliases: short names used only inside comedy ensembles ("Tim, George, & Vivian")
+
+performers:
+  - name: Billy Eckstine
+    aliases: [Billy Eckstein, Billy Ekstein, Billy Ekstein Eckstine]
+    note: used the original spelling "Eckstein" until the 40s
+  - name: Baby Laurence
+    real_name: Laurence Donald Jackson
+    act_type: dancer
+    aliases: [Babe Lawrence, Babe Laurence, Baby Lawrence]
+  - name: Pops & Louie
+    act_type: dancer
+    note: Albert "Pops" Whitman & Louie Williams
+  - name: Johnny & George
+    note: Johnny "Babyface" Macklin & George MacLean
+  - name: Sahji
+    real_name: Madeline Jackson
+    act_type: dancer
+  - name: Candy & Pepper
+    act_type: dancer
+    note: Mildred "Candy" Thorpe & Jewel "Pepper" Welch
+  - name: Sunshine Sammy
+    real_name: Ernie Morrison
+  - name: Coles & Atkins
+    act_type: dancer
+    aliases: [Honi Coles & Cholly Atkins]
+    members: [Honi Coles, Cholly Atkins]
+  - name: Cholly Atkins
+    real_name: Charles Atkinson
+    act_type: dancer
+    aliases: [Charles Atkinson]
+  - name: Honi Coles
+    real_name: Charles Coles
+    act_type: dancer
+  - name: Roll & Tapp
+    act_type: dancer
+    note: Johnny McPhee & Johnny Smith
+  - name: Patterson & Jackson
+    note: Warren Patterson & Al Jackson (dancers and comedians)
+  - name: Big Time Crip
+    real_name: Stanley Holmes
+    act_type: dancer
+  - name: Crip Heard
+    real_name: Henry Heard
+    act_type: dancer
+
+  # comedians
+  - name: Pigmeat Markham
+    real_name: Dewey Markham
+    act_type: comedian
+    aliases: [Pigmeat, Dewey "Pigmeat" Markham, Dewey Markham, Pigmeat & Company]
+  - name: Spider Bruce
+    real_name: John Mason
+    act_type: comedian
+    aliases: [John Mason]
+    note: Goldberg - "Spider Bruce is John Mason"; billed as John Mason in the 30s
+  - name: Apus Brooks
+    real_name: Montrose Morse
+    act_type: comedian
+    aliases: [Apus]
+  - name: Estrellita
+    real_name: Estrellita Bernier
+    act_type: comedian
+    aliases: [Stella]
+  - name: Apus & Estrellita
+    act_type: comedian
+    aliases: [Apus & Stella, Apus &Estrellita]
+    members: [Apus Brooks, Estrellita]
+  - name: Sandy Burns
+    act_type: comedian
+    aliases: [Sandy, Ashes]
+  - name: Freddie Robinson
+    act_type: comedian
+    aliases: [Koko, Freddie Koko]
+  - name: Freddie & Flo
+    act_type: comedian
+    note: Freddie Robinson & Florence Brown
+    members: [Freddie Robinson]
+  - name: Yak Taylor
+    real_name: Edna Taylor
+    act_type: comedian
+    aliases: [Yack Taylor, Edna "Yack" Taylor, Edna Taylor]
+  - name: Crackshot
+    real_name: Bland Hackley
+    act_type: comedian
+    aliases: [Crack]
+  - name: Vivian Harris
+    act_type: comedian
+    aliases: [Vivian]
+  - name: Johnny Vigal
+    act_type: comedian
+    aliases: [Vigal, John Vigal]
+  - name: Jimmy Baskett
+    act_type: comedian
+    aliases: [Jimmy Baskette, Baskette]
+  - name: Sam Theard
+    act_type: comedian
+    aliases: [Spo-Dee-O-Dee, Sam Theard Spo-Dee-O-Dee]
+  - name: George Wiltshire
+    act_type: comedian
+    aliases: [George, Wiltshire]
+  - name: Rastus Murray
+    real_name: John Murray
+    act_type: comedian
+    aliases: [Rastus]
+  - name: Moms Mabley
+    act_type: comedian
+    aliases: [Jackie Mabley, Jackie "Moms" Mabley, Moms Mably]
+    note: not called "Moms" until the late 40s
+  - name: Tim Moore
+    act_type: comedian
+    aliases: [Tim]
+  - name: Marshall Rogers
+    act_type: comedian
+    aliases: [Garbage, Marshall "Garbage" Rogers]
+  - name: Red & Struggie
+    act_type: comedian
+    note: Struggie is Walter Matthews Scruggs
+  - name: Butterbeans & Susie
+    act_type: comedian
+    note: Jodie "Butterbeans" Edwards & Susie Hawthorne Edwards
+  - name: Swan & Lee
+    act_type: comedian
+    note: Ernest "Bootsie" Swan & Johnny Lee
+  - name: Foxx & White
+    act_type: comedian
+    members: [Redd Foxx, Slappy White]
+  - name: Redd Foxx
+    act_type: comedian
+  - name: Slappy White
+    act_type: comedian
+
+# first names / nicknames that only resolve inside an ensemble billing
+member_aliases:
+  Tim: Tim Moore
+  Crack: Crackshot
+  Vivian: Vivian Harris
+  George: George Wiltshire
+  Sandy: Sandy Burns
+  Ashes: Sandy Burns
+  Spider: Spider Bruce
+  Apus: Apus Brooks
+  Stella: Estrellita
+  Koko: Freddie Robinson
+  Vigal: Johnny Vigal
+  Mason: Spider Bruce
+  Pigmeat: Pigmeat Markham
+  Garbage: Marshall Rogers
+  Crackshot: Crackshot
+  Sybil: Sybil Lewis
+  Wiltshire: George Wiltshire

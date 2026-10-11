@@ -1,0 +1,674 @@
+{
+ "merge": [
+  {
+   "canonical": "Edith Wilson",
+   "variants": [
+    "Edity Wilson"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Roll & Tapp",
+   "variants": [
+    "Roll & Tap"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Bobby Ephriam",
+   "variants": [
+    "Bob Ephriam",
+    "Bobby Ephraim",
+    "Bobby Ephram"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Jelly Smith",
+   "variants": [
+    "Jelli Smith"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Erroll Garner",
+   "variants": [
+    "Erroll Garner Trio"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Edna Mae Harris",
+   "variants": [
+    "Edna Harris"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Professor Herman Stevens",
+   "variants": [
+    "Herman Stevens"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Lucky Sisters",
+   "variants": [
+    "2 Lucky Sisters"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Jesse Cryor",
+   "variants": [
+    "Jessie Cryor"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Congaroos",
+   "variants": [
+    "Congeroos"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Little Jimmy Scott",
+   "variants": [
+    "Jimmie Scott",
+    "Jimmy Scott"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Joe Williams",
+   "variants": [
+    "Joe William"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Earl & Frances",
+   "variants": [
+    "Earle & Frances"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "3 Palmer Brothers",
+   "variants": [
+    "Palmer Brothers"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Paul Breckenridge",
+   "variants": [
+    "Paul Breckinridge"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Big Joe Turner",
+   "variants": [
+    "Joe Turner"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Phillip Forte Dancers",
+   "variants": [
+    "Phillips Fort Dancers"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Slim Gaillard",
+   "variants": [
+    "Slim Gaillard Trio",
+    "Slim Galliard"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Clara Ward Singers",
+   "variants": [
+    "Ward Singers"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Jelly Roll & Zuzu",
+   "variants": [
+    "Jellyroll & Zuzu"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Spic & Span",
+   "variants": [
+    "Spick & Span"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Curley Hamner",
+   "variants": [
+    "Curley Hammer"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Bardu Ali",
+   "variants": [
+    "Bardu Ali's"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Billy & Eleanor Byrd",
+   "variants": [
+    "Billy & Eleanor"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "3 Business Men Of Rhythm",
+   "variants": [
+    "3 Businessmen Of Rhythm",
+    "Businessmen Of Rhythm"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Jim Wong Troupe",
+   "variants": [
+    "Wong Troupe",
+    "Jim Wong Chinese Troupe"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "McHarris & Dolores",
+   "variants": [
+    "McHarris & Delores"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Alex Bradford",
+   "variants": [
+    "Professor Alex Bradford"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Charles Linton",
+   "variants": [
+    "Charlie Linton",
+    "Charlie Lintin"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Sandy, Apus, & George",
+   "variants": [
+    "Apus, Sandy & George"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Ruth McFadden",
+   "variants": [
+    "Ruth McFaddens"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Chords",
+   "variants": [
+    "Chord Cats"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Sammy Davis Jr.",
+   "variants": [
+    "Sammy Davis"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "4 Skating Macks",
+   "variants": [
+    "4 Macks",
+    "Skating Macs"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Carl & Harriet",
+   "variants": [
+    "Carl & Harryette"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Lovey Lane",
+   "variants": [
+    "Lovely Lane"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Ziggy Johnson's Brownskin Chorus",
+   "variants": [
+    "Ziggy Johnson's Brownskin Chorus Girls"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Gwen Tynes",
+   "variants": [
+    "Gwen Tyne"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Peggy Thomas",
+   "variants": [
+    "Peggy Tomas"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Lethia Hill",
+   "variants": [
+    "Lithia Hill"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Pha Terrell",
+   "variants": [
+    "Pha Terell"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Bob Parish",
+   "variants": [
+    "Bob Parrish"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Essex Scott",
+   "variants": [
+    "Lord Essex"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Louise McCarroll",
+   "variants": [
+    "Louise McCarrol"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Steeplechasers",
+   "variants": [
+    "3 Steeplechasers",
+    "4 Steeplechasers"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Juano Hernandez",
+   "variants": [
+    "John Henry"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Jerry Taps",
+   "variants": [
+    "Jerry Tops"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Gaines Brothers",
+   "variants": [
+    "3 Gaines Brothers",
+    "Gaines Brothers Trio"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "3 Lang Sisters",
+   "variants": [
+    "Lang Sisters"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Jennie Dancy",
+   "variants": [
+    "Jenny Dancy",
+    "Jennie Dancer",
+    "Jennie Dancey"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Charlie Bristol",
+   "variants": [
+    "Charles Bristol"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Skylights",
+   "variants": [
+    "Mighty Skylights"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Dee Lloyd McKay",
+   "variants": [
+    "Dee Lloyd McKaye",
+    "Dee Lloyd"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Henri Wessels",
+   "variants": [
+    "Henry Wessels"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "May Alix",
+   "variants": [
+    "Mae Alix"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Selah Jubilee Singers",
+   "variants": [
+    "Selah Singers"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Julia Gardner",
+   "variants": [
+    "Julie Gardner"
+   ],
+   "reason": "spelling/billing variants of same act"
+  },
+  {
+   "canonical": "Lightning Flashes",
+   "variants": [
+    "3 Lightning Flashes"
+   ],
+   "reason": "spelling/billing variants of same act"
+  }
+ ],
+ "keep_separate": [
+  [
+   "Slim & Eddie",
+   "Sam & Eddie",
+   "Sam, Sam, & Sam",
+   "Sammy & Eddie",
+   "Paul, Slim, & Eddie"
+  ],
+  [
+   "3 Brown Sisters",
+   "Buster Brown",
+   "3 Brown Busters"
+  ],
+  [
+   "3 Palmer Brothers",
+   "Palmero Brothers",
+   "Peiro Brothers"
+  ],
+  [
+   "Billy Williams",
+   "Bill Williams",
+   "Billy Williams Quartet"
+  ],
+  [
+   "Eddie \"Lockjaw\" Davis",
+   "Eddie Davis Quartet"
+  ],
+  [
+   "3 Giants Of Rhythm",
+   "3 Bits Of Rhythm"
+  ],
+  [
+   "3 Peppers",
+   "Peppers"
+  ],
+  [
+   "Earles",
+   "4 Earles"
+  ],
+  [
+   "3 Business Men Of Rhythm",
+   "2 Business Men Of Rhythm"
+  ],
+  [
+   "Jesters",
+   "Rhythm Jesters",
+   "Queen's Jesters"
+  ],
+  [
+   "Alex Bradford",
+   "Alex Bradford Singers"
+  ],
+  [
+   "Apus, Stella, Sandy, & George",
+   "Sandy, Apus, & George"
+  ],
+  [
+   "Chords",
+   "Bop Chords",
+   "4 Chords"
+  ],
+  [
+   "Ray & Rae",
+   "Rae & Rae"
+  ],
+  [
+   "Norman & Blake",
+   "Norman Blake"
+  ],
+  [
+   "3 Smith Sisters",
+   "Smith Sisters"
+  ],
+  [
+   "Hortense Allen",
+   "Hortense Allen Dancers"
+  ],
+  [
+   "Gaines Brothers",
+   "Hines Brothers"
+  ]
+ ],
+ "reviewed": [
+  "Edith Wilson",
+  "Edity Wilson",
+  "Roll & Tapp",
+  "Roll & Tap",
+  "Bob Ephriam",
+  "Bobby Ephriam",
+  "Bobby Ephraim",
+  "Bobby Ephram",
+  "Jelli Smith",
+  "Jelly Smith",
+  "Erroll Garner",
+  "Erroll Garner Trio",
+  "Edna Harris",
+  "Edna Mae Harris",
+  "Slim & Eddie",
+  "Sam & Eddie",
+  "Sam, Sam, & Sam",
+  "Sammy & Eddie",
+  "Paul, Slim, & Eddie",
+  "Professor Herman Stevens",
+  "Herman Stevens",
+  "Lucky Sisters",
+  "2 Lucky Sisters",
+  "3 Brown Sisters",
+  "Buster Brown",
+  "3 Brown Busters",
+  "Jessie Cryor",
+  "Jesse Cryor",
+  "Congaroos",
+  "Congeroos",
+  "Jimmie Scott",
+  "Little Jimmy Scott",
+  "Jimmy Scott",
+  "Joe Williams",
+  "Joe William",
+  "Earl & Frances",
+  "Earle & Frances",
+  "3 Palmer Brothers",
+  "Palmero Brothers",
+  "Peiro Brothers",
+  "Palmer Brothers",
+  "Billy Williams",
+  "Bill Williams",
+  "Billy Williams Quartet",
+  "Paul Breckenridge",
+  "Paul Breckinridge",
+  "Joe Turner",
+  "Big Joe Turner",
+  "Phillip Forte Dancers",
+  "Phillips Fort Dancers",
+  "Slim Gaillard Trio",
+  "Slim Gaillard",
+  "Slim Galliard",
+  "Clara Ward Singers",
+  "Ward Singers",
+  "Jellyroll & Zuzu",
+  "Jelly Roll & Zuzu",
+  "Spic & Span",
+  "Spick & Span",
+  "Curley Hamner",
+  "Curley Hammer",
+  "Eddie \"Lockjaw\" Davis",
+  "Eddie Davis Quartet",
+  "3 Giants Of Rhythm",
+  "3 Bits Of Rhythm",
+  "Bardu Ali",
+  "Bardu Ali's",
+  "3 Peppers",
+  "Peppers",
+  "Earles",
+  "4 Earles",
+  "Billy & Eleanor Byrd",
+  "Billy & Eleanor",
+  "3 Business Men Of Rhythm",
+  "3 Businessmen Of Rhythm",
+  "2 Business Men Of Rhythm",
+  "Businessmen Of Rhythm",
+  "Jim Wong Troupe",
+  "Wong Troupe",
+  "Jim Wong Chinese Troupe",
+  "McHarris & Dolores",
+  "McHarris & Delores",
+  "Jesters",
+  "Rhythm Jesters",
+  "Queen's Jesters",
+  "Professor Alex Bradford",
+  "Alex Bradford",
+  "Alex Bradford Singers",
+  "Charlie Linton",
+  "Charlie Lintin",
+  "Charles Linton",
+  "Apus, Stella, Sandy, & George",
+  "Sandy, Apus, & George",
+  "Apus, Sandy & George",
+  "Ruth McFadden",
+  "Ruth McFaddens",
+  "Chords",
+  "Bop Chords",
+  "Chord Cats",
+  "4 Chords",
+  "Sammy Davis",
+  "Sammy Davis Jr.",
+  "4 Skating Macks",
+  "4 Macks",
+  "Skating Macs",
+  "Carl & Harriet",
+  "Carl & Harryette",
+  "Lovey Lane",
+  "Lovely Lane",
+  "Ziggy Johnson's Brownskin Chorus",
+  "Ziggy Johnson's Brownskin Chorus Girls",
+  "Gwen Tynes",
+  "Gwen Tyne",
+  "Peggy Thomas",
+  "Peggy Tomas",
+  "Lethia Hill",
+  "Lithia Hill",
+  "Ray & Rae",
+  "Rae & Rae",
+  "Pha Terrell",
+  "Pha Terell",
+  "Bob Parish",
+  "Bob Parrish",
+  "Essex Scott",
+  "Lord Essex",
+  "Louise McCarroll",
+  "Louise McCarrol",
+  "Steeplechasers",
+  "3 Steeplechasers",
+  "4 Steeplechasers",
+  "John Henry",
+  "Juano Hernandez",
+  "Jerry Taps",
+  "Jerry Tops",
+  "Gaines Brothers",
+  "3 Gaines Brothers",
+  "Gaines Brothers Trio",
+  "Hines Brothers",
+  "3 Lang Sisters",
+  "Lang Sisters",
+  "Jenny Dancy",
+  "Jennie Dancy",
+  "Jennie Dancer",
+  "Jennie Dancey",
+  "Charlie Bristol",
+  "Charles Bristol",
+  "Skylights",
+  "Mighty Skylights",
+  "Dee Lloyd McKay",
+  "Dee Lloyd",
+  "Dee Lloyd McKaye",
+  "Henri Wessels",
+  "Henry Wessels",
+  "May Alix",
+  "Mae Alix",
+  "Selah Singers",
+  "Selah Jubilee Singers",
+  "Norman & Blake",
+  "Norman Blake",
+  "3 Smith Sisters",
+  "Smith Sisters",
+  "Julia Gardner",
+  "Julie Gardner",
+  "Hortense Allen",
+  "Hortense Allen Dancers",
+  "3 Lightning Flashes",
+  "Lightning Flashes"
+ ]
+}

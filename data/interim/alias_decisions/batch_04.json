@@ -1,0 +1,528 @@
+{
+ "merge": [
+  {
+   "canonical": "Edna Mae Harris & Crackshot",
+   "variants": [
+    "Edna Mae Harris & Crackshow"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Ray Pearl & Yo Yo",
+   "variants": [
+    "Rae Pearl & YoYo"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Palmer & Peaches",
+   "variants": [
+    "Peaches & Palmer"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Nathano Brothers",
+   "variants": [
+    "Nathane Brothers"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Jackie & Tuffy",
+   "variants": [
+    "Jackie & Tuffie"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Red Garland",
+   "variants": [
+    "Red Garland Trio"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Froshine Stewart",
+   "variants": [
+    "Froshien Stewart"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Miller & Boo Gee",
+   "variants": [
+    "Miller & Boogee"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Bud Harris & Hank Radcliff",
+   "variants": [
+    "Bud Harris & Frank Radcliff"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Billy Adams & Victoria Spivey",
+   "variants": [
+    "Victoria Spivey & Billy Adams"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Al Custer",
+   "variants": [
+    "Al Guster"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Cabin Kids",
+   "variants": [
+    "3 Cabin Kids"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Dudley Brothers",
+   "variants": [
+    "4 Dudley Brothers"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Bradley's Boys",
+   "variants": [
+    "Bradly Boys"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Lewis & Allyn",
+   "variants": [
+    "Lewis & Allen"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Tokayer Troupe",
+   "variants": [
+    "Tokaya Troupe"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Cannonball Adderley",
+   "variants": [
+    "Cannonball Adderly"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Meers & Meers",
+   "variants": [
+    "Meeres & Meeres"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Lonnie Satin",
+   "variants": [
+    "Lonnie Sattin"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "David, Goliath, & Witty",
+   "variants": [
+    "David, Goliath, & Wyttye"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Walter Batie & Tuffie",
+   "variants": [
+    "Batie & Tuffie"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Hall Sisters",
+   "variants": [
+    "3 Hall Sisters"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Stepin Fetchit",
+   "variants": [
+    "Stephin Fetchet",
+    "Stepin Fetchet"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Freddie & Ginger",
+   "variants": [
+    "Ginger & Freddie"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Manhattan Steppers",
+   "variants": [
+    "Manhatten Steppers"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Ginger Snaps",
+   "variants": [
+    "4 Ginger Snaps"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Claire Sisters",
+   "variants": [
+    "3 Claire Sisters"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Frank Marlowe",
+   "variants": [
+    "Frank Marlow"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Henry Wells",
+   "variants": [
+    "Henry Wills"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Louis & The Oliver Sisters",
+   "variants": [
+    "Louis & Oliver Sisters"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "3 Singing Salesmen",
+   "variants": [
+    "3 Salesmen"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Will Gaines",
+   "variants": [
+    "Willie Gaines"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Gladys Ridley",
+   "variants": [
+    "Gladyce Ridley"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Princess Aurelia & Pete",
+   "variants": [
+    "Princess Orelia & Pete"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Bye Sisters",
+   "variants": [
+    "3 Bye Sisters"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Herb Jeffries",
+   "variants": [
+    "Herbie Jeffries"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Bud Harris & Mantan Moreland",
+   "variants": [
+    "Mantan Moreland & Bud Harris"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Gospel Harmonettes",
+   "variants": [
+    "Original Gospel Harmonettes"
+   ],
+   "reason": "spelling/format variants of same act"
+  },
+  {
+   "canonical": "Patty Ann Mesner",
+   "variants": [
+    "Patty Anne Mesner"
+   ],
+   "reason": "spelling/format variants of same act"
+  }
+ ],
+ "keep_separate": [
+  [
+   "Margaret Wilkins",
+   "Margaret Watkins"
+  ],
+  [
+   "Clifford Brown",
+   "Clifford Bowman"
+  ],
+  [
+   "Jackie Davis",
+   "Jackie Davis 3"
+  ],
+  [
+   "Helen Paige",
+   "Helen Page"
+  ],
+  [
+   "Ford, Bowie, & Bennie",
+   "Bowie & Bennie"
+  ],
+  [
+   "3 Rhythmettes",
+   "3 Rhythmites"
+  ],
+  [
+   "Eddie Durham",
+   "Eddie Durham All-Girl Ork"
+  ],
+  [
+   "King & King",
+   "Berry & King"
+  ],
+  [
+   "Charles Holland",
+   "Carl Holland"
+  ],
+  [
+   "Vicki David",
+   "Vicki Davis"
+  ],
+  [
+   "3 Swing-Crazy Gobs",
+   "3 Gobs"
+  ],
+  [
+   "Playboys",
+   "4 Playboys"
+  ],
+  [
+   "Buddy Bower",
+   "Buddy Bowser"
+  ],
+  [
+   "5 Shades Of Rhythm",
+   "3 Shades Of Rhythm"
+  ],
+  [
+   "Gospel Chordettes",
+   "Gospel Cogerettes"
+  ],
+  [
+   "Jimmy Peterson",
+   "Jimmie Peterson"
+  ],
+  [
+   "Susaye Brown",
+   "Susan Brown"
+  ],
+  [
+   "Aristocrats",
+   "Florida Aristocrats"
+  ],
+  [
+   "Geoffrey Holder Dancers",
+   "Geoffrey Holder"
+  ],
+  [
+   "Al Moore Trio",
+   "Al Moore"
+  ],
+  [
+   "Jay Brothers",
+   "Mayo Brothers"
+  ],
+  [
+   "4 Aces",
+   "4 Olympic Aces"
+  ],
+  [
+   "Cyclones",
+   "3 Cyclones"
+  ],
+  [
+   "Charlie Smith",
+   "Charles Smith"
+  ],
+  [
+   "Josie Garrison",
+   "Josephine Garrison"
+  ],
+  [
+   "Sonny Boy",
+   "Sonny Boy Williamson"
+  ],
+  [
+   "4 Mello Tones",
+   "Basin Street Boys"
+  ],
+  [
+   "6 Spirits Of Rhythm",
+   "5 Spirits Of Rhythm"
+  ]
+ ],
+ "reviewed": [
+  "Margaret Wilkins",
+  "Margaret Watkins",
+  "Edna Mae Harris & Crackshot",
+  "Edna Mae Harris & Crackshow",
+  "Clifford Brown",
+  "Clifford Bowman",
+  "Jackie Davis",
+  "Jackie Davis 3",
+  "Helen Paige",
+  "Helen Page",
+  "Ray Pearl & Yo Yo",
+  "Rae Pearl & YoYo",
+  "Palmer & Peaches",
+  "Peaches & Palmer",
+  "Nathano Brothers",
+  "Nathane Brothers",
+  "Jackie & Tuffy",
+  "Jackie & Tuffie",
+  "Red Garland Trio",
+  "Red Garland",
+  "Froshine Stewart",
+  "Froshien Stewart",
+  "Miller & Boo Gee",
+  "Miller & Boogee",
+  "Bud Harris & Hank Radcliff",
+  "Bud Harris & Frank Radcliff",
+  "Ford, Bowie, & Bennie",
+  "Bowie & Bennie",
+  "Billy Adams & Victoria Spivey",
+  "Victoria Spivey & Billy Adams",
+  "Al Custer",
+  "Al Guster",
+  "3 Rhythmettes",
+  "3 Rhythmites",
+  "Eddie Durham",
+  "Eddie Durham All-Girl Ork",
+  "Cabin Kids",
+  "3 Cabin Kids",
+  "King & King",
+  "Berry & King",
+  "4 Dudley Brothers",
+  "Dudley Brothers",
+  "Bradly Boys",
+  "Bradley's Boys",
+  "Lewis & Allyn",
+  "Lewis & Allen",
+  "Tokayer Troupe",
+  "Tokaya Troupe",
+  "Cannonball Adderly",
+  "Cannonball Adderley",
+  "Charles Holland",
+  "Carl Holland",
+  "Meers & Meers",
+  "Meeres & Meeres",
+  "Lonnie Sattin",
+  "Lonnie Satin",
+  "David, Goliath, & Wyttye",
+  "David, Goliath, & Witty",
+  "Vicki David",
+  "Vicki Davis",
+  "Batie & Tuffie",
+  "Walter Batie & Tuffie",
+  "3 Hall Sisters",
+  "Hall Sisters",
+  "3 Swing-Crazy Gobs",
+  "3 Gobs",
+  "Stephin Fetchet",
+  "Stepin Fetchet",
+  "Ginger & Freddie",
+  "Freddie & Ginger",
+  "Manhatten Steppers",
+  "Manhattan Steppers",
+  "Playboys",
+  "4 Playboys",
+  "Ginger Snaps",
+  "4 Ginger Snaps",
+  "Buddy Bower",
+  "Buddy Bowser",
+  "3 Claire Sisters",
+  "Claire Sisters",
+  "5 Shades Of Rhythm",
+  "3 Shades Of Rhythm",
+  "Gospel Chordettes",
+  "Gospel Cogerettes",
+  "Frank Marlowe",
+  "Frank Marlow",
+  "Henry Wells",
+  "Henry Wills",
+  "Jimmy Peterson",
+  "Jimmie Peterson",
+  "Louis & The Oliver Sisters",
+  "Louis & Oliver Sisters",
+  "Susaye Brown",
+  "Susan Brown",
+  "Aristocrats",
+  "Florida Aristocrats",
+  "Geoffrey Holder Dancers",
+  "Geoffrey Holder",
+  "Al Moore Trio",
+  "Al Moore",
+  "3 Singing Salesmen",
+  "3 Salesmen",
+  "Jay Brothers",
+  "Mayo Brothers",
+  "Willie Gaines",
+  "Will Gaines",
+  "Gladyce Ridley",
+  "Gladys Ridley",
+  "Princess Aurelia & Pete",
+  "Princess Orelia & Pete",
+  "4 Aces",
+  "4 Olympic Aces",
+  "3 Bye Sisters",
+  "Bye Sisters",
+  "Cyclones",
+  "3 Cyclones",
+  "Charlie Smith",
+  "Charles Smith",
+  "Herb Jeffries",
+  "Herbie Jeffries",
+  "Josie Garrison",
+  "Josephine Garrison",
+  "Bud Harris & Mantan Moreland",
+  "Mantan Moreland & Bud Harris",
+  "Sonny Boy",
+  "Sonny Boy Williamson",
+  "Original Gospel Harmonettes",
+  "Gospel Harmonettes",
+  "Patty Anne Mesner",
+  "Patty Ann Mesner",
+  "4 Mello Tones",
+  "Basin Street Boys",
+  "6 Spirits Of Rhythm",
+  "5 Spirits Of Rhythm"
+ ]
+}

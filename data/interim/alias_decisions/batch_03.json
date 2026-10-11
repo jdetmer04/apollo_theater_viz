@@ -1,0 +1,603 @@
+{
+ "merge": [
+  {
+   "canonical": "3 Rhythm Debs",
+   "variants": [
+    "3 Debs"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Cecil Scott",
+   "variants": [
+    "Cecil Scott Band",
+    "Cecil Scott's Band"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Streamline Sue",
+   "variants": [
+    "Streamline Sue Robinson"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Alberto Socarras",
+   "variants": [
+    "Alberto Soccaras"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Millie & Billie",
+   "variants": [
+    "Billie & Millie"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Derby & Frenchy",
+   "variants": [
+    "Derby & Frenchie",
+    "Derby Wilson & Frenchy"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Cabineers",
+   "variants": [
+    "5 Cabineers"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Mary Bruce Dancing Girls",
+   "variants": [
+    "Mary Bruce Dancing Girls & Boys",
+    "Mary Bruce Girls"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Addison Carey's Chorus",
+   "variants": [
+    "Addison Carey's Brownskin Chorus"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Winnie & Bobbie Johnson",
+   "variants": [
+    "Winnie & Bobbie"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Frances Burnett",
+   "variants": [
+    "Frances Burnette"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Maude Russell",
+   "variants": [
+    "Maud Russell"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Billy Wells & 4 Fays",
+   "variants": [
+    "Wells & 4 Fays"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Bennie Green",
+   "variants": [
+    "Benny Green"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Miguelito Valdes",
+   "variants": [
+    "Miguelito Valdez"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "4 Specks",
+   "variants": [
+    "4 Brown Specks"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Dunhills",
+   "variants": [
+    "3 Dunhills"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Bixie Crawford",
+   "variants": [
+    "Bixie Harris"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Blind Boys Of Mississippi",
+   "variants": [
+    "5 Blind Boys Of Mississippi"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Lillyn Brown",
+   "variants": [
+    "Lilyn Brown"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Tapateers",
+   "variants": [
+    "3 Tapateers"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Cecil Mack Choir",
+   "variants": [
+    "Cecil Mack's Choir"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Dolly Pembroke",
+   "variants": [
+    "Dolly Pembrook"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Radcliffe & Rogers",
+   "variants": [
+    "Radcliff & Rogers"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Vickie Nelson",
+   "variants": [
+    "Vicki Nelson"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Alfreda Allman",
+   "variants": [
+    "Alfreda Allhan"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Arvell Shaw",
+   "variants": [
+    "Arvel Shaw"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Don Covay",
+   "variants": [
+    "Pretty Boy"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Lambert Hendricks & Ross",
+   "variants": [
+    "Hendricks & Ross"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Howell & Radcliff",
+   "variants": [
+    "Howel & Radcliff"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Hilda Perlino",
+   "variants": [
+    "Hilda Perlene",
+    "Hilda Perleno"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Mantan Moreland & Flournoy Miller",
+   "variants": [
+    "Flournoy Miller & Mantan Moreland"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Strawberry Russell & Julia",
+   "variants": [
+    "Strawberry & Julia"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Margaret Simms",
+   "variants": [
+    "Margaret Sims"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Novels",
+   "variants": [
+    "3 Novels"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Prairie View College Co-eds",
+   "variants": [
+    "Praire View College Co-Eds"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Rimmer Sisters",
+   "variants": [
+    "2 Rimmer Sisters"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Tops & Wilda",
+   "variants": [
+    "Taps & Wilda"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Cholly & Dottie",
+   "variants": [
+    "Cholly & Dotty"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "George McClennon",
+   "variants": [
+    "George McGlennon"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Stefan & Celise",
+   "variants": [
+    "Stephan & Celise"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Lily Ann Carol",
+   "variants": [
+    "Lily Ann Carroll"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Slim Gaillard & Flat Foot Floogie Boys",
+   "variants": [
+    "Slim & Slam & Flat Foot Floogie Boys"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Jessye Scott",
+   "variants": [
+    "Jessie Scott"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Clifford Wayne's Indians",
+   "variants": [
+    "Cliff Wayne's Indians"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  },
+  {
+   "canonical": "Lee Diamond's Upsetters",
+   "variants": [
+    "Lee Diamond & Upsetters"
+   ],
+   "reason": "spelling/prefix variants of same act"
+  }
+ ],
+ "keep_separate": [
+  [
+   "4 Blazes",
+   "5 Blazes"
+  ],
+  [
+   "3 Rhythm Debs",
+   "Rhythm Debs"
+  ],
+  [
+   "Marvelettes",
+   "6 Marvelettes"
+  ],
+  [
+   "Hearts",
+   "2 Hearts",
+   "3 Hearts"
+  ],
+  [
+   "Lambert",
+   "Lloyd Lambert Ork",
+   "Lambert Hendricks & Ross"
+  ],
+  [
+   "Jewels",
+   "Juggling Jewels"
+  ],
+  [
+   "Austin Powell",
+   "Austin Powell Quintet"
+  ],
+  [
+   "Milt Buckner",
+   "Milt Buckner Trio"
+  ],
+  [
+   "6 Toppers",
+   "4 Toppers"
+  ],
+  [
+   "Camille Howard",
+   "Camille Howard Trio"
+  ],
+  [
+   "3 Brown Jacks",
+   "3 Jacks"
+  ],
+  [
+   "Jimmie Lewis",
+   "Jimmy Lewis"
+  ],
+  [
+   "Toby Winters",
+   "Bobby Winters"
+  ],
+  [
+   "Laura Pierre",
+   "Lora Pierre",
+   "Lula Pierre"
+  ],
+  [
+   "4 Specks",
+   "2 Specks"
+  ],
+  [
+   "3 Glenns",
+   "Glenns"
+  ],
+  [
+   "Lillyn Brown",
+   "Lillian Brown"
+  ],
+  [
+   "Billy Mitchell",
+   "Billy Mitchell 6"
+  ],
+  [
+   "4 Southern Sons",
+   "Southern Four"
+  ],
+  [
+   "Ray Sneed",
+   "Ray Sneed 4"
+  ],
+  [
+   "Henrietta Lovelace",
+   "Henrietta Loveless"
+  ],
+  [
+   "Princess Orelia",
+   "Princess Aurelia"
+  ],
+  [
+   "Alfred Allman",
+   "Alfreda Allman"
+  ],
+  [
+   "Delltones",
+   "Belltones"
+  ],
+  [
+   "Dick Montgomery",
+   "Flick Montgomery"
+  ],
+  [
+   "Novels",
+   "2 Novels"
+  ],
+  [
+   "Sonny, Tommy, & Al",
+   "Tommy & Al"
+  ],
+  [
+   "John Alexander",
+   "Joe Alexander"
+  ],
+  [
+   "Ahmad Jamal",
+   "Ahmad Jamal Trio"
+  ]
+ ],
+ "reviewed": [
+  "4 Blazes",
+  "5 Blazes",
+  "3 Rhythm Debs",
+  "Rhythm Debs",
+  "3 Debs",
+  "Cecil Scott Band",
+  "Cecil Scott's Band",
+  "Marvelettes",
+  "6 Marvelettes",
+  "Hearts",
+  "2 Hearts",
+  "3 Hearts",
+  "Streamline Sue",
+  "Streamline Sue Robinson",
+  "Alberto Socarras",
+  "Alberto Soccaras",
+  "Millie & Billie",
+  "Billie & Millie",
+  "Derby & Frenchie",
+  "Derby & Frenchy",
+  "Derby Wilson & Frenchy",
+  "Cabineers",
+  "5 Cabineers",
+  "Mary Bruce Dancing Girls",
+  "Mary Bruce Dancing Girls & Boys",
+  "Mary Bruce Girls",
+  "Addison Carey's Chorus",
+  "Addison Carey's Brownskin Chorus",
+  "Winnie & Bobbie Johnson",
+  "Winnie & Bobbie",
+  "Lambert",
+  "Lloyd Lambert Ork",
+  "Jewels",
+  "Juggling Jewels",
+  "Frances Burnett",
+  "Frances Burnette",
+  "Austin Powell",
+  "Austin Powell Quintet",
+  "Milt Buckner",
+  "Milt Buckner Trio",
+  "Maud Russell",
+  "Maude Russell",
+  "6 Toppers",
+  "4 Toppers",
+  "Camille Howard",
+  "Camille Howard Trio",
+  "Wells & 4 Fays",
+  "Billy Wells & 4 Fays",
+  "3 Brown Jacks",
+  "3 Jacks",
+  "Jimmie Lewis",
+  "Jimmy Lewis",
+  "Toby Winters",
+  "Bobby Winters",
+  "Laura Pierre",
+  "Lora Pierre",
+  "Lula Pierre",
+  "Benny Green",
+  "Bennie Green",
+  "Miguelito Valdes",
+  "Miguelito Valdez",
+  "4 Specks",
+  "2 Specks",
+  "4 Brown Specks",
+  "3 Dunhills",
+  "Dunhills",
+  "Bixie Crawford",
+  "Bixie Harris",
+  "5 Blind Boys Of Mississippi",
+  "Blind Boys Of Mississippi",
+  "3 Glenns",
+  "Glenns",
+  "Lilyn Brown",
+  "Lillian Brown",
+  "Lillyn Brown",
+  "Tapateers",
+  "3 Tapateers",
+  "Cecil Mack Choir",
+  "Cecil Mack's Choir",
+  "Dolly Pembroke",
+  "Dolly Pembrook",
+  "Billy Mitchell",
+  "Billy Mitchell 6",
+  "4 Southern Sons",
+  "Southern Four",
+  "Ray Sneed",
+  "Ray Sneed 4",
+  "Radcliff & Rogers",
+  "Radcliffe & Rogers",
+  "Henrietta Lovelace",
+  "Henrietta Loveless",
+  "Princess Orelia",
+  "Princess Aurelia",
+  "Vickie Nelson",
+  "Vicki Nelson",
+  "Alfred Allman",
+  "Alfreda Allhan",
+  "Alfreda Allman",
+  "Arvell Shaw",
+  "Arvel Shaw",
+  "Don Covay",
+  "Pretty Boy",
+  "Hendricks & Ross",
+  "Lambert Hendricks & Ross",
+  "Delltones",
+  "Belltones",
+  "Howell & Radcliff",
+  "Howel & Radcliff",
+  "Hilda Perlino",
+  "Hilda Perlene",
+  "Hilda Perleno",
+  "Mantan Moreland & Flournoy Miller",
+  "Flournoy Miller & Mantan Moreland",
+  "Strawberry & Julia",
+  "Strawberry Russell & Julia",
+  "Margaret Simms",
+  "Margaret Sims",
+  "Dick Montgomery",
+  "Flick Montgomery",
+  "3 Novels",
+  "2 Novels",
+  "Novels",
+  "Prairie View College Co-eds",
+  "Praire View College Co-Eds",
+  "Rimmer Sisters",
+  "2 Rimmer Sisters",
+  "Tops & Wilda",
+  "Taps & Wilda",
+  "Cholly & Dottie",
+  "Cholly & Dotty",
+  "George McGlennon",
+  "George McClennon",
+  "Stefan & Celise",
+  "Stephan & Celise",
+  "Lily Ann Carroll",
+  "Lily Ann Carol",
+  "Sonny, Tommy, & Al",
+  "Tommy & Al",
+  "John Alexander",
+  "Joe Alexander",
+  "Slim Gaillard & Flat Foot Floogie Boys",
+  "Slim & Slam & Flat Foot Floogie Boys",
+  "Jessye Scott",
+  "Jessie Scott",
+  "Clifford Wayne's Indians",
+  "Cliff Wayne's Indians",
+  "Lee Diamond's Upsetters",
+  "Lee Diamond & Upsetters",
+  "Ahmad Jamal",
+  "Ahmad Jamal Trio"
+ ]
+}

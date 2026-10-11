@@ -1,0 +1,3566 @@
+{
+ "3-brown-sisters": {
+  "confidence": "medium",
+  "mbid": null,
+  "note": "matched candidate",
+  "wikidata_qid": "Q123022135"
+ },
+ "3-dukes": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "3-keys": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "3-little-words": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "3-riffs": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "4-guys": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "4-keys": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "4-tunes": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "5-keys": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "5-royales": {
+  "confidence": "high",
+  "mbid": "bcf6bbb0-72cb-4963-851c-6e6851dc700d",
+  "note": "matched candidate",
+  "wikidata_qid": "Q1710161"
+ },
+ "ace-harris": {
+  "confidence": "high",
+  "mbid": "87b00652-55b5-469a-b285-7e6b63a9323e",
+  "note": "matched candidate",
+  "wikidata_qid": "Q339972"
+ },
+ "ada-brown": {
+  "confidence": "high",
+  "mbid": "3e9ce721-1410-4331-b53b-99dab96cc2df",
+  "note": "matched candidate",
+  "wikidata_qid": "Q4678228"
+ },
+ "al-hibbler": {
+  "confidence": "high",
+  "mbid": "a4a60ca9-45ff-464d-9764-7117d3f8c6d7",
+  "note": "matched candidate",
+  "wikidata_qid": "Q1382711"
+ },
+ "al-jackson": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "al-sears": {
+  "confidence": "high",
+  "mbid": "52f9e4c8-27e2-4151-9d3c-8a505d0d044b",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q195171"
+ },
+ "alberta-perkins": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "alberto-socarras": {
+  "confidence": "high",
+  "mbid": "64b8fc84-102e-4c8e-a8ef-ac35a9fec502",
+  "note": "matched candidate",
+  "wikidata_qid": "Q2514098"
+ },
+ "alex-bradford": {
+  "confidence": "high",
+  "mbid": "b31b2755-f86f-4461-8d73-4d515953c713",
+  "note": "matched candidate",
+  "wikidata_qid": "Q4716727"
+ },
+ "alice-harris": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "alma-hubbard": {
+  "confidence": "medium",
+  "mbid": null,
+  "note": "matched candidate",
+  "wikidata_qid": "Q123248522"
+ },
+ "alma-smith": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "alston-and-young": {
+  "confidence": "high",
+  "mbid": "eeddfcbb-7b29-4f6b-b66e-83bdd4be4265",
+  "note": "matched candidate",
+  "wikidata_qid": null
+ },
+ "amanda-randolph": {
+  "confidence": "high",
+  "mbid": "d7a11d06-1a6c-4891-a598-37a100cd89f6",
+  "note": "matched candidate",
+  "wikidata_qid": "Q4739738"
+ },
+ "amos-milburn": {
+  "confidence": "high",
+  "mbid": "dfa41f72-2f98-4f16-95ea-440cad19db77",
+  "note": "matched candidate",
+  "wikidata_qid": "Q474283"
+ },
+ "andy-kirk": {
+  "confidence": "high",
+  "mbid": "ad248993-817e-4e86-a267-000b19b8820c",
+  "note": "matched candidate",
+  "wikidata_qid": "Q526442"
+ },
+ "anise-and-aland": {
+  "confidence": "high",
+  "mbid": "caf787ac-cfcc-4309-83cb-46a5a99ca80e",
+  "note": "matched candidate",
+  "wikidata_qid": null
+ },
+ "anita-echols": {
+  "confidence": "medium",
+  "mbid": "fc7753a5-083c-459c-9e8d-bb2b19d69981",
+  "note": "matched candidate",
+  "wikidata_qid": null
+ },
+ "ann-baker": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "ann-cole": {
+  "confidence": "high",
+  "mbid": "ee53ef67-5643-4f7e-8bd4-3c9319d66ef1",
+  "note": "matched candidate",
+  "wikidata_qid": "Q2850381"
+ },
+ "ann-lewis": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "annie-laurie": {
+  "confidence": "medium",
+  "mbid": "88f920a4-3004-4a32-b5e5-cbdfff0b614d",
+  "note": "matched candidate",
+  "wikidata_qid": null
+ },
+ "annisteen-allen": {
+  "confidence": "high",
+  "mbid": "ffad3ea4-0ed7-4399-9226-306f8e27c23d",
+  "note": "matched candidate",
+  "wikidata_qid": "Q434850"
+ },
+ "apus-and-estrellita": {
+  "confidence": "high",
+  "mbid": "9db7229b-229c-4304-8a6b-e86afb10b115",
+  "note": "matched candidate",
+  "wikidata_qid": null
+ },
+ "apus-brooks": {
+  "confidence": "high",
+  "mbid": "448c2c99-be3b-4245-ba92-98063afebee9",
+  "note": "matched candidate",
+  "wikidata_qid": null
+ },
+ "arnett-cobb": {
+  "confidence": "high",
+  "mbid": "648cb346-c77e-4787-a822-549815b69b75",
+  "note": "matched candidate",
+  "wikidata_qid": "Q693360"
+ },
+ "arthur-prysock": {
+  "confidence": "high",
+  "mbid": "6d7bbe9c-e9de-4057-8d69-bbc09e365ebb",
+  "note": "matched candidate",
+  "wikidata_qid": "Q382262"
+ },
+ "arthur-walker": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "arvell-shaw": {
+  "confidence": "high",
+  "mbid": "024c679b-22cc-49dd-9840-c3d75bc10336",
+  "note": "matched candidate",
+  "wikidata_qid": "Q4802386"
+ },
+ "avis-andrews": {
+  "confidence": "medium",
+  "mbid": "717a825c-afae-4ede-8de9-3cd6b4c8a231",
+  "note": "matched candidate",
+  "wikidata_qid": "Q130752374"
+ },
+ "avon-long": {
+  "confidence": "high",
+  "mbid": "21fca169-8e82-436e-a487-df5482d5729b",
+  "note": "matched candidate",
+  "wikidata_qid": "Q4829218"
+ },
+ "babe-wallace": {
+  "confidence": "high",
+  "mbid": "87025f43-70c9-49a1-9775-1877924316e0",
+  "note": "matched candidate",
+  "wikidata_qid": "Q108032868"
+ },
+ "baby-cox": {
+  "confidence": "medium",
+  "mbid": "3a2cbe49-781b-43b0-a96e-c25ae7c0f494",
+  "note": "matched candidate",
+  "wikidata_qid": "Q131405542"
+ },
+ "baby-laurence": {
+  "confidence": "high",
+  "mbid": "fd0e0963-071b-4f5e-85e3-a3f08e69d5a4",
+  "note": "matched candidate",
+  "wikidata_qid": "Q55721578"
+ },
+ "baby-washington": {
+  "confidence": "high",
+  "mbid": "2e43b2e6-9e17-42cb-b524-bc8275e27910",
+  "note": "matched candidate",
+  "wikidata_qid": "Q531243"
+ },
+ "bardu-ali": {
+  "confidence": "high",
+  "mbid": "0791ad61-0623-4362-9eac-fbdad29b9263",
+  "note": "matched candidate",
+  "wikidata_qid": "Q4860230"
+ },
+ "barrington-guy": {
+  "confidence": "medium",
+  "mbid": "d2d98ff0-5bb3-426d-82ae-3387ab2fcc2a",
+  "note": "matched candidate",
+  "wikidata_qid": null
+ },
+ "beachcombers": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "beale-street-boys": {
+  "confidence": "medium",
+  "mbid": "7976d45f-31df-4392-b153-2353664b5cea",
+  "note": "matched candidate",
+  "wikidata_qid": null
+ },
+ "belle-powell": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "ben-e-king": {
+  "confidence": "high",
+  "mbid": "837555ba-012e-45f1-9a9c-9628da13ee54",
+  "note": "matched candidate",
+  "wikidata_qid": "Q356140"
+ },
+ "bennie-green": {
+  "confidence": "high",
+  "mbid": "95a203ad-8b9c-4524-9787-235bde1b0413",
+  "note": "matched candidate",
+  "wikidata_qid": "Q817875"
+ },
+ "benny-carter": {
+  "confidence": "high",
+  "mbid": "25cf5731-bed9-4604-97a4-8b9655de1a30",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q356715"
+ },
+ "berry-brothers": {
+  "confidence": "high",
+  "mbid": "4616eae5-7821-457b-bc3a-eb80739725fc",
+  "note": "matched candidate",
+  "wikidata_qid": "Q4894765"
+ },
+ "bessie-dudley": {
+  "confidence": "medium",
+  "mbid": "d8100236-f0f4-4e79-aa7b-5bfc1cdca261",
+  "note": "matched candidate",
+  "wikidata_qid": null
+ },
+ "bessie-smith": {
+  "confidence": "high",
+  "mbid": "ffa28768-ecda-42c6-ac49-6ce5c7d33043",
+  "note": "matched candidate",
+  "wikidata_qid": "Q93349"
+ },
+ "bette-mclaurin": {
+  "confidence": "high",
+  "mbid": "03156e07-c694-4401-bdab-ba7871f6d6e2",
+  "note": "matched candidate",
+  "wikidata_qid": "Q832296"
+ },
+ "betty-carter": {
+  "confidence": "high",
+  "mbid": "ce407e9f-de68-4c8e-b966-43a1b3356191",
+  "note": "matched candidate",
+  "wikidata_qid": "Q465943"
+ },
+ "beverly-white": {
+  "confidence": "medium",
+  "mbid": null,
+  "note": "matched candidate",
+  "wikidata_qid": "Q124468573"
+ },
+ "big-joe-turner": {
+  "confidence": "high",
+  "mbid": "b123ba15-c4a5-4281-8117-2e57f8f02496",
+  "note": "matched candidate",
+  "wikidata_qid": "Q358350"
+ },
+ "big-maybelle": {
+  "confidence": "high",
+  "mbid": "55a434d9-d3d3-462f-9aa9-749938dcf172",
+  "note": "matched candidate",
+  "wikidata_qid": "Q276609"
+ },
+ "big-time-crip": {
+  "confidence": "high",
+  "mbid": "3d8251ac-30b8-494d-b5e0-522bd7509391",
+  "note": "matched candidate",
+  "wikidata_qid": null
+ },
+ "bill-bailey": {
+  "confidence": "medium",
+  "mbid": "52617157-fde9-4098-b718-e4af6d2d0a44",
+  "note": "matched candidate",
+  "wikidata_qid": null
+ },
+ "bill-cook": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "bill-doggett": {
+  "confidence": "high",
+  "mbid": "b6d381bb-3642-455c-ab73-125ba1259b71",
+  "note": "matched candidate",
+  "wikidata_qid": "Q326810"
+ },
+ "bill-robinson": {
+  "confidence": "high",
+  "mbid": null,
+  "note": "matched candidate",
+  "wikidata_qid": "Q862416"
+ },
+ "billie-holiday": {
+  "confidence": "high",
+  "mbid": "d59c4cda-11d9-48db-8bfe-b557ee602aed",
+  "note": "matched candidate",
+  "wikidata_qid": "Q104358"
+ },
+ "billy-adams": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "billy-banks": {
+  "confidence": "high",
+  "mbid": "e1fa73ef-7a51-4a90-ad4c-f425d258a030",
+  "note": "matched candidate",
+  "wikidata_qid": "Q862991"
+ },
+ "billy-daniels": {
+  "confidence": "high",
+  "mbid": "fa485979-98c2-493d-be6d-b7e734e1453a",
+  "note": "matched candidate",
+  "wikidata_qid": "Q4912425"
+ },
+ "billy-eckstine": {
+  "confidence": "high",
+  "mbid": "dc335fdb-9bc6-42ca-86a1-e652318764cc",
+  "note": "matched candidate",
+  "wikidata_qid": "Q545464"
+ },
+ "billy-williams": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "bixie-crawford": {
+  "confidence": "high",
+  "mbid": "714c2623-f018-4d16-8def-ea8ea753e7f1",
+  "note": "matched candidate",
+  "wikidata_qid": "Q52081703"
+ },
+ "blanche-calloway": {
+  "confidence": "high",
+  "mbid": "7fd175fa-3715-4219-9ec1-a944d8fede8b",
+  "note": "matched candidate",
+  "wikidata_qid": "Q268079"
+ },
+ "blind-boys-of-mississippi": {
+  "confidence": "medium",
+  "mbid": "f415080a-7726-4485-9b77-a2fccc973036",
+  "note": "matched candidate",
+  "wikidata_qid": null
+ },
+ "blue-notes": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "bo-diddley": {
+  "confidence": "high",
+  "mbid": "bf659d74-0b61-488c-8a7d-594f43bed9e0",
+  "note": "matched candidate",
+  "wikidata_qid": "Q208881"
+ },
+ "bob-bailey": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "bob-howard": {
+  "confidence": "medium",
+  "mbid": "ab30bd61-8223-42cd-b4cf-6bd8e2a00efc",
+  "note": "matched candidate",
+  "wikidata_qid": null
+ },
+ "bobbettes": {
+  "confidence": "high",
+  "mbid": "e8927190-ffa3-436c-a8c5-9eedffcafda3",
+  "note": "matched candidate",
+  "wikidata_qid": "Q2409903"
+ },
+ "bobby-day": {
+  "confidence": "high",
+  "mbid": "77ad1133-3cd7-48f6-b8e0-195c6b7e97c7",
+  "note": "matched candidate",
+  "wikidata_qid": "Q1985556"
+ },
+ "bobby-evans": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "bobby-freeman": {
+  "confidence": "high",
+  "mbid": "610fc73e-7741-4d2d-8db6-b7bdecac6714",
+  "note": "matched candidate",
+  "wikidata_qid": "Q713351"
+ },
+ "bobby-lewis": {
+  "confidence": "high",
+  "mbid": "34092bf3-c768-4781-9933-97b210e35441",
+  "note": "matched candidate",
+  "wikidata_qid": "Q888609"
+ },
+ "bobby-marchan": {
+  "confidence": "high",
+  "mbid": "ca7129b1-b2b8-40da-89ea-a2b6aeabb87b",
+  "note": "matched candidate",
+  "wikidata_qid": "Q4935324"
+ },
+ "boyd-raeburn": {
+  "confidence": "high",
+  "mbid": "33ab82ac-a8f0-4e92-ae7f-7d2cec324cfb",
+  "note": "matched candidate",
+  "wikidata_qid": "Q349089"
+ },
+ "brook-benton": {
+  "confidence": "high",
+  "mbid": "e449337e-4192-415d-88d0-81352c068d2c",
+  "note": "matched candidate",
+  "wikidata_qid": "Q371493"
+ },
+ "brown-and-brown": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "buck-and-bubbles": {
+  "confidence": "high",
+  "mbid": "15510bc1-9411-4742-a3da-b085e40b7c1c",
+  "note": "matched candidate",
+  "wikidata_qid": "Q82852093"
+ },
+ "buddy-doyle": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "buddy-griffin": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "buddy-johnson": {
+  "confidence": "high",
+  "mbid": "62924f76-6c13-4e81-8c07-387acd278829",
+  "note": "matched candidate",
+  "wikidata_qid": "Q925459"
+ },
+ "buddy-rich": {
+  "confidence": "high",
+  "mbid": "8bad6c8e-c8a1-427d-b082-1275e3ebbe60",
+  "note": "matched candidate",
+  "wikidata_qid": "Q318339"
+ },
+ "bull-moose-jackson": {
+  "confidence": "high",
+  "mbid": "47f8bda1-f1f1-48d1-a02e-473aac07d418",
+  "note": "matched candidate",
+  "wikidata_qid": "Q933142"
+ },
+ "bunny-briggs": {
+  "confidence": "high",
+  "mbid": "3d83be47-fc95-4d7d-95bf-a785f1517c41",
+  "note": "matched candidate",
+  "wikidata_qid": "Q4997844"
+ },
+ "butterbeans-and-susie": {
+  "confidence": "high",
+  "mbid": "37686b73-bf64-4d5c-8ed7-b48de2b9eb6f",
+  "note": "matched candidate",
+  "wikidata_qid": "Q5002853"
+ },
+ "cab-calloway": {
+  "confidence": "high",
+  "mbid": "315bd083-892b-4e76-a9f0-91a7408168fc",
+  "note": "matched candidate",
+  "wikidata_qid": "Q273079"
+ },
+ "cabineers": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "cadillacs": {
+  "confidence": "high",
+  "mbid": "66c124ce-89b0-4c30-81a5-a407c7847eaf",
+  "note": "matched candidate",
+  "wikidata_qid": null
+ },
+ "caleb-peterson": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "caravans": {
+  "confidence": "medium",
+  "mbid": "cef869b6-64ff-4cb1-bcfe-08b2a69ad1e3",
+  "note": "matched candidate",
+  "wikidata_qid": null
+ },
+ "cardinals": {
+  "confidence": "medium",
+  "mbid": "73507c04-e008-4865-ba1c-557b9f043e24",
+  "note": "matched candidate",
+  "wikidata_qid": null
+ },
+ "carmen-mcrae": {
+  "confidence": "high",
+  "mbid": "29b0a6c7-ab3a-4bf3-a64f-63c8a3548196",
+  "note": "matched candidate",
+  "wikidata_qid": "Q240371"
+ },
+ "cat-anderson": {
+  "confidence": "high",
+  "mbid": "e58d894d-d6a1-49c0-aee2-8350af5c68a8",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1050088"
+ },
+ "cats-and-the-fiddle": {
+  "confidence": "medium",
+  "mbid": "e3c19060-a63a-49ec-9f45-2463c3c6700d",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "cavaliers": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "cecil-mack-choir": {
+  "confidence": "medium",
+  "mbid": "71f66295-d202-44b9-aa5a-6ecf880646cf",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "cecil-scott": {
+  "confidence": "high",
+  "mbid": "6e22f323-f137-45de-a905-8ed98ea7c95e",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1052346"
+ },
+ "channels": {
+  "confidence": "high",
+  "mbid": "4551c629-a584-459e-9192-31f688bed2da",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "chantels": {
+  "confidence": "high",
+  "mbid": "6a977a8f-13a2-46d9-bad0-d86ddcb6e595",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "charioteers": {
+  "confidence": "high",
+  "mbid": "2a40b96f-81d7-4f4d-98f7-a571ee82b9e3",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "charles-brown": {
+  "confidence": "high",
+  "mbid": "dbc9229a-6fb7-43b1-9763-df1e87112a93",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "charles-linton": {
+  "confidence": "medium",
+  "mbid": "8f919736-a458-4cd3-ac33-d184d839c2b4",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "charlie-and-ray": {
+  "confidence": "medium",
+  "mbid": "77da3683-5112-4aa4-82d1-3db6e42f2672",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "charlie-barnet": {
+  "confidence": "high",
+  "mbid": "da28dc95-f911-4bb3-9863-167c2505a485",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1066820"
+ },
+ "charlie-bristol": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "charlie-parker": {
+  "confidence": "high",
+  "mbid": "c7356af9-9ea6-4a78-a55b-c73775716312",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q103767"
+ },
+ "charlie-ray": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "charlie-ventura": {
+  "confidence": "high",
+  "mbid": "b724db7b-cb19-4b79-8c4b-1e7bf743b3fa",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1067024"
+ },
+ "charms": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "charts": {
+  "confidence": "high",
+  "mbid": "86b1e55d-0889-4017-a9de-2b6ec29f9d65",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "chilton-and-thomas": {
+  "confidence": "medium",
+  "mbid": "35e6994f-5f61-42a1-8cab-3e9c23e216f6",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "chink-collins": {
+  "confidence": "medium",
+  "mbid": "6ecc7084-caa4-4d96-aca1-49895d2acce9",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "chords": {
+  "confidence": "high",
+  "mbid": "7554c207-1e57-459f-8453-967f9f15fa11",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "christine-clark": {
+  "confidence": "medium",
+  "mbid": "3022184b-847c-4607-99dd-4819a146a902",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "chubby-jackson": {
+  "confidence": "high",
+  "mbid": "0bf1f55a-b5eb-4532-9b9e-b380432b5f96",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q598368"
+ },
+ "chubby-newsom": {
+  "confidence": "high",
+  "mbid": "a45cc129-29a6-41a7-8d17-0d1dd9aca7e1",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q20984524"
+ },
+ "chuck-and-chuckles": {
+  "confidence": "high",
+  "mbid": "f1d55023-2c65-4879-bb48-7c12934a5b84",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q66047784"
+ },
+ "chuck-berry": {
+  "confidence": "high",
+  "mbid": "592a3b6d-c42b-4567-99c9-ecf63bd66499",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q5921"
+ },
+ "chuck-jackson": {
+  "confidence": "high",
+  "mbid": "dea9d9ad-3c4a-4998-99f1-ecf004f4878e",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q3662572"
+ },
+ "chuck-richards": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "clara-ward-singers": {
+  "confidence": "high",
+  "mbid": "feb85d63-192c-4c3e-8abc-f6840f088129",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "clarence-henry": {
+  "confidence": "high",
+  "mbid": null,
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1095442"
+ },
+ "clark-brothers": {
+  "confidence": "medium",
+  "mbid": "c35c3aa8-3ce4-4a38-b46e-af042ce612d2",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "claude-hopkins": {
+  "confidence": "high",
+  "mbid": "e835162c-1cc2-4c80-8ef1-0d9c95127e7e",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q362230"
+ },
+ "claudia-mcneil": {
+  "confidence": "medium",
+  "mbid": "1ed1565b-b605-4a3d-bdd5-44adf0acaf8c",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q2978416"
+ },
+ "claudia-swann": {
+  "confidence": "medium",
+  "mbid": "f6c42142-915a-4b05-9622-e518890d80f9",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "clay-tyson": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "cleftones": {
+  "confidence": "medium",
+  "mbid": "cd640503-2f86-4e56-9f42-2c6394db1f2e",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q2410320"
+ },
+ "clickettes": {
+  "confidence": "medium",
+  "mbid": "dcc405cb-9e27-4dd9-9053-c2daff0d549c",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "clintonian-cubs": {
+  "confidence": "medium",
+  "mbid": "eec3a47f-6879-41e5-b4f0-6494d912e474",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "clovers": {
+  "confidence": "high",
+  "mbid": "bf67bc37-593d-4245-9329-7a008f049280",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "clyde-mcphatter": {
+  "confidence": "high",
+  "mbid": "3c562ee6-4855-4a11-8411-5e9e6c10586a",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1103721"
+ },
+ "coasters": {
+  "confidence": "high",
+  "mbid": "c174f353-4666-4dfb-af54-5cc70b8afd55",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "coleman-hawkins": {
+  "confidence": "high",
+  "mbid": "5c8cb181-38fe-4300-8153-650b2ed0258f",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q217812"
+ },
+ "coles-and-atkins": {
+  "confidence": "high",
+  "mbid": "87b5708f-2eb2-47be-b9c8-033ac2f05ca2",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "congaroos": {
+  "confidence": "medium",
+  "mbid": null,
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q5160389"
+ },
+ "contours": {
+  "confidence": "high",
+  "mbid": "c0f792c7-8334-46f4-822f-1c80abfc0d0d",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "conway-and-parks": {
+  "confidence": "medium",
+  "mbid": "1243ce53-f56e-4106-ab97-b74fa8b24a88",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "cookies": {
+  "confidence": "high",
+  "mbid": "d34206ae-a96c-45bf-ad3c-4d6ef616eeef",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "cootie-williams": {
+  "confidence": "high",
+  "mbid": "754ed78e-d5c5-4a5f-846d-224ffa1c263c",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q523899"
+ },
+ "corsairs": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "cotton-club-boys": {
+  "confidence": "medium",
+  "mbid": null,
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q30602431"
+ },
+ "count-basie": {
+  "confidence": "high",
+  "mbid": "0dbd6300-efdc-420b-857e-895e18fad317",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q107008"
+ },
+ "cozy-cole": {
+  "confidence": "high",
+  "mbid": "7fc949db-cc94-4196-ac79-245471930008",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q430508"
+ },
+ "crackshot": {
+  "confidence": "high",
+  "mbid": null,
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q107497452"
+ },
+ "crests": {
+  "confidence": "high",
+  "mbid": "64d6ed01-67bc-492c-89e2-b29f0d2fcb1c",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "crip-heard": {
+  "confidence": "high",
+  "mbid": "4d966b29-b954-4e29-90f9-c84970180fc4",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "curley-hamner": {
+  "confidence": "medium",
+  "mbid": "d7534027-84b7-4707-9987-b82d41494b07",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "dakota-staton": {
+  "confidence": "high",
+  "mbid": "c5563de3-f9df-4cb9-889e-7b237093ffd0",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q533622"
+ },
+ "davis-sisters": {
+  "confidence": "medium",
+  "mbid": "939a2174-6cb9-476f-802a-2ed584675e56",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "debutantes": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "dee-clark": {
+  "confidence": "high",
+  "mbid": "82d63cd7-993c-41c4-a0dd-68f54f41f708",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q3021106"
+ },
+ "deep-river-boys": {
+  "confidence": "high",
+  "mbid": "a9520b6d-6ada-4b93-9d20-2131e431fb2f",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q3433289"
+ },
+ "della-reese": {
+  "confidence": "high",
+  "mbid": "f9328e7e-889f-4cc7-b56a-8d94cf0b8fe2",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q238361"
+ },
+ "dells": {
+  "confidence": "high",
+  "mbid": "f6794ca6-cbd2-4e3d-a860-85a5ce8c6dbe",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "derby-wilson": {
+  "confidence": "medium",
+  "mbid": "bd063f0f-4272-4743-b77d-1638d12730f5",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "dewey-brown": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "dinah-washington": {
+  "confidence": "high",
+  "mbid": "d385947d-c00d-4311-9cf1-a032a1d4040b",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q229322"
+ },
+ "dixie-hummingbirds": {
+  "confidence": "high",
+  "mbid": "59f465cf-5f6f-4ddf-bf3d-f56c7776d340",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1393884"
+ },
+ "dizzy-gillespie": {
+  "confidence": "high",
+  "mbid": "e9ba8ccb-505f-4e5c-b909-65998d0d35b5",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q49575"
+ },
+ "doc-bagby": {
+  "confidence": "medium",
+  "mbid": "c1d82c9f-c893-4aba-ad47-60f75c157ac8",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q29913551"
+ },
+ "dolores-brown": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "dolores-parker": {
+  "confidence": "medium",
+  "mbid": "a5ebc20a-38a2-430d-8193-3e4e35c574c4",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q28023323"
+ },
+ "dominoes": {
+  "confidence": "high",
+  "mbid": "162c7c0e-ca66-498e-a8b1-ce44ae47ab7f",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "don-covay": {
+  "confidence": "high",
+  "mbid": "8b98f267-a203-4e69-a6cb-996d4cfecaf7",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q440687"
+ },
+ "don-redman": {
+  "confidence": "high",
+  "mbid": "f4a5470b-6ced-4bf5-9fbb-aeaf1646619f",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1188936"
+ },
+ "donnie-elbert": {
+  "confidence": "high",
+  "mbid": "376864c3-a9b5-4789-91a0-562f1176a05c",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q5296648"
+ },
+ "dorothy-donegan": {
+  "confidence": "high",
+  "mbid": "6adad8c8-d487-48e0-97fe-40b9e5a3bbe7",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q430888"
+ },
+ "dottie-smith": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "drifters": {
+  "confidence": "high",
+  "mbid": "9e2d3f58-0653-4007-bcb7-1746fcdd9363",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1060576"
+ },
+ "dubs": {
+  "confidence": "high",
+  "mbid": "ddcc458c-f921-4f13-8e37-7e431df6fb07",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "dud-bascomb": {
+  "confidence": "high",
+  "mbid": "e5905d83-f750-40ef-9bd0-98e0a8fec7e5",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1263605"
+ },
+ "duke-ellington": {
+  "confidence": "high",
+  "mbid": "3af06bc4-68ad-4cae-bb7a-7eeeb45e411f",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q4030"
+ },
+ "duke-jenkins": {
+  "confidence": "medium",
+  "mbid": "f9d96838-bebd-4e7d-8641-0fe82d5d2706",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q111785039"
+ },
+ "duke-of-iron": {
+  "confidence": "high",
+  "mbid": "4d6b3c9f-c5c1-4acf-b192-0c6cdaa7e281",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q7731186"
+ },
+ "dunhills": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "dusty-fletcher": {
+  "confidence": "high",
+  "mbid": "cad90093-532b-4a49-a72b-9a6acc4b8f02",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q5317182"
+ },
+ "dyerettes": {
+  "confidence": "high",
+  "mbid": "3031f020-a22a-4cc6-83ec-4cb3c0b4abb8",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "dynamite-jefferson": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "earl-bostic": {
+  "confidence": "high",
+  "mbid": "4fa43047-75f2-4590-b7a9-4c66dba0099d",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q557435"
+ },
+ "earl-hines": {
+  "confidence": "high",
+  "mbid": "5d7df598-bb80-4d73-a6f8-9ed1a4374052",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q354883"
+ },
+ "earl-warren": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "earles": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "eartha-kitt": {
+  "confidence": "high",
+  "mbid": "02b4a39e-04c0-4eb7-a0eb-c919f3d14154",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q222818"
+ },
+ "ebonaires": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "ed-green": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "eddie-bonnemere": {
+  "confidence": "high",
+  "mbid": "df3a2d4f-c26a-4343-92db-3a096ce9cb65",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1282697"
+ },
+ "eddie-cleanhead-vinson": {
+  "confidence": "high",
+  "mbid": "08d57baf-b8a9-4bc3-ac1c-5fe3b5367bb9",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1283017"
+ },
+ "eddie-green": {
+  "confidence": "medium",
+  "mbid": "e3e0bf39-20f6-46ac-807b-03443902d242",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q19262536"
+ },
+ "eddie-heywood": {
+  "confidence": "high",
+  "mbid": "8e696cb7-cf20-4c66-ac25-dac7774df07b",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q924783"
+ },
+ "eddie-hunter": {
+  "confidence": "medium",
+  "mbid": "e34553e0-e71f-4ecf-a00b-af4c113bc698",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "eddie-lockjaw-davis": {
+  "confidence": "high",
+  "mbid": "defbbe54-02dd-4df1-a5b7-31724ff02133",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1282884"
+ },
+ "eddie-rector": {
+  "confidence": "medium",
+  "mbid": "41d372d1-6534-4141-9c84-262dcab9b46c",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q24068914"
+ },
+ "eddie-rochester-anderson": {
+  "confidence": "high",
+  "mbid": "f2937836-f5a2-4591-9bc2-9f869a27b5be",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1751027"
+ },
+ "eddie-wilcox": {
+  "confidence": "high",
+  "mbid": "86086480-28e4-41c7-89f6-b2c20e8250f4",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1283006"
+ },
+ "edgar-hayes": {
+  "confidence": "high",
+  "mbid": "6a092061-2aba-4763-9157-76a1a6f7c490",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1283920"
+ },
+ "edith-wilson": {
+  "confidence": "high",
+  "mbid": "32228393-b858-4886-80f1-1703a1044e1e",
+  "note": "matched candidate",
+  "wikidata_qid": "Q517273"
+ },
+ "edna-mae-harris": {
+  "confidence": "high",
+  "mbid": "44e53c41-84d1-4272-8312-03588c1d57c0",
+  "note": "matched candidate",
+  "wikidata_qid": "Q3048174"
+ },
+ "edna-mcgriff": {
+  "confidence": "high",
+  "mbid": "dff96d02-5ddd-44b3-9276-ca25dab8e111",
+  "note": "matched candidate",
+  "wikidata_qid": "Q5340079"
+ },
+ "edwards-brothers": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "edwards-sisters": {
+  "confidence": "medium",
+  "mbid": null,
+  "note": "matched candidate",
+  "wikidata_qid": "Q124470378"
+ },
+ "el-dorados": {
+  "confidence": "high",
+  "mbid": "96c53224-6263-414b-8489-2a412192df70",
+  "note": "matched candidate",
+  "wikidata_qid": null
+ },
+ "ella-fitzgerald": {
+  "confidence": "high",
+  "mbid": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+  "note": "matched candidate",
+  "wikidata_qid": "Q1768"
+ },
+ "ella-johnson": {
+  "confidence": "high",
+  "mbid": "c951bc1a-72bc-4efe-a013-c1a8c5b9e76b",
+  "note": "matched candidate",
+  "wikidata_qid": "Q520710"
+ },
+ "emmett-mathews": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "ernie-fields": {
+  "confidence": "high",
+  "mbid": "616033e8-074b-4c12-9b3c-2d00bccf4993",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1356895"
+ },
+ "erroll-garner": {
+  "confidence": "high",
+  "mbid": "75bd5186-9d89-4da9-95de-fce055c28895",
+  "note": "matched candidate",
+  "wikidata_qid": "Q433912"
+ },
+ "erskine-hawkins": {
+  "confidence": "high",
+  "mbid": "5c2c3f4b-fc35-4851-971b-6baa5c114da0",
+  "note": "matched candidate",
+  "wikidata_qid": "Q355481"
+ },
+ "essex-scott": {
+  "confidence": "medium",
+  "mbid": "f93409e4-a6ff-465b-b8ce-07cf6d9276df",
+  "note": "matched candidate",
+  "wikidata_qid": "Q28025986"
+ },
+ "ethel-waters": {
+  "confidence": "high",
+  "mbid": "ab55e9c9-d475-4fa5-a903-06ff270b1e75",
+  "note": "matched candidate",
+  "wikidata_qid": "Q242725"
+ },
+ "etta-james": {
+  "confidence": "high",
+  "mbid": "e22d2f66-881e-41ca-9356-544697ee5f90",
+  "note": "matched candidate",
+  "wikidata_qid": "Q182725"
+ },
+ "eugene-church": {
+  "confidence": "high",
+  "mbid": "ea98a8bf-fa94-4911-afa5-fa4a34517939",
+  "note": "matched candidate",
+  "wikidata_qid": "Q1373066"
+ },
+ "eunice-wilson": {
+  "confidence": "high",
+  "mbid": null,
+  "note": "matched candidate",
+  "wikidata_qid": "Q19803021"
+ },
+ "evelyn-keyes": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "falcons": {
+  "confidence": "medium",
+  "mbid": "0e51f31a-0bee-4724-81c0-41aa2728e2f3",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "fats-domino": {
+  "confidence": "high",
+  "mbid": "e787de5d-49e2-4b1f-9bde-1fd3a671b971",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q209586"
+ },
+ "fats-waller": {
+  "confidence": "high",
+  "mbid": "569fc5bf-bcb6-4bc5-9a00-bd0d258e34f1",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q310476"
+ },
+ "faye-adams": {
+  "confidence": "high",
+  "mbid": "8f2974e0-3647-48f6-86f8-603a2c5f31ae",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q3067682"
+ },
+ "fi-tones": {
+  "confidence": "medium",
+  "mbid": "f795abd7-5382-4a6d-aecc-e01a8b24dd52",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "fiestas": {
+  "confidence": "high",
+  "mbid": "18c9e0e3-1920-4446-bcaf-cf1681480d18",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "flamingos": {
+  "confidence": "high",
+  "mbid": "467c7eeb-3741-48b4-9bfb-7d6d0b2b0f83",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "flash-and-dash": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "flash-gordon": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "fletcher-henderson": {
+  "confidence": "high",
+  "mbid": "f47d1c94-c3e3-4c84-a42a-6c33e0032839",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q505559"
+ },
+ "flournoy-miller": {
+  "confidence": "high",
+  "mbid": null,
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q8564024"
+ },
+ "floyd-ryland": {
+  "confidence": "medium",
+  "mbid": "d9ccb281-f11e-4886-8e80-0c74ca2d547d",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "floyd-smith": {
+  "confidence": "high",
+  "mbid": "3d4e1b24-ccc7-46c4-b2f0-f5ab33a12af6",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1430383"
+ },
+ "ford": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "foster-johnson": {
+  "confidence": "medium",
+  "mbid": "16dc239f-a787-4b6a-a337-91c6c411b153",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "frances-brock": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "frances-burnett": {
+  "confidence": "medium",
+  "mbid": "b1591254-08ad-4572-bf02-0c5a12c8f618",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "frank-humphries": {
+  "confidence": "medium",
+  "mbid": "e52a559c-6b91-4eb5-b0a7-a512a0661f2b",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "frankie-lymon": {
+  "confidence": "high",
+  "mbid": "8e4bd349-122c-4490-b33e-d556d9824124",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q683420"
+ },
+ "freddie-and-flo": {
+  "confidence": "high",
+  "mbid": "585ea506-2203-4118-8af3-ecf6ca66a937",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q134589217"
+ },
+ "freddie-mitchell": {
+  "confidence": "medium",
+  "mbid": "b19b99b9-55a9-412c-8944-34096e9ba8da",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q130386245"
+ },
+ "freddie-robinson": {
+  "confidence": "medium",
+  "mbid": null,
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q134589246"
+ },
+ "g-clefs": {
+  "confidence": "high",
+  "mbid": "547c44fd-1ef9-4e4a-960b-2e9c3f9b4190",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "gallie-de-gaston": {
+  "confidence": "high",
+  "mbid": "77cf952a-55b1-4b17-97c6-4b1758e107d2",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "gatemouth-moore": {
+  "confidence": "high",
+  "mbid": "36f00242-9d08-475b-8b78-ce3d07b0b4e7",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q4795183"
+ },
+ "gene-ammons": {
+  "confidence": "high",
+  "mbid": "00dbf694-d614-44cc-91d3-21bf18800e3d",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q713291"
+ },
+ "gene-and-eunice": {
+  "confidence": "high",
+  "mbid": "94412baa-fe78-4d85-956d-28bd0daa7803",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "george-dewey-washington": {
+  "confidence": "high",
+  "mbid": "78e0753a-12ce-406d-9089-93dcd9c349bb",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q28945909"
+ },
+ "george-holmes": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "george-hudson": {
+  "confidence": "medium",
+  "mbid": "eeefb969-033c-4e75-bf0d-b50e400a0f78",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "george-kirby": {
+  "confidence": "medium",
+  "mbid": null,
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q15506220"
+ },
+ "george-mcclennon": {
+  "confidence": "medium",
+  "mbid": "54352f0f-2b1f-43af-aaf1-aa3d3a9b1b68",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q18624484"
+ },
+ "george-shearing": {
+  "confidence": "high",
+  "mbid": "ef83af4c-4da9-47d1-b9bd-df9db18b28e9",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q349346"
+ },
+ "george-williams": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "george-wiltshire": {
+  "confidence": "high",
+  "mbid": "2e7dfe73-cb9e-4f64-84a7-be9af33d225b",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q103852694"
+ },
+ "georgie-auld": {
+  "confidence": "high",
+  "mbid": "d2de9fbd-1cdf-4212-b5ee-f830f69521de",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q491400"
+ },
+ "gibsons": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "gladys-bentley": {
+  "confidence": "high",
+  "mbid": "3a7853ac-076b-49ae-8072-274573399dc0",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q432715"
+ },
+ "glenn-and-jenkins": {
+  "confidence": "high",
+  "mbid": "45e9e531-6052-410f-9403-12e05730dac1",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q123034377"
+ },
+ "gloria-lynn": {
+  "confidence": "high",
+  "mbid": null,
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1532096"
+ },
+ "golden-gate-quartet": {
+  "confidence": "high",
+  "mbid": "3ac646f6-2057-485c-bf7e-205887c81426",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q652294"
+ },
+ "gospel-clefs": {
+  "confidence": "medium",
+  "mbid": "d6d91cbd-5458-43fa-a827-015b2d7746d2",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "gospelaires": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "gwen-tynes": {
+  "confidence": "medium",
+  "mbid": "5247e7de-d0b5-43d6-844d-56f116287080",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "hadda-brooks": {
+  "confidence": "high",
+  "mbid": "b8fd488f-9c16-4ad9-93bd-d0228263c260",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q520274"
+ },
+ "hal-singer": {
+  "confidence": "high",
+  "mbid": "25303a3f-4ae4-47a5-8437-92bf357c2671",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q362776"
+ },
+ "harlan-lattimore": {
+  "confidence": "high",
+  "mbid": "b2e7d8a7-f788-4f85-9db8-5d9a6c9c9671",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q450456"
+ },
+ "harlem-highlanders": {
+  "confidence": "medium",
+  "mbid": "bcfa3c59-475b-4864-8dd3-3f2d18bb30da",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "harmonizing-four": {
+  "confidence": "high",
+  "mbid": "68c805c1-c00f-4a38-b4f5-94ff23edef41",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "harold-king": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "harptones": {
+  "confidence": "high",
+  "mbid": "75f3c3cf-943d-4700-af9d-3c9e3fb85189",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "harry-belafonte": {
+  "confidence": "high",
+  "mbid": "49c48b7f-1ff1-4f02-a1aa-ca1254b46ef2",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q214959"
+ },
+ "harry-carney": {
+  "confidence": "high",
+  "mbid": "48f34bd6-dc5d-41ba-8cd5-0495787f13fa",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1375567"
+ },
+ "heartbeats": {
+  "confidence": "high",
+  "mbid": "0ecdea62-d46e-49c1-924a-7844133034d3",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "helen-humes": {
+  "confidence": "high",
+  "mbid": "60e492fd-d953-4de0-a6d1-2d5d27f2e0bb",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q129252"
+ },
+ "helen-stewart": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "helena-smith": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "herb-lance": {
+  "confidence": "high",
+  "mbid": "7e91b8d6-c867-42d2-99d5-9a1ad27fcb3b",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q20130244"
+ },
+ "herbie-fields-band": {
+  "confidence": "medium",
+  "mbid": "760ce891-586b-4cd0-b661-97a8a5bf2aac",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "hilda-rogers": {
+  "confidence": "medium",
+  "mbid": "1211da76-e10d-46bc-9e75-9488159049ec",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "hollywood-flames": {
+  "confidence": "high",
+  "mbid": "747d7f42-d4b5-4378-bc7d-7f8915cb9c34",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q7739993"
+ },
+ "honi-coles": {
+  "confidence": "high",
+  "mbid": null,
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1064863"
+ },
+ "hop-skip-and-jump": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "hortense-allen": {
+  "confidence": "high",
+  "mbid": "f2c3731a-fdf1-41e1-8eba-a9f200ccb8a4",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q111437111"
+ },
+ "hot-lips-page": {
+  "confidence": "high",
+  "mbid": "10e5004d-c636-4f6f-8cf6-deefe007764e",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1344717"
+ },
+ "howard-mcghee": {
+  "confidence": "high",
+  "mbid": "22b66dc2-f5b5-4c03-a4ca-083321bf8b6b",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q326659"
+ },
+ "ida-james": {
+  "confidence": "high",
+  "mbid": "2695abf7-8ebd-43db-bf42-4e65f520e08c",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1656514"
+ },
+ "illinois-jacquet": {
+  "confidence": "high",
+  "mbid": "15ab8bb8-7348-4377-ab73-b7acdad1459c",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1658835"
+ },
+ "imperial-gospel-singers": {
+  "confidence": "medium",
+  "mbid": "02c0d334-795f-44df-bf04-8fdaa53b8573",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "ink-spots": {
+  "confidence": "high",
+  "mbid": "75f47650-8a52-494a-8334-c5279bc6db09",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q127140"
+ },
+ "international-sweethearts-of-rhythm": {
+  "confidence": "high",
+  "mbid": "d6f7df84-d323-4b15-8b68-0ea872c0f0fe",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q368798"
+ },
+ "ivie-anderson": {
+  "confidence": "high",
+  "mbid": "727f2759-d8e7-454f-9f9f-8e7cdfb214f2",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q278641"
+ },
+ "ivory-joe-hunter": {
+  "confidence": "high",
+  "mbid": "ccf7253d-96b7-4cf3-9e11-ad916081a37b",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q11877"
+ },
+ "jack-teagarden": {
+  "confidence": "high",
+  "mbid": "79dcf09e-2290-4740-9edc-907f82420160",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q504485"
+ },
+ "jackie-wilson": {
+  "confidence": "high",
+  "mbid": "f0bf4fa0-028e-452f-82d3-7d4375e105dd",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q181483"
+ },
+ "james-moody": {
+  "confidence": "high",
+  "mbid": "cb8c8b87-a52d-4a7e-b168-983ca8e60b14",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q962310"
+ },
+ "jean-eldridge": {
+  "confidence": "medium",
+  "mbid": "7962c93f-b2c7-4ed9-97e7-55888e34aac6",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "jean-starr": {
+  "confidence": "medium",
+  "mbid": "f640039c-d97d-4ce8-963f-ea4f9ed08bbc",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q65066132"
+ },
+ "jeni-legon": {
+  "confidence": "high",
+  "mbid": null,
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q6177461"
+ },
+ "jerry-butler": {
+  "confidence": "high",
+  "mbid": "fec55784-ff5c-4992-83dd-1f7c4b10c6bf",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q372820"
+ },
+ "jesse-and-james": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "jesse-cryor": {
+  "confidence": "medium",
+  "mbid": "145e12ce-f1b6-4919-a183-287f5b0fda53",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1378790"
+ },
+ "jesse-james": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "jesters": {
+  "confidence": "high",
+  "mbid": "a887bfde-e3a9-45cb-a896-7572d1289c69",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "jigsaw-jackson": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "jim-wong-troupe": {
+  "confidence": "medium",
+  "mbid": "02b1a85a-812e-495a-afea-f4a6ab34824c",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "jimmie-lunceford": {
+  "confidence": "high",
+  "mbid": "bea5831a-fa7f-4316-9d71-754e390556b8",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1689291"
+ },
+ "jimmie-mitchell": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "jimmie-smith": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clearly matching candidate",
+  "wikidata_qid": null
+ },
+ "jimmy-grissom": {
+  "confidence": "high",
+  "mbid": "d28e1a0d-e40d-43a5-8442-aa373f71bbb1",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q994044"
+ },
+ "jimmy-ricks": {
+  "confidence": "medium",
+  "mbid": "7c1fc28b-e6a1-486a-9bd4-ec11d169feab",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "jimmy-rushing": {
+  "confidence": "high",
+  "mbid": "88c5de60-fa1a-4179-8100-ecd74c4edb73",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1689431"
+ },
+ "jo-ann-campbell": {
+  "confidence": "high",
+  "mbid": "243769e8-086e-449f-8a10-bc55883b1f00",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q948815"
+ },
+ "joe-byrd": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clear matching candidate",
+  "wikidata_qid": null
+ },
+ "joe-carroll": {
+  "confidence": "high",
+  "mbid": "24360dbb-b6e8-4e96-b82b-28b02e7a0e97",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q916929"
+ },
+ "joe-loco": {
+  "confidence": "high",
+  "mbid": "7ff55ffd-de27-481e-8567-63edabe901c2",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q6210962"
+ },
+ "joe-louis": {
+  "confidence": "medium",
+  "mbid": null,
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q273206"
+ },
+ "joe-medlin": {
+  "confidence": "medium",
+  "mbid": "7e57770f-5546-49ff-8635-83ef170cfbcf",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q52216455"
+ },
+ "joe-smothers": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clear matching candidate",
+  "wikidata_qid": null
+ },
+ "joe-tex": {
+  "confidence": "high",
+  "mbid": "bb25e0ba-fd11-4d2a-8ec3-f5674f67c874",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1691619"
+ },
+ "joe-thomas": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clear matching candidate",
+  "wikidata_qid": null
+ },
+ "joe-williams": {
+  "confidence": "high",
+  "mbid": "de09faf8-c78b-4c3a-9c0d-76b1de15f40e",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1691660"
+ },
+ "john-bunn": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clear matching candidate",
+  "wikidata_qid": null
+ },
+ "john-kirby": {
+  "confidence": "high",
+  "mbid": "34866882-9929-4bb4-80ce-125958a6560b",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "johnnie-and-joe": {
+  "confidence": "high",
+  "mbid": "cadc5ed0-2713-4d08-9c2a-a555cfd40421",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q3809697"
+ },
+ "johnny-hartman": {
+  "confidence": "high",
+  "mbid": "356abadf-a35c-4f93-baa2-9977b1c14046",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q500905"
+ },
+ "johnny-hodges": {
+  "confidence": "high",
+  "mbid": "881d33d8-e86f-42e8-b571-dbde156f6907",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q455176"
+ },
+ "johnny-hudgins": {
+  "confidence": "high",
+  "mbid": "03adc44d-f681-429f-b08c-d642193d52c9",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q63108042"
+ },
+ "johnny-lee": {
+  "confidence": "medium",
+  "mbid": null,
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q3182931"
+ },
+ "johnny-otis": {
+  "confidence": "high",
+  "mbid": "8ca2e10a-7a93-4065-aa77-8f277bfb1c84",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q726315"
+ },
+ "johnny-taylor": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clear matching candidate",
+  "wikidata_qid": null
+ },
+ "josephine-hall": {
+  "confidence": "medium",
+  "mbid": null,
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q66744522"
+ },
+ "jr": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clear matching candidate",
+  "wikidata_qid": null
+ },
+ "juan-tizol": {
+  "confidence": "high",
+  "mbid": "c1955c20-c693-4bb6-99f8-604251d2f01e",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1349428"
+ },
+ "juanita-pitts": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clear matching candidate",
+  "wikidata_qid": null
+ },
+ "juano-hernandez": {
+  "confidence": "high",
+  "mbid": "84715907-6f53-40c3-a11b-107819c246c8",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q3187880"
+ },
+ "judy-carol": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clear matching candidate",
+  "wikidata_qid": null
+ },
+ "julia-gardner": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clear matching candidate",
+  "wikidata_qid": null
+ },
+ "june-richmond": {
+  "confidence": "high",
+  "mbid": "fbeebee5-ee7f-40af-958f-1b4807832557",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1263824"
+ },
+ "kathryn-perry": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clear matching candidate",
+  "wikidata_qid": null
+ },
+ "kay-davis": {
+  "confidence": "high",
+  "mbid": "0f615fc1-ce1f-4586-b867-c0a528d49fcd",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q453856"
+ },
+ "king-cole-trio": {
+  "confidence": "high",
+  "mbid": "7739b88f-8d40-4af5-b4d4-5e5e53755fd5",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q56676080"
+ },
+ "king-coleman": {
+  "confidence": "high",
+  "mbid": "dffbf08e-1f43-448e-8dee-377d549f1f0d",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q6411347"
+ },
+ "kitty-murray": {
+  "confidence": "medium",
+  "mbid": "0ddbfd92-6115-4a63-87b4-8a73e799d0c2",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "kodoks": {
+  "confidence": "medium",
+  "mbid": "de5d6ad7-4f84-4353-96c7-ea1ed5ecefc7",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "lambert-hendricks-and-ross": {
+  "confidence": "high",
+  "mbid": "b71e6bb2-df60-45a1-a2d4-d6e15ecc4907",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1801348"
+ },
+ "larks": {
+  "confidence": "medium",
+  "mbid": "f33ddd06-1d24-452b-964d-cee4d4aa420a",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "larry-darnell": {
+  "confidence": "high",
+  "mbid": "ab7d2f16-1b56-485b-84f1-89cbd5ba65aa",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q3218042"
+ },
+ "larry-williams": {
+  "confidence": "high",
+  "mbid": "78926ef1-69ee-4a37-9379-e55e6ca14928",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1272729"
+ },
+ "laura-washington": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clear matching candidate",
+  "wikidata_qid": null
+ },
+ "laurel-watson": {
+  "confidence": "medium",
+  "mbid": null,
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q131504653"
+ },
+ "lavern-baker": {
+  "confidence": "high",
+  "mbid": "affa0adf-7be7-4944-b30d-a09baeb7dd28",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q463184"
+ },
+ "lee-richardson": {
+  "confidence": "medium",
+  "mbid": "ea7b7bd8-37dd-42ce-a924-3ceaf11bec06",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "lena-horne": {
+  "confidence": "high",
+  "mbid": "0031bc7a-1b6f-4620-99db-5202405b0749",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q112307"
+ },
+ "leon-collins": {
+  "confidence": "high",
+  "mbid": "a33f1abb-864c-4798-a48c-aad0423c593e",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q6524574"
+ },
+ "leon-ketchum": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clear matching candidate",
+  "wikidata_qid": null
+ },
+ "leonard-reed": {
+  "confidence": "high",
+  "mbid": "82e5d2ce-06d7-4c27-95a9-806117d4f8ec",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q6525662"
+ },
+ "les-hite": {
+  "confidence": "high",
+  "mbid": "b4b3f725-27f3-4277-af5e-027a7395d9bf",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1820533"
+ },
+ "leslie-uggams": {
+  "confidence": "high",
+  "mbid": "0cc74454-f49b-4ce6-bf66-206259f6273f",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q534925"
+ },
+ "lethia-hill": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clear matching candidate",
+  "wikidata_qid": null
+ },
+ "lightning-flashes": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clear matching candidate",
+  "wikidata_qid": null
+ },
+ "lil-green": {
+  "confidence": "high",
+  "mbid": "804283e2-1793-4f7d-8619-459b84b77376",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q273172"
+ },
+ "lil-greenwood": {
+  "confidence": "high",
+  "mbid": "3a97bf6f-7e40-4770-aea6-c38c12a6ca5a",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q513171"
+ },
+ "linda-hopkins": {
+  "confidence": "high",
+  "mbid": "2565a779-0598-40b7-84a8-95fdcd283483",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q254341"
+ },
+ "lionel-hampton": {
+  "confidence": "high",
+  "mbid": "17cf2413-99c1-441d-ba92-700e811daf56",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q313525"
+ },
+ "little-esther": {
+  "confidence": "high",
+  "mbid": null,
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q283069"
+ },
+ "little-jimmy-scott": {
+  "confidence": "high",
+  "mbid": null,
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q724621"
+ },
+ "little-joe": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clear matching candidate",
+  "wikidata_qid": null
+ },
+ "little-richard": {
+  "confidence": "high",
+  "mbid": "95c2339b-8277-49a6-9aaf-08d8eeeaa0be",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q82222"
+ },
+ "little-willie": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clear matching candidate",
+  "wikidata_qid": null
+ },
+ "little-willie-john": {
+  "confidence": "high",
+  "mbid": "d59ce86d-2cc3-49be-be12-3eb4dde6e1ed",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1388443"
+ },
+ "lloyd-price": {
+  "confidence": "high",
+  "mbid": "d047ee24-6fac-401a-8769-34edbda52113",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q958578"
+ },
+ "long-and-short": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clear matching candidate",
+  "wikidata_qid": null
+ },
+ "los-gatos": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clear matching candidate",
+  "wikidata_qid": null
+ },
+ "louis-armstrong": {
+  "confidence": "high",
+  "mbid": "eea8a864-fcda-4602-9569-38ab446decd6",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1779"
+ },
+ "louis-bellson": {
+  "confidence": "medium",
+  "mbid": "34e352cf-05dc-416a-9db1-b6dc087e0289",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q252126"
+ },
+ "louis-jordan": {
+  "confidence": "high",
+  "mbid": "b8b30699-7814-4fd1-ab75-6f22f5da0fac",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q461011"
+ },
+ "louis-prima": {
+  "confidence": "high",
+  "mbid": "b5997eef-2516-491a-a10e-5cee842bbcdc",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q367447"
+ },
+ "louise-beavers": {
+  "confidence": "high",
+  "mbid": null,
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q3263669"
+ },
+ "lu-elliott": {
+  "confidence": "medium",
+  "mbid": null,
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q22959063"
+ },
+ "lucky-millinder": {
+  "confidence": "high",
+  "mbid": "108e3471-2cd5-4a88-939e-0bedf463dfa7",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q252474"
+ },
+ "luis-russell": {
+  "confidence": "high",
+  "mbid": "9092ac82-6f06-427a-8a8e-d949dc4ebf35",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1374916"
+ },
+ "mabel-scott": {
+  "confidence": "high",
+  "mbid": "78e412d1-1256-4d9d-adfc-f04b2503d507",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q519828"
+ },
+ "maceo-woods": {
+  "confidence": "high",
+  "mbid": "c2b6c095-68d6-4e84-a796-0fab901efe13",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q19881907"
+ },
+ "machito": {
+  "confidence": "high",
+  "mbid": "8b280260-dacb-4195-a34d-16e5068de288",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q462983"
+ },
+ "madeline-belt": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clear matching candidate",
+  "wikidata_qid": null
+ },
+ "mae-diggs": {
+  "confidence": "medium",
+  "mbid": "af9e200b-89d2-45d7-bfff-b071bcf4f7eb",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "mae-johnson": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clear matching candidate",
+  "wikidata_qid": null
+ },
+ "mambo-aces": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clear matching candidate",
+  "wikidata_qid": null
+ },
+ "manhattan-paul": {
+  "confidence": "medium",
+  "mbid": "00f98491-5ec7-4f5e-9022-fb3532d14a90",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "mantan-moreland": {
+  "confidence": "high",
+  "mbid": "27efa265-e476-4f8d-a7e7-49c511c8bdbb",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1913548"
+ },
+ "marcels": {
+  "confidence": "high",
+  "mbid": "bf34de40-5223-4b4a-9c08-cf170210e041",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1431109"
+ },
+ "margaret-simms": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clear matching candidate",
+  "wikidata_qid": null
+ },
+ "margie-day": {
+  "confidence": "high",
+  "mbid": "7621cb8f-6987-4b4f-8bb9-10ce8160af86",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q6760375"
+ },
+ "marie-knight": {
+  "confidence": "high",
+  "mbid": "7fa1292d-7db0-42aa-a88e-eb3bd9d0c7c4",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q6762908"
+ },
+ "marshall-rogers": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clear matching candidate",
+  "wikidata_qid": null
+ },
+ "marv-johnson": {
+  "confidence": "high",
+  "mbid": "4178a66c-8058-45dd-8caa-4d3c9a46d49d",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q13576728"
+ },
+ "marvelettes": {
+  "confidence": "high",
+  "mbid": "faca5707-ce1a-4276-a5bc-a4061bfb33d2",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1542338"
+ },
+ "mary-ann-mccall": {
+  "confidence": "high",
+  "mbid": "7baf4e8f-1bd7-440e-9586-58b2c9fd4a58",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q534892"
+ },
+ "mary-lou-williams": {
+  "confidence": "high",
+  "mbid": "4a0c1055-ec66-47a0-a668-c60f48477ed2",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q126677"
+ },
+ "maude-russell": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no clear matching candidate",
+  "wikidata_qid": null
+ },
+ "max-roach": {
+  "confidence": "high",
+  "mbid": "0b6aea55-d855-4a33-ae08-b0280dd28684",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q175899"
+ },
+ "maxine-brown": {
+  "confidence": "high",
+  "mbid": "6635d23d-b809-49cb-990d-e6a2748e6a89",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q527332"
+ },
+ "maxine-sullivan": {
+  "confidence": "high",
+  "mbid": "813de8c0-1cec-485b-989c-7ed17e998e65",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q281341"
+ },
+ "may-alix": {
+  "confidence": "high",
+  "mbid": "7fce39cc-2a91-41a0-bbea-dda5b5665a4e",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q3302877"
+ },
+ "mel-walker": {
+  "confidence": "high",
+  "mbid": "a68fe307-158d-4e68-819e-105d3d0e754b",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q16228791"
+ },
+ "mickey-and-sylvia": {
+  "confidence": "high",
+  "mbid": "f919671d-c6b7-4d42-9004-3a93eceb5be9",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q3311850"
+ },
+ "midge-williams": {
+  "confidence": "high",
+  "mbid": "deca43b7-512d-42bc-b794-a8487cac3622",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q521077"
+ },
+ "miguelito-valdes": {
+  "confidence": "high",
+  "mbid": "c5842f4d-d2be-44f7-b938-2526ecf05859",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q849533"
+ },
+ "miles-davis": {
+  "confidence": "high",
+  "mbid": "561d854a-6a28-4aa7-8c99-323e6ce46c2a",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q93341"
+ },
+ "miller-brothers-and-lois": {
+  "confidence": "medium",
+  "mbid": "0e8c3723-39b6-4e72-a9ba-a985edb84cfc",
+  "note": "name/dates/context match",
+  "wikidata_qid": null
+ },
+ "miller-sisters": {
+  "confidence": "medium",
+  "mbid": "fdd23816-634c-4dff-8875-cc1c4d26fa60",
+  "note": "name/dates/context match",
+  "wikidata_qid": "Q1935475"
+ },
+ "mills-brothers": {
+  "confidence": "high",
+  "mbid": "fb1080d4-aaf7-430e-b588-6a6ce79e2eb3",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q1206839"
+ },
+ "miracles": {
+  "confidence": "high",
+  "mbid": "6a4c2d34-7f7f-4f87-b17f-b5540aa840db",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q1761222"
+ },
+ "moke-and-poke": {
+  "confidence": "medium",
+  "mbid": "02bcc257-9260-4411-a5ff-160c5a577f3a",
+  "note": "name/dates/type match",
+  "wikidata_qid": null
+ },
+ "moms-mabley": {
+  "confidence": "high",
+  "mbid": "ed829618-9435-4ca3-b4df-ab6539d143fc",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q6897510"
+ },
+ "monte-hawley": {
+  "confidence": "medium",
+  "mbid": "e0f47e9a-5ed7-4229-b82a-93a0e09cd3de",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q101130464"
+ },
+ "moonglows": {
+  "confidence": "high",
+  "mbid": "957fe961-876e-452d-9991-7be85d227e22",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q1969478"
+ },
+ "myra-johnson": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "nappy-brown": {
+  "confidence": "high",
+  "mbid": "8f9fe421-4255-485e-8180-638fbe1f3401",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q1965052"
+ },
+ "nellie-lutcher": {
+  "confidence": "high",
+  "mbid": "159e0946-cb0d-402f-b897-402de5bf856b",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q455600"
+ },
+ "nicholas-brothers": {
+  "confidence": "high",
+  "mbid": "98ccd7d6-77b9-4d0d-9033-f99ef9140aee",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q1786868"
+ },
+ "nicodemus": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "nightingales": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "nina-mae-mckinney": {
+  "confidence": "high",
+  "mbid": "84be8af3-ff24-4ca7-af9a-e920c870b042",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q3341939"
+ },
+ "nipsey-russell": {
+  "confidence": "high",
+  "mbid": "75c558ad-ad28-4d70-be3b-ec9ebe44c105",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q708172"
+ },
+ "noble-sissle": {
+  "confidence": "high",
+  "mbid": "090c459b-3ae3-4c85-833d-bfbd8e1aaf5e",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q563239"
+ },
+ "nolan-lewis": {
+  "confidence": "medium",
+  "mbid": "9986b46f-816b-4cf5-bd5e-79c3a567422e",
+  "note": "name/dates/type match",
+  "wikidata_qid": null
+ },
+ "norman-astwood": {
+  "confidence": "high",
+  "mbid": "8785d8b8-fba5-4f9c-84e7-a856a2ce2a27",
+  "note": "name/dates/type match",
+  "wikidata_qid": null
+ },
+ "olivette-miller": {
+  "confidence": "medium",
+  "mbid": "ec53c1f3-3749-4525-95f2-175583e8b977",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q105427815"
+ },
+ "olympics": {
+  "confidence": "medium",
+  "mbid": "98efb481-2fcc-4c52-a2e3-2136e4491294",
+  "note": "name/dates/type match",
+  "wikidata_qid": null
+ },
+ "orioles": {
+  "confidence": "medium",
+  "mbid": "08b6fb14-1e9a-4ea8-bbd4-3b3f969f64f3",
+  "note": "name/dates/type match",
+  "wikidata_qid": null
+ },
+ "orlando-roberson": {
+  "confidence": "high",
+  "mbid": "aff5fbe6-0ef6-4571-8f00-0ea7ead47ea1",
+  "note": "name/dates/type match",
+  "wikidata_qid": null
+ },
+ "oscar-newman": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "paragons": {
+  "confidence": "medium",
+  "mbid": "bddb5fca-3812-490c-8f59-1c9236e94928",
+  "note": "name/dates/type match",
+  "wikidata_qid": null
+ },
+ "patterson-and-jackson": {
+  "confidence": "medium",
+  "mbid": "efe39b92-880a-40f2-bf27-712ba3bb845c",
+  "note": "name/dates/type match",
+  "wikidata_qid": null
+ },
+ "paul-breckenridge": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "paul-white": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "paul-williams": {
+  "confidence": "medium",
+  "mbid": "884a6655-7a15-4590-8c71-e4cb29c15f01",
+  "note": "name/dates/type match",
+  "wikidata_qid": null
+ },
+ "pauline-edwards": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "pearl-bailey": {
+  "confidence": "high",
+  "mbid": "312f7705-d15e-478d-aa13-0a5c05113c31",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q462118"
+ },
+ "pearls": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "peck-and-peck": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "peg-leg-bates": {
+  "confidence": "high",
+  "mbid": "b65d4a04-1ce6-43df-89cf-5b54a7ab2672",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q15454366"
+ },
+ "peggy-thomas": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "pete-nugent": {
+  "confidence": "high",
+  "mbid": null,
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q55720538"
+ },
+ "pete-peaches-and-duke": {
+  "confidence": "high",
+  "mbid": "f7b36035-b01c-4f7b-9d67-3fc614a90116",
+  "note": "name/dates/type match",
+  "wikidata_qid": null
+ },
+ "peters-sisters": {
+  "confidence": "high",
+  "mbid": "be03e320-2272-4a7c-a659-6912784ef20e",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q29018050"
+ },
+ "pha-terrell": {
+  "confidence": "high",
+  "mbid": "d8bf32da-09c6-492e-a3a4-4a83c3bd522d",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q965547"
+ },
+ "phyllis-branch": {
+  "confidence": "medium",
+  "mbid": "25292df9-824c-47ab-b58f-405a8e0f7f65",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q139377777"
+ },
+ "pigmeat-markham": {
+  "confidence": "high",
+  "mbid": "ab7b5fd5-0c90-4a31-a4f1-220d298c8167",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q3025570"
+ },
+ "pops-and-louie": {
+  "confidence": "high",
+  "mbid": "263e6959-78f8-41de-86c0-de1f083abf6e",
+  "note": "name/dates/type match",
+  "wikidata_qid": null
+ },
+ "ralph-brown": {
+  "confidence": "medium",
+  "mbid": null,
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q125417494"
+ },
+ "ralph-cooper": {
+  "confidence": "high",
+  "mbid": "3ae6e3af-40e1-4bda-8ce2-0d63574a22eb",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q7287362"
+ },
+ "rasberry-singers": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "rastus-murray": {
+  "confidence": "medium",
+  "mbid": "1c531aff-1f96-41e1-9677-e66fadedde0d",
+  "note": "name/dates/type match",
+  "wikidata_qid": null
+ },
+ "ravens": {
+  "confidence": "high",
+  "mbid": "deee2005-49d2-4af6-9b55-e9e9c5421099",
+  "note": "name/dates/type match",
+  "wikidata_qid": null
+ },
+ "ray-charles": {
+  "confidence": "high",
+  "mbid": "2ce02909-598b-44ef-a456-151ba0a3bd70",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q544387"
+ },
+ "ray-moore": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "ray-nance": {
+  "confidence": "high",
+  "mbid": "a765d3e6-0a39-4910-b0d8-f80557be846d",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q1937573"
+ },
+ "red-allen": {
+  "confidence": "high",
+  "mbid": "7fdcdee9-c9f8-4cc0-a4b4-ad96aa82fee2",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q1383538"
+ },
+ "red-caps": {
+  "confidence": "medium",
+  "mbid": "97f78d78-c58e-42ba-a803-ad0af6bbae02",
+  "note": "name/dates/type match",
+  "wikidata_qid": null
+ },
+ "red-prysock": {
+  "confidence": "high",
+  "mbid": "1657d900-d7cf-4016-9cdc-2baba1cb037b",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q4797616"
+ },
+ "redd-foxx": {
+  "confidence": "high",
+  "mbid": "44bb0129-80b1-40ec-8c98-348a0aa7862f",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q712024"
+ },
+ "redd-lyte": {
+  "confidence": "low",
+  "mbid": "cdfb6c71-33cb-49b9-a005-515c4c19f57b",
+  "note": "name/dates/type match",
+  "wikidata_qid": null
+ },
+ "reuben-phillips": {
+  "confidence": "medium",
+  "mbid": "cbaa29a3-af21-402e-ae5c-b5b2e5a5116e",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q7317500"
+ },
+ "rhythm-willie": {
+  "confidence": "high",
+  "mbid": "e58ca831-2622-43ae-bddc-fbb3c1ced4ed",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q42289674"
+ },
+ "rimmer-sisters": {
+  "confidence": "medium",
+  "mbid": "8a0e0dfb-f583-4b15-a2a5-6d56827687c2",
+  "note": "name/dates/type match",
+  "wikidata_qid": null
+ },
+ "robert-and-johnny": {
+  "confidence": "high",
+  "mbid": "4d1ed15f-6f1f-459b-8612-2e15d1fdf974",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q7341172"
+ },
+ "roland-holder": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "rose-hardaway": {
+  "confidence": "medium",
+  "mbid": "924a6016-7b3d-42aa-948e-56c9e20795f8",
+  "note": "name/dates/type match",
+  "wikidata_qid": null
+ },
+ "rosetta-tharpe": {
+  "confidence": "high",
+  "mbid": "f5625c87-5a62-4b3b-a375-fe08a71acddc",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q438106"
+ },
+ "roy-brown": {
+  "confidence": "high",
+  "mbid": "2054c4db-4d37-4748-a355-de7ee7a6d6fa",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q588392"
+ },
+ "roy-eldridge": {
+  "confidence": "high",
+  "mbid": "58234c8b-954e-4617-9c7e-4a8712f41a23",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q376146"
+ },
+ "roy-hamilton": {
+  "confidence": "high",
+  "mbid": "7cc68ae2-30ed-404d-8438-2ac36785f69b",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q2083093"
+ },
+ "roy-milton": {
+  "confidence": "high",
+  "mbid": "2714bc8c-2755-47e3-803a-27826568f7d8",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q327047"
+ },
+ "roy-white": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "rubberlegs-williams": {
+  "confidence": "high",
+  "mbid": "d4404fb3-8432-4aac-b64b-ab444ac48179",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q1375231"
+ },
+ "rubel-blakely": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "ruby-elzy": {
+  "confidence": "medium",
+  "mbid": "89198492-de2d-4980-b6d1-af339630a9e0",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q1530731"
+ },
+ "ruth-brown": {
+  "confidence": "high",
+  "mbid": "948137e5-783e-4386-bd7c-a56c2666d1e2",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q144669"
+ },
+ "ruth-mcfadden": {
+  "confidence": "medium",
+  "mbid": "1aeeb463-e6c3-4bcf-877f-b2e846a111cc",
+  "note": "name/dates/type match",
+  "wikidata_qid": null
+ },
+ "sabby-lewis": {
+  "confidence": "high",
+  "mbid": "6d0929f6-1c7c-4840-9984-5eb664309c8c",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q1670276"
+ },
+ "sahji": {
+  "confidence": "medium",
+  "mbid": "90ff4700-1029-4221-8d37-77bff4c52b70",
+  "note": "name/dates/type match",
+  "wikidata_qid": null
+ },
+ "sally-blair": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "salt-and-pepper": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "sam-cooke": {
+  "confidence": "high",
+  "mbid": "6c8fd0be-d961-454c-aee0-4366a6dbc993",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q295919"
+ },
+ "sam-taylor": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "sam-theard": {
+  "confidence": "high",
+  "mbid": "bf690b65-6acb-4167-8757-aa142ed3d93a",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q2216655"
+ },
+ "sammy-davis-jr": {
+  "confidence": "high",
+  "mbid": "4bc9e8c3-7eae-454f-a56c-bccf96f3926b",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q297816"
+ },
+ "sandy-burns": {
+  "confidence": "medium",
+  "mbid": null,
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q114890193"
+ },
+ "sarah-vaughan": {
+  "confidence": "high",
+  "mbid": "351d8bdf-33a1-45e2-8c04-c85fad20da55",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q229513"
+ },
+ "savannah-churchill": {
+  "confidence": "high",
+  "mbid": "0de2193a-dfec-46a5-b39e-f0a6a9a6a140",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q1342871"
+ },
+ "savoy-sultans": {
+  "confidence": "high",
+  "mbid": "6f030976-add3-4fbf-9977-91f50583070a",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q2228232"
+ },
+ "schoolboys": {
+  "confidence": "medium",
+  "mbid": "3110dd82-53eb-4ed0-9274-e5e3330115da",
+  "note": "name/dates/type match",
+  "wikidata_qid": null
+ },
+ "screamin-jay-hawkins": {
+  "confidence": "high",
+  "mbid": "185af318-55c7-405f-8b00-0fa308e56da9",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q455754"
+ },
+ "selah-jubilee-singers": {
+  "confidence": "high",
+  "mbid": "63d7429d-e2cd-4557-98d0-75270add75d7",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q7447433"
+ },
+ "sensations": {
+  "confidence": "medium",
+  "mbid": "ad39d584-544a-477a-84e6-090df24c1826",
+  "note": "name/dates/type match",
+  "wikidata_qid": null
+ },
+ "shelton-brooks": {
+  "confidence": "high",
+  "mbid": "f43736c3-dfc7-400f-ab06-5fc5c28e1723",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q1256775"
+ },
+ "shirelles": {
+  "confidence": "high",
+  "mbid": "a8540ea0-1a74-4c22-8b70-1348a77a74a0",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q1353426"
+ },
+ "shirley-and-lee": {
+  "confidence": "high",
+  "mbid": "edd9fb9d-949f-4a4c-a057-485a75baf935",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q98167375"
+ },
+ "sil-austin": {
+  "confidence": "high",
+  "mbid": "f8a10e22-e902-41d8-bc60-39562c4b1427",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q1690247"
+ },
+ "skylights": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "skyliners": {
+  "confidence": "high",
+  "mbid": "6d7eef18-28b0-4d7b-90ba-516a19bf3dcc",
+  "note": "name/dates/type match",
+  "wikidata_qid": null
+ },
+ "slappy-white": {
+  "confidence": "high",
+  "mbid": "81d9ad2a-980e-4804-a3f4-50d45a223e89",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q7538732"
+ },
+ "slim-and-slam": {
+  "confidence": "high",
+  "mbid": "b38c27ca-c76c-41e2-aaa2-c4a84aa06b86",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q2294193"
+ },
+ "slim-gaillard": {
+  "confidence": "high",
+  "mbid": "48b82408-3db2-4a96-bd97-129fbdeddfc4",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q628353"
+ },
+ "solitaires": {
+  "confidence": "high",
+  "mbid": "e9c92505-5c8a-4357-93d2-2d1a08bd0082",
+  "note": "name/dates/type match",
+  "wikidata_qid": null
+ },
+ "solomon-burke": {
+  "confidence": "high",
+  "mbid": "d5c79890-36c5-4f1b-bed3-4468eee093f3",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q49888"
+ },
+ "sonny-parker": {
+  "confidence": "high",
+  "mbid": "cba58ac3-f78f-4bdf-a10c-bd45a5cc6d3b",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q2302292"
+ },
+ "sonny-stitt": {
+  "confidence": "high",
+  "mbid": "d7828cdd-7d63-49c0-b09b-cf3df7ecaf80",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q502311"
+ },
+ "sonny-thompson": {
+  "confidence": "high",
+  "mbid": "b96094c1-e2c8-43cd-a436-0b626fa74440",
+  "note": "name/dates/type match",
+  "wikidata_qid": "Q1363705"
+ },
+ "sonny-woods": {
+  "confidence": "medium",
+  "mbid": "dbcc4de8-9b41-4873-86b1-136a23be3611",
+  "note": "matched",
+  "wikidata_qid": null
+ },
+ "soul-stirrers": {
+  "confidence": "high",
+  "mbid": "5aa8b4de-5e87-40c1-b230-e29e415578ec",
+  "note": "matched",
+  "wikidata_qid": "Q466840"
+ },
+ "spaniels": {
+  "confidence": "high",
+  "mbid": "cdbb6951-f2b3-4bee-8d74-b5282f58f798",
+  "note": "matched",
+  "wikidata_qid": null
+ },
+ "spence-twins": {
+  "confidence": "medium",
+  "mbid": "2ac9cc0e-6eae-4888-9f49-3f2ebe554260",
+  "note": "matched",
+  "wikidata_qid": null
+ },
+ "spic-and-span": {
+  "confidence": "medium",
+  "mbid": "5eff4201-ffd5-442e-bd9c-980e4ba2a1ad",
+  "note": "matched",
+  "wikidata_qid": null
+ },
+ "stan-getz": {
+  "confidence": "high",
+  "mbid": "8f2422ab-0ec6-4c92-80c4-afe9622fab32",
+  "note": "matched",
+  "wikidata_qid": "Q30587"
+ },
+ "stanley-brothers": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "steeplechasers": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "stereos": {
+  "confidence": "medium",
+  "mbid": "c0337a01-05b3-4687-b121-e455dc8154be",
+  "note": "matched",
+  "wikidata_qid": null
+ },
+ "stevens-singers": {
+  "confidence": "medium",
+  "mbid": "4fcdf475-69dc-4235-8878-51efbdc8ab52",
+  "note": "matched",
+  "wikidata_qid": null
+ },
+ "strawberry-russell-and-julia": {
+  "confidence": "medium",
+  "mbid": "d66e4564-e1b4-48fa-83c7-72c5e94eb43b",
+  "note": "matched",
+  "wikidata_qid": null
+ },
+ "stuffy-bryant": {
+  "confidence": "medium",
+  "mbid": "7f9c8cb3-f792-4e67-8ef9-f47cb66da991",
+  "note": "matched",
+  "wikidata_qid": null
+ },
+ "stump-and-stumpy": {
+  "confidence": "medium",
+  "mbid": "c52226aa-7b64-4dfb-8ef9-1cf45c88846b",
+  "note": "matched",
+  "wikidata_qid": null
+ },
+ "sugar-and-spice": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "sugar-chile-robinson": {
+  "confidence": "high",
+  "mbid": "853f4da3-af1e-4c04-b2eb-e32f4ab738fb",
+  "note": "matched",
+  "wikidata_qid": "Q7634777"
+ },
+ "sunshine-sammy": {
+  "confidence": "high",
+  "mbid": "f3e558a4-4d5b-408b-aae5-d4d4c5997eed",
+  "note": "matched",
+  "wikidata_qid": "Q475405"
+ },
+ "swan-and-lee": {
+  "confidence": "medium",
+  "mbid": "7d1790a8-9ceb-4229-8b9a-b1139d797477",
+  "note": "matched",
+  "wikidata_qid": null
+ },
+ "swanee-quintet": {
+  "confidence": "high",
+  "mbid": "2a688f04-2c00-4c2b-8398-04f08abbb9cc",
+  "note": "matched",
+  "wikidata_qid": null
+ },
+ "sy-oliver": {
+  "confidence": "high",
+  "mbid": "5b99fa9e-4190-4172-abc0-220f895dab9e",
+  "note": "matched",
+  "wikidata_qid": "Q1138796"
+ },
+ "sybil-lewis": {
+  "confidence": "medium",
+  "mbid": null,
+  "note": "matched",
+  "wikidata_qid": "Q85751048"
+ },
+ "symphony-sid": {
+  "confidence": "high",
+  "mbid": "c1d7f3c7-ed3f-4152-ad60-706a20b64156",
+  "note": "matched",
+  "wikidata_qid": "Q360429"
+ },
+ "t-bone-walker": {
+  "confidence": "high",
+  "mbid": "f1a3fb4a-fff6-4556-a290-3704b109da90",
+  "note": "matched",
+  "wikidata_qid": "Q358538"
+ },
+ "tab-smith": {
+  "confidence": "high",
+  "mbid": "322c0da1-fcff-47c3-bf5a-1aef63805173",
+  "note": "matched",
+  "wikidata_qid": "Q366599"
+ },
+ "taft-jordan": {
+  "confidence": "high",
+  "mbid": "5aebdff4-1f98-40d5-b02c-c93ddf8d0641",
+  "note": "matched",
+  "wikidata_qid": "Q962940"
+ },
+ "tanya": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "tap-and-toe": {
+  "confidence": "medium",
+  "mbid": "d851e4dc-6aee-4a04-9f83-30d77de6bb8e",
+  "note": "matched",
+  "wikidata_qid": null
+ },
+ "taps-miller": {
+  "confidence": "medium",
+  "mbid": "7f0c6261-f29e-4913-9005-47cf93745c73",
+  "note": "matched",
+  "wikidata_qid": "Q29517077"
+ },
+ "teddy-hale": {
+  "confidence": "high",
+  "mbid": "c161da73-db69-46c1-95b3-16f8e2a2f687",
+  "note": "matched",
+  "wikidata_qid": "Q111799398"
+ },
+ "teddy-hill": {
+  "confidence": "high",
+  "mbid": "bd05f3cc-5b52-4872-bb29-f4c979dfecf9",
+  "note": "matched",
+  "wikidata_qid": "Q1530476"
+ },
+ "teddy-wilson": {
+  "confidence": "high",
+  "mbid": "2e89725a-ac85-414c-b3b2-70f0a82fae9a",
+  "note": "matched",
+  "wikidata_qid": "Q506052"
+ },
+ "teenagers": {
+  "confidence": "high",
+  "mbid": "b3b5ceef-0d3e-4191-a621-5e97d6ed3d97",
+  "note": "matched",
+  "wikidata_qid": null
+ },
+ "teenchords": {
+  "confidence": "medium",
+  "mbid": "db6db4e3-d833-42a1-bab5-10610a43c3f6",
+  "note": "matched",
+  "wikidata_qid": null
+ },
+ "thelma-carpenter": {
+  "confidence": "high",
+  "mbid": "679df852-9630-4523-a704-b46bf64f647a",
+  "note": "matched",
+  "wikidata_qid": "Q541408"
+ },
+ "thelonius-monk": {
+  "confidence": "high",
+  "mbid": null,
+  "note": "matched",
+  "wikidata_qid": "Q109612"
+ },
+ "tim-moore": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "timmie-rogers": {
+  "confidence": "high",
+  "mbid": "e140f391-a73f-47bf-9b48-1a893de40d6d",
+  "note": "matched",
+  "wikidata_qid": "Q7806795"
+ },
+ "tina-dixon": {
+  "confidence": "medium",
+  "mbid": null,
+  "note": "matched",
+  "wikidata_qid": "Q86749848"
+ },
+ "tiny-bradshaw": {
+  "confidence": "high",
+  "mbid": "eab6f070-310f-4c8b-98a6-a9fdcedb514e",
+  "note": "matched",
+  "wikidata_qid": "Q364532"
+ },
+ "tiny-kennedy": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "tiny-topsy": {
+  "confidence": "high",
+  "mbid": "491d8c6a-d97c-49a2-8a49-fa50f08e048d",
+  "note": "matched",
+  "wikidata_qid": "Q27178366"
+ },
+ "tip": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "tip-tap-and-toe": {
+  "confidence": "medium",
+  "mbid": "d851e4dc-6aee-4a04-9f83-30d77de6bb8e",
+  "note": "matched",
+  "wikidata_qid": null
+ },
+ "tito-puente": {
+  "confidence": "high",
+  "mbid": "f19ad155-d809-4770-ab8d-7579467d9f55",
+  "note": "matched",
+  "wikidata_qid": "Q317122"
+ },
+ "titus-turner": {
+  "confidence": "high",
+  "mbid": "682ed507-00c2-4e24-b4ed-97df6b912dec",
+  "note": "matched",
+  "wikidata_qid": "Q7810338"
+ },
+ "tommy-brown": {
+  "confidence": "medium",
+  "mbid": "a58b195b-bfe6-4c12-aeb2-4a77bf3093c8",
+  "note": "matched",
+  "wikidata_qid": null
+ },
+ "tommy-hunt": {
+  "confidence": "high",
+  "mbid": "d950d34d-2819-4af0-9f10-08946dca6075",
+  "note": "matched",
+  "wikidata_qid": "Q2441003"
+ },
+ "toni-harper": {
+  "confidence": "high",
+  "mbid": "bfd8c735-ffb8-4d9f-ac57-41fdc6a7ba85",
+  "note": "matched",
+  "wikidata_qid": "Q2441799"
+ },
+ "trevor-bacon": {
+  "confidence": "high",
+  "mbid": "6bf72967-de53-4238-b25a-8ec91017104b",
+  "note": "matched",
+  "wikidata_qid": "Q124664849"
+ },
+ "troy-brown": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "trummy-young": {
+  "confidence": "high",
+  "mbid": "11636520-090f-4ea3-8361-53a6f345ccf4",
+  "note": "matched",
+  "wikidata_qid": "Q1375025"
+ },
+ "tun-tun": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "turbans": {
+  "confidence": "medium",
+  "mbid": "82327631-ed4b-4d6c-9b3d-138cf0022895",
+  "note": "matched",
+  "wikidata_qid": null
+ },
+ "una-mae-carlisle": {
+  "confidence": "high",
+  "mbid": "3da7a5de-5354-4dd7-84ce-19694f2f7dac",
+  "note": "matched",
+  "wikidata_qid": "Q1151034"
+ },
+ "upsetters": {
+  "confidence": "medium",
+  "mbid": "0d6f5050-f43d-43fa-afb0-b0263dc9e88a",
+  "note": "matched",
+  "wikidata_qid": null
+ },
+ "valaida-snow": {
+  "confidence": "high",
+  "mbid": "926ea981-a70a-4a7d-8045-a7e8732b963c",
+  "note": "matched",
+  "wikidata_qid": "Q273022"
+ },
+ "valentines": {
+  "confidence": "medium",
+  "mbid": "6b1374c4-27ed-430c-b470-c40dd9ca5bd3",
+  "note": "matched",
+  "wikidata_qid": null
+ },
+ "valerie-carr": {
+  "confidence": "medium",
+  "mbid": "57386d14-550e-4869-aec7-93ebef26553c",
+  "note": "matched",
+  "wikidata_qid": "Q7911251"
+ },
+ "varetta-dillard": {
+  "confidence": "high",
+  "mbid": "490dfe0e-d0da-4bc6-9e00-76d71c129e00",
+  "note": "matched",
+  "wikidata_qid": "Q537878"
+ },
+ "velma-middleton": {
+  "confidence": "high",
+  "mbid": "86107898-3fdd-495b-b04f-f733781a80c0",
+  "note": "matched",
+  "wikidata_qid": "Q532894"
+ },
+ "velours": {
+  "confidence": "medium",
+  "mbid": "3c9ed264-131d-4dac-b939-50954f886590",
+  "note": "matched",
+  "wikidata_qid": null
+ },
+ "vibrations": {
+  "confidence": "high",
+  "mbid": "1735e037-f976-4f65-ac5d-ceb3394ff6d8",
+  "note": "matched",
+  "wikidata_qid": null
+ },
+ "vickie-nelson": {
+  "confidence": "medium",
+  "mbid": "66efe36d-105a-46a6-8f09-2d2c0c56257b",
+  "note": "matched",
+  "wikidata_qid": null
+ },
+ "vivian-harris": {
+  "confidence": "medium",
+  "mbid": "03bca4da-cbf1-4c81-b53a-3125550e373c",
+  "note": "matched",
+  "wikidata_qid": "Q107496210"
+ },
+ "wallace-brothers": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "walter-green": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "wanderers": {
+  "confidence": "medium",
+  "mbid": "9532f54d-1c3b-4c1a-8dc0-b1680d8f8304",
+  "note": "matched",
+  "wikidata_qid": null
+ },
+ "washboard-serenaders": {
+  "confidence": "medium",
+  "mbid": "0d812f25-1785-4d09-b353-060b87a72e65",
+  "note": "matched",
+  "wikidata_qid": null
+ },
+ "wild-bill-davis": {
+  "confidence": "high",
+  "mbid": "6b4a5233-1989-4f11-b1b3-78143e0db45d",
+  "note": "matched",
+  "wikidata_qid": "Q2570294"
+ },
+ "will-mastin-trio": {
+  "confidence": "high",
+  "mbid": "188c1ce9-5142-4e0d-bbcb-796415de4464",
+  "note": "matched",
+  "wikidata_qid": "Q4019879"
+ },
+ "willie-bryant": {
+  "confidence": "high",
+  "mbid": "01170d85-09ea-4323-89b1-8f89d6e27631",
+  "note": "matched",
+  "wikidata_qid": "Q730199"
+ },
+ "willie-jackson": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "willie-lewis": {
+  "confidence": null,
+  "mbid": null,
+  "note": "no matching candidate",
+  "wikidata_qid": null
+ },
+ "willie-mabon": {
+  "confidence": "high",
+  "mbid": "c7d44e77-aec9-4f98-b8ba-84b8ca4d2447",
+  "note": "matched",
+  "wikidata_qid": "Q352685"
+ },
+ "willie-mae-thornton": {
+  "confidence": "high",
+  "mbid": null,
+  "note": "matched",
+  "wikidata_qid": "Q237527"
+ },
+ "willis-jackson": {
+  "confidence": "high",
+  "mbid": "826a05c0-d560-4411-a39b-2d6d50a2acc6",
+  "note": "matched",
+  "wikidata_qid": "Q923594"
+ },
+ "wilton-crawley": {
+  "confidence": "high",
+  "mbid": "375b0683-4037-4ee3-831b-3b2e3e92af8b",
+  "note": "matched",
+  "wikidata_qid": "Q2582648"
+ },
+ "wini-brown": {
+  "confidence": "high",
+  "mbid": "bfd64dfd-f5ff-48c7-97b2-2e194bf372ef",
+  "note": "matched",
+  "wikidata_qid": "Q28466179"
+ },
+ "wynonie-harris": {
+  "confidence": "high",
+  "mbid": "8f852f3d-7ebd-4177-9a06-dbde10533563",
+  "note": "matched",
+  "wikidata_qid": "Q326649"
+ }
+}

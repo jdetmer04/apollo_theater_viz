@@ -1,0 +1,18 @@
+# Hand decisions on candidate clusters surfaced after the LLM pass.
+merge:
+  - {canonical: Willie Bryant, variants: [Willie Bryand]}
+  - {canonical: Jimmie Lunceford, variants: [Jimmy Lunceford]}
+  - {canonical: Charlie Barnet, variants: [Charles Barnet]}
+  - {canonical: Illinois Jacquet, variants: [Illinois Jaquet]}
+  - {canonical: Paul Williams, variants: [Paul Willaims]}
+  - {canonical: Ivie Anderson, variants: [Ovie Anderson]}
+  - {canonical: Dud Bascomb, variants: [Dud Bascom]}
+  - {canonical: Trummy Young, variants: ["Trummy Young's"]}
+  - {canonical: Eddie Durham, variants: [Eddie Duram]}
+  - {canonical: Eddie Durham & His All-Girl Band, variants: [Eddie Durham & His All-Girl, Eddie Durham All-Girl, Eddie Durham All-Girl Band]}
+  - {canonical: Gene Krupa, variants: [Kene Krupa]}
+keep_separate:
+  - [Freddie Robinson, Eddie Robinson]
+  - [Howard Brothers, Hardy Brothers]
+  - [Bella Johnson, Bill Johnson]
+  - [Eddie Durham, Eddie Durham & His All-Girl Band]
